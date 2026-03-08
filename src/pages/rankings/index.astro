@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { rankingConfig } from '../../lib/rankings';
+
+const rankings = Object.entries(rankingConfig);
+---
+
+<BaseLayout
+  title="Power Fantasy Rankings"
+  description="All Fantasy Ranked lists — top power fantasy, system apocalypse, isekai, and new releases."
+>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <p class="text-sm font-semibold text-[#f59e0b] uppercase tracking-wider mb-2">Rankings</p>
+    <h1 class="text-3xl font-bold text-white mb-2">All Rankings</h1>
+    <p class="text-[#888] mb-8">Ranked lists across power fantasy, system apocalypse, isekai, and harem fiction. Updated weekly.</p>
+
+    <div class="space-y-3">
+      {rankings.map(([slug, config]) => (
+        <a
+          href={`/rankings/${slug}`}
+          class="flex items-center justify-between bg-[#1a1a1a] border border-[#2e2e2e] hover:border-[#f59e0b]/40 rounded-lg px-5 py-4 transition-colors group"
+        >
+          <div>
+            <p class="font-semibold text-white group-hover:text-[#f59e0b] transition-colors">{config.title}</p>
+            <p class="text-sm text-[#666] mt-0.5">{config.description.slice(0, 80)}…</p>
+          </div>
+          <span class="text-[#f59e0b] ml-4 shrink-0">→</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

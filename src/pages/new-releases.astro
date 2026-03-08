@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BookCard from '../components/BookCard.astro';
+import { getRecentBooks } from '../lib/api';
+
+const [litrpgBooks, haremBooks] = await Promise.all([
+  getRecentBooks({ days: 60, limit: 50, source: 'litrpg' }),
+  getRecentBooks({ days: 60, limit: 30, source: 'harem' }),
+]);
+
+const thisMonth = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+---
+
+<BaseLayout
+  title={`New Power Fantasy Releases — ${thisMonth}`}
+  description="The latest LitRPG, progression fantasy, system apocalypse, and harem fantasy releases. Updated regularly from our database."
+>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <p class="text-sm font-semibold text-[#f59e0b] uppercase tracking-wider mb-2">New Releases</p>
+    <h1 class="text-3xl font-bold text-white mb-2">New Power Fantasy Releases</h1>
+    <p class="text-[#888] mb-10">Recently added books across LitRPG, progression fantasy, system apocalypse, and harem fiction.</p>
+
+    <!-- LitRPG / Progression Fantasy -->
+    <section class="mb-12">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-lg font-bold text-white">LitRPG &amp; Progression Fantasy</h2>
+        <a href="/rankings/new-litrpg-releases" class="text-xs text-[#f59e0b] hover:underline">Full list →</a>
+      </div>
+      <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4">
+        {litrpgBooks.length > 0 ? (
+          litrpgBooks.map(book => <BookCard book={book} showDescription={true} />)
+        ) : (
+          <p class="py-8 text-center text-[#666]">No recent releases found.</p>
+        )}
+      </div>
+    </section>
+
+    <!-- Harem Fantasy -->
+    {haremBooks.length > 0 && (
+      <section>
+        <div class="flex items-center justify-between mb-4">
+          <h2 class="text-lg font-bold text-white">Harem &amp; Men's Fantasy</h2>
+          <a href="/rankings/new-harem-fantasy-releases" class="text-xs text-[#f59e0b] hover:underline">Full list →</a>
+        </div>
+        <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4">
+          {haremBooks.map(book => <BookCard book={book} showDescription={true} />)}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>
