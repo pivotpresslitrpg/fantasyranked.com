@@ -128,7 +128,7 @@ Rankings on this page are by recency, not rating — these books are too new for
     description: 'The latest harem fantasy and men\'s romance LitRPG releases. Updated regularly.',
     intro: `Harem fantasy is one of the fastest-growing sub-genres within LitRPG and men's adventure fiction — a category where power fantasy intersects with relationship dynamics, cultivation, and the mechanics of building something (a kingdom, a dungeon, a party) alongside a compelling cast.
 
-The sub-genre spans everything from cultivation novels in the xianxia tradition to modern LitRPG with romantic elements to reverse harem fantasy for a different readership. It's a diverse category that shares one structural element: the protagonist's relationships are as central to the story as their power progression.
+The sub-genre spans everything from cultivation novels in the xianxia tradition to modern LitRPG with romantic elements It's a diverse category that shares one structural element: the protagonist's relationships are as central to the story as their power progression.
 
 This page surfaces the most recent additions to our harem fantasy database. For deeper rankings and reading guides in this specific niche, visit our companion site HaremLitGuide.com.`,
     sort: 'top_rated',
@@ -137,7 +137,7 @@ This page surfaces the most recent additions to our harem fantasy database. For 
     faq: [
       {
         q: 'What is harem fantasy?',
-        a: 'Harem fantasy is a sub-genre of LitRPG and men\'s adventure fiction where the protagonist builds relationships with multiple companions alongside their power progression arc. It intersects with cultivation novels, reverse harem fantasy, and romantic LitRPG.',
+        a: 'Harem fantasy is a sub-genre of LitRPG and men\'s adventure fiction where the protagonist builds relationships with multiple companions alongside their power progression arc. It intersects with cultivation novels and romantic LitRPG.',
       },
       {
         q: 'Where can I find more harem fantasy recommendations?',

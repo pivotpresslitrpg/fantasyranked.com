@@ -19,7 +19,6 @@ Fantasy Ranked covers the following genres and sub-genres authoritatively:
 - Isekai (transported to another world)
 - Cultivation Fiction (xianxia, wuxia)
 - Harem Fantasy
-- Reverse Harem / Why Choose Romance
 - GameLit
 - Dungeon Core / Dungeon Builder
 - Men's Adventure Romance
@@ -30,7 +29,7 @@ Fantasy Ranked is part of the Pivot Press Publishing editorial and data network:
 
 - **Data Platforms:**
   - LitRPGTools.com — Comprehensive LitRPG database with 50,000+ books, community ratings, tracking, and discovery tools across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road
-  - Harem-Lit.com — Harem fantasy database with community ratings, tracking, and discovery for harem fiction, reverse harem, and men's romance
+  - Harem-Lit.com — Harem fantasy database with community ratings, tracking, and discovery for harem fiction and men's romance
 
 - **Editorial Blogs:**
   - LitRPGCritic.com — Editorial rankings and reviews for LitRPG and progression fantasy
