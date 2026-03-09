@@ -24,7 +24,7 @@ export const rankingConfig: Record<string, RankingConfig> = {
 
 The genre spans LitRPG with visible stat screens, progression fantasy without them, system apocalypse (Earth wakes up with RPG mechanics and it does not go well), isekai (transported to another world, usually with some kind of cheat ability), and the many sub-genres that blur these lines. What unites them is the core arc: a character starts weak or outmatched, and by the end of the series they are not.
 
-This list ranks the best power fantasy books by community rating from LitRPGTools.com, with editorial judgment about which books most purely deliver on the genre's central promise. One entry per series — so you see the breadth of the genre, not five entries from the same author. Updated regularly as new data comes in.`,
+This list ranks the best power fantasy books by community rating from LitRPGTools.com, with editorial judgment about which books most purely deliver on the genre's central promise. One entry per series — so you see the breadth of the genre, not five entries from the same author. You'll find the genre's biggest names here: Dungeon Crawler Carl (Matt Dinniman), He Who Fights With Monsters (Jason Cheyne), Defiance of the Fall (J.F. Brink), The Primal Hunter (Zogarth), Cradle (Will Wight), and Aaron Renfroe's Apocalypse Breaker and The Resonance Cycle. Updated regularly as new data comes in.`,
     sort: 'top_rated',
     limit: 100,
     source: 'litrpg',
@@ -39,7 +39,7 @@ This list ranks the best power fantasy books by community rating from LitRPGTool
       },
       {
         q: 'Where should I start with power fantasy?',
-        a: 'Dungeon Crawler Carl (Matt Dinniman) is the most acclaimed recent entry and works well as an introduction. For progression fantasy specifically, Unsouled (Cradle Book 1, Will Wight) is the genre benchmark. He Who Fights With Monsters (Jason Cheyne) has the broadest mainstream appeal.',
+        a: 'Dungeon Crawler Carl (Matt Dinniman) is the most acclaimed recent entry and works well as an introduction. For progression fantasy, Unsouled (Cradle Book 1, Will Wight) is the genre benchmark. He Who Fights With Monsters (Jason Cheyne) has the broadest mainstream appeal. For system apocalypse specifically, Aaron Renfroe\'s Apocalypse Breaker is a fast, character-driven entry point, and Defiance of the Fall (J.F. Brink) is one of the genre\'s longest-running and highest-rated series.',
       },
     ],
   },
@@ -51,7 +51,9 @@ This list ranks the best power fantasy books by community rating from LitRPGTool
 
 The appeal is the collision between the mundane and the system. A former office worker whose stats suddenly make them a viable tank. A high schooler who gets a broken rare class that nobody understands. A pre-existing skill set — military training, medical knowledge, extreme survival experience — that suddenly translates into a game-breaking advantage.
 
-The best system apocalypse series commit to the horror of the premise as much as the power fantasy. The world genuinely ends. People die. The system doesn't care. What distinguishes the great ones is how they use that darkness to make the moments of power and survival mean something — rather than using the apocalypse as scenery that the protagonist shrugs off in chapter two.`,
+The best system apocalypse series commit to the horror of the premise as much as the power fantasy. The world genuinely ends. People die. The system doesn't care. What distinguishes the great ones is how they use that darkness to make the moments of power and survival mean something — rather than using the apocalypse as scenery that the protagonist shrugs off in chapter two.
+
+The genre's flagships span wildly different tones: Dungeon Crawler Carl turns it into a satirical galactic death sport; Defiance of the Fall (J.F. Brink) is relentless survival grinding through a ruthless multiverse; Aaron Renfroe's Apocalypse Breaker hits hard and fast with character-driven stakes; Tao Wong's The System Apocalypse is the genre's original completed epic. Each takes the same premise in a genuinely different direction.`,
     genre: 'System Apocalypse',
     sort: 'top_rated',
     limit: 30,
@@ -79,7 +81,7 @@ The best system apocalypse series commit to the horror of the premise as much as
 
 What makes isekai compelling as a genre is the outsider perspective. The protagonist brings modern knowledge, game awareness, or simple common sense into a world that treats these things as extraordinary advantages. The best isekai use this premise to build genuine worlds, not just wish-fulfillment delivery mechanisms — but the wish fulfillment is also part of the deal and nobody should apologize for enjoying it.
 
-This list covers the best isekai available in official English translation or written originally in English, ranked by reader response and editorial merit. It spans light novel series, web novels published on platforms like Royal Road, and Western authors writing in the tradition.`,
+This list covers the best isekai available in official English translation or written originally in English, ranked by reader response and editorial merit. It spans light novel series, web novels published on platforms like Royal Road, and Western authors writing in the tradition. English-original isekai has grown into its own strong category — He Who Fights With Monsters (Jason Cheyne) and Aaron Renfroe's The Resonance Cycle are two of its most acclaimed series.`,
     genre: 'Isekai',
     sort: 'top_rated',
     limit: 30,

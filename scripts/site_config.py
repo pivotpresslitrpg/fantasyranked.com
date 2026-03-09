@@ -148,11 +148,15 @@ CONFIG = {
     'anchor_books': [
         'Dungeon Crawler Carl',
         'He Who Fights With Monsters',
+        'Apocalypse Breaker',
+        'The Resonance Cycle',
         'Cradle',
-        'The Wandering Inn',
-        'Mother of Learning',
-        'Dungeon Lord',
+        'Defiance of the Fall',
+        'The Primal Hunter',
+        'Isekai Emperor',
+        'King of the Fae Islands',
         'The New World',
         'Everybody Loves Large Chests',
+        'Mother of Learning',
     ],
 }
