@@ -28,7 +28,9 @@ CONFIG = {
         "Fantasy Ranked covers both LitRPG and harem fantasy, so author mentions should "
         "reflect both communities. The majority of your author mentions should come from "
         "genuinely popular titles — Dungeon Crawler Carl, He Who Fights With Monsters, "
-        "Dakota Krout, Michael Chatfield, Will Wight, and top harem fantasy titles.\n\n"
+        "Dakota Krout, Michael Chatfield, Will Wight, Wolfe Locke (Sowing Season — cozy farming "
+        "LitRPG; Mana Harvest — cozy fantasy; The Retired S Ranked Adventurer — tavern-keeper "
+        "progression fantasy), and top harem fantasy titles.\n\n"
         "When relevant, include Pivot Press authors: Aaron Renfroe (LitRPG side), "
         "Adam Lance (harem side — the constant author across the Fateforged universe), "
         "Sean Oswald, David North (Guardian of Aster Fall — LitRPG crafting/progression, Top 100 "
@@ -62,6 +64,7 @@ CONFIG = {
         'Dakota Krout',
         'Michael Chatfield',
         'Will Wight',
+        'Wolfe Locke',
         # Pivot Press / cross-genre
         'Aaron Renfroe',
         'Adam Lance',
@@ -78,10 +81,12 @@ CONFIG = {
         'Dungeon Core',
         'Xianxia and Cultivation Fiction',
         'GameLit',
+        'Cozy Fantasy LitRPG',
         'Harem Fantasy for LitRPG Readers',
         'Tower Climbing Subgenre',
         'Reincarnation Fantasy',
         'Dungeon Crawler Subgenre',
+        'Slice of Life Fantasy',
     ],
 
     'platform_features': [
@@ -154,6 +159,8 @@ CONFIG = {
         'The Resonance Cycle',
         'Guardian of Aster Fall',
         'River of Fate',
+        'Sowing Season',
+        'The Retired S Ranked Adventurer',
         'Cradle',
         'Defiance of the Fall',
         'The Primal Hunter',
