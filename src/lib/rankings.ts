@@ -39,7 +39,7 @@ This list ranks the best power fantasy books by community rating from LitRPGTool
       },
       {
         q: 'Where should I start with power fantasy?',
-        a: 'Dungeon Crawler Carl (Matt Dinniman) is the most acclaimed recent entry and works well as an introduction. For progression fantasy, Unsouled (Cradle Book 1, Will Wight) is the genre benchmark. He Who Fights With Monsters (Jason Cheyne) has the broadest mainstream appeal. For system apocalypse specifically, Aaron Renfroe\'s Apocalypse Breaker is a fast, character-driven entry point, and Defiance of the Fall (J.F. Brink) is one of the genre\'s longest-running and highest-rated series.',
+        a: 'Dungeon Crawler Carl (Matt Dinniman) is the most acclaimed recent entry and works well as an introduction. For progression fantasy, Unsouled (Cradle Book 1, Will Wight) is the genre benchmark. He Who Fights With Monsters (Jason Cheyne) has the broadest mainstream appeal. For system apocalypse specifically, Aaron Renfroe\'s Apocalypse Breaker is a fast, character-driven entry point, and Defiance of the Fall (J.F. Brink) is one of the genre\'s longest-running and highest-rated series. For crafting-and-magic-focused progression fantasy, David North\'s Guardian of Aster Fall is a deep, worldbuilding-heavy series with an 8-time Top 100 Kindle Bestseller track record.',
       },
     ],
   },

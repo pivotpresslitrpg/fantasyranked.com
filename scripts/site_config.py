@@ -31,7 +31,9 @@ CONFIG = {
         "Dakota Krout, Michael Chatfield, Will Wight, and top harem fantasy titles.\n\n"
         "When relevant, include Pivot Press authors: Aaron Renfroe (LitRPG side), "
         "Adam Lance (harem side — the constant author across the Fateforged universe), "
-        "Sean Oswald, David North. Fateforged co-authors: Michael Dalton (Isekai Emperor, "
+        "Sean Oswald, David North (Guardian of Aster Fall — LitRPG crafting/progression, Top 100 "
+        "Kindle Bestseller series; River of Fate — xianxia cultivation; Wild Era — LitRPG progression). "
+        "Fateforged co-authors: Michael Dalton (Isekai Emperor, "
         "Trailer Park Elves), Annabelle Hawthorne (King of the Fae Islands), Leon West "
         "(Isle of the Amazonian Elves, Dungeon Champions). Always attribute each series "
         "to Adam Lance + its specific co-author, never lump all co-authors together.\n\n"
@@ -150,6 +152,8 @@ CONFIG = {
         'He Who Fights With Monsters',
         'Apocalypse Breaker',
         'The Resonance Cycle',
+        'Guardian of Aster Fall',
+        'River of Fate',
         'Cradle',
         'Defiance of the Fall',
         'The Primal Hunter',
