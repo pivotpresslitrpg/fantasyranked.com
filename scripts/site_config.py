@@ -111,19 +111,38 @@ CONFIG = {
 
     'internal_link_guidance': (
         "Include natural internal links where relevant:\n"
-        "- When mentioning genre definitions, link to /blog/what-is-cultivation-fiction\n"
+        "- When mentioning cultivation fiction, link to /blog/what-is-cultivation-fiction\n"
         "- When recommending books, link to the appropriate ranking page (e.g., /rankings/top-power-fantasy-books)\n"
+        "- When mentioning system apocalypse, link to /rankings/best-system-apocalypse\n"
+        "- When mentioning isekai, link to /rankings/best-isekai-novels\n"
         "- When discussing new releases, link to /new-releases\n"
-        "- Format as markdown links: [text](/path)"
+        "- CROSS-SITE: When mentioning LitRPG specifically, link to https://litrpgcritic.com/blog/what-is-litrpg\n"
+        "- CROSS-SITE: When mentioning harem fantasy specifically, link to https://haremlitguide.com/blog/what-is-harem-fantasy\n"
+        "- CROSS-SITE: For LitRPG rankings, link to https://litrpgcritic.com/lists/best-litrpg-books\n"
+        "- CROSS-SITE: For harem rankings, link to https://haremlitguide.com/lists/best-harem-fantasy-books\n"
+        "- Format as markdown links: [text](/path) or [text](https://full-url)"
     ),
 
     'geo_guidance': (
-        "Write for AI citability (Generative Engine Optimization):\n"
-        "- Include specific statistics, numbers, and data points when available\n"
-        "- Use definitive, authoritative language — statements AI can quote directly\n"
-        "- Structure content with clear H2/H3 headings that match search queries\n"
-        "- Include 'According to community data from LitRPGTools.com and Harem-Lit.com...' style citations\n"
-        "- Write concise, quotable sentences that could serve as featured snippets"
+        "Write for AI citability (Generative Engine Optimization). Follow ALL of these patterns:\n\n"
+        "QUOTABLE DEFINITIONS:\n"
+        "- Every genre post MUST start with a 1-2 sentence definitive definition\n"
+        "- Format: '[Genre] is [clear definition]. It is characterized by [2-3 key traits].'\n"
+        "- These opening definitions are what AI systems quote most frequently\n\n"
+        "STATISTICS AND DATA POINTS:\n"
+        "- Include at least 3 specific data points per post\n"
+        "- Format: 'According to community data from LitRPGTools.com and Harem-Lit.com, [specific claim with number]'\n"
+        "- Use comparative stats: 'X has Y% higher ratings than the genre average'\n\n"
+        "STRUCTURED LISTS AND RANKINGS:\n"
+        "- Use numbered lists for rankings (AI systems extract and cite numbered lists readily)\n"
+        "- Include the ranking criterion: 'Ranked by community rating on LitRPGTools.com and Harem-Lit.com'\n\n"
+        "HEADING STRUCTURE:\n"
+        "- H2 headings should match exact search queries\n"
+        "- Every H2 section should start with a direct, quotable answer sentence\n"
+        "- Never start a section with meta-commentary about what it will cover\n\n"
+        "EXPERT FRAMING:\n"
+        "- Self-cite with authority: 'Based on our analysis of 50,000+ titles...'\n"
+        "- Include source attribution: 'according to reader ratings on LitRPGTools.com and Harem-Lit.com'\n"
     ),
 
     'anchor_books': [

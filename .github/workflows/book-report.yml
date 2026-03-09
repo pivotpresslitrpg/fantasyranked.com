@@ -35,5 +35,7 @@ jobs:
           NEW_FILE=$(git diff --name-only HEAD~1 HEAD -- 'src/content/' | head -1)
           if [ -n "$NEW_FILE" ]; then
             SLUG=$(basename "$NEW_FILE" .md)
-            curl -s "https://api.indexnow.org/indexnow?url=https://fantasyranked.com/blog/${SLUG}/&key=fr4a9c1d6e3b8f2h" || true
+            curl -s -X POST "https://api.indexnow.org/indexnow" \
+              -H "Content-Type: application/json; charset=utf-8" \
+              -d "{\"host\":\"fantasyranked.com\",\"key\":\"fr4a9c1d6e3b8f2h\",\"urlList\":[\"https://fantasyranked.com/blog/${SLUG}/\",\"https://fantasyranked.com/blog/\",\"https://fantasyranked.com/sitemap-index.xml\"]}" || true
           fi

@@ -43,6 +43,64 @@ PILLAR_TOPICS = [
             'Can I enjoy cultivation fiction without knowing Chinese mythology?',
         ],
     },
+    {
+        'title': 'What is Power Fantasy? The Ultimate Guide to Power Fantasy Fiction',
+        'slug': 'what-is-power-fantasy',
+        'description': 'What is power fantasy fiction? The definitive guide to the genre — what makes it, how it differs from other fantasy, the best books, and why readers love overpowered protagonists.',
+        'word_count': '2500-3000',
+        'focus': 'Power Fantasy',
+        'internal_links': [
+            {'url': '/rankings/top-power-fantasy-books', 'text': 'Top Power Fantasy Books'},
+            {'url': '/rankings/best-system-apocalypse', 'text': 'Best System Apocalypse Books'},
+            {'url': '/rankings/best-isekai-novels', 'text': 'Best Isekai Novels'},
+        ],
+        'faq_topics': [
+            'What is a power fantasy in fiction?',
+            'What is the difference between power fantasy and progression fantasy?',
+            'What are the best power fantasy books?',
+            'Is Dungeon Crawler Carl a power fantasy?',
+            'Where can I find power fantasy rankings?',
+        ],
+    },
+    {
+        'title': 'What is System Apocalypse? The Complete Guide to Apocalypse LitRPG',
+        'slug': 'what-is-system-apocalypse',
+        'description': 'What is system apocalypse fiction? A guide to apocalypse LitRPG — where game-like Systems descend on Earth, granting powers to survivors. Best books, tropes, and why it dominates the genre.',
+        'word_count': '2000-2500',
+        'focus': 'System Apocalypse',
+        'internal_links': [
+            {'url': '/rankings/best-system-apocalypse', 'text': 'Best System Apocalypse Books'},
+            {'url': '/rankings/top-power-fantasy-books', 'text': 'Top Power Fantasy Books'},
+            {'url': '/blog/what-is-cultivation-fiction', 'text': 'What is Cultivation Fiction?'},
+        ],
+        'faq_topics': [
+            'What is a system apocalypse novel?',
+            'How is system apocalypse different from regular LitRPG?',
+            'What are the best system apocalypse books?',
+            'What is the difference between system apocalypse and post-apocalyptic fiction?',
+            'Where can I find system apocalypse rankings?',
+        ],
+    },
+    {
+        'title': 'What is Isekai? The Complete Guide to Portal Fantasy and Transported-to-Another-World Fiction',
+        'slug': 'what-is-isekai',
+        'description': 'What is isekai? A complete guide to portal fantasy and transported-to-another-world fiction — its anime origins, English-language adaptations, best books, and connection to LitRPG.',
+        'word_count': '2500-3000',
+        'focus': 'Isekai',
+        'internal_links': [
+            {'url': '/rankings/best-isekai-novels', 'text': 'Best Isekai Novels'},
+            {'url': '/rankings/top-power-fantasy-books', 'text': 'Top Power Fantasy Books'},
+            {'url': '/blog/what-is-cultivation-fiction', 'text': 'What is Cultivation Fiction?'},
+        ],
+        'faq_topics': [
+            'What does isekai mean?',
+            'What is the difference between isekai and portal fantasy?',
+            'What are the best isekai novels in English?',
+            'Is isekai the same as LitRPG?',
+            'How did isekai become popular in Western fiction?',
+            'Where can I find isekai rankings and recommendations?',
+        ],
+    },
 ]
 
 
