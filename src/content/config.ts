@@ -10,6 +10,7 @@ const posts = defineCollection({
     author: z.string().default('Fantasy Ranked Editorial'),
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
   }),
 });
 

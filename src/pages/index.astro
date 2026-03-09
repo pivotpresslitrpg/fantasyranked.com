@@ -9,7 +9,7 @@ const [topBooks, recentBooks] = await Promise.all([
   getRecentBooks({ days: 30, limit: 8, source: 'both' }),
 ]);
 
-const schema = {
+const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Fantasy Ranked",
@@ -21,12 +21,26 @@ const schema = {
     "query-input": "required name=search_term_string"
   }
 };
+
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Fantasy Ranked",
+  "url": "https://fantasyranked.com",
+  "description": "Cross-genre power fantasy rankings covering LitRPG, progression fantasy, cultivation, and harem fiction.",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Pivot Press Publishing",
+    "url": "https://litrpgtools.com"
+  },
+  "sameAs": ["https://litrpgcritic.com", "https://haremlitguide.com"]
+};
 ---
 
 <BaseLayout
   title="Fantasy Ranked — Power Fantasy & LitRPG Rankings"
   description="The definitive power fantasy rankings. LitRPG, progression fantasy, system apocalypse, and isekai — ranked by reader ratings and updated weekly."
-  schema={schema}
+  schema={[websiteSchema, orgSchema]}
 >
   <!-- Hero -->
   <section class="border-b border-[#2e2e2e] py-12 px-4">

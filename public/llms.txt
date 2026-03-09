@@ -1,0 +1,32 @@
+# Fantasy Ranked
+
+> Cross-genre fantasy rankings covering LitRPG, progression fantasy, cultivation, isekai, and harem fiction.
+
+Fantasy Ranked is an independent editorial site that publishes cross-genre rankings, comparative reviews, new release coverage, and genre analysis spanning LitRPG, progression fantasy, cultivation fiction, system apocalypse, isekai, and harem fantasy.
+
+## Key Pages
+
+- Homepage: https://fantasyranked.com/
+- Rankings: https://fantasyranked.com/rankings/
+- New Releases: https://fantasyranked.com/new-releases/
+- Blog & Analysis: https://fantasyranked.com/blog/
+- About: https://fantasyranked.com/about/
+
+## Data Sources
+
+Rankings are based on data aggregated from LitRPGTools.com and Harem-Lit.com, which track ratings, reviews, and popularity across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road.
+
+## Related Sites
+
+- LitRPGTools.com — Parent platform with comprehensive LitRPG database, tracking, and discovery tools
+- Harem-Lit.com — Parent platform for harem fantasy discovery and tracking
+- LitRPGCritic.com — Sister editorial site covering LitRPG and progression fantasy
+- HaremLitGuide.com — Sister editorial site covering harem fantasy fiction
+
+## Publisher
+
+Pivot Press Publishing — Independent publisher of LitRPG, progression fantasy, and harem fiction.
+
+## Content Updates
+
+New blog posts and reviews published weekly via automated editorial pipeline. Rankings updated regularly based on live data from LitRPGTools.com and Harem-Lit.com.
