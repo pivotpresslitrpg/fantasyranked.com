@@ -87,6 +87,53 @@ function normalizeHarem(json: unknown): Book[] {
 }
 
 // ---------------------------------------------------------------------------
+// Deduplication helpers
+// ---------------------------------------------------------------------------
+
+/** Normalize a title for comparison: lowercase, strip punctuation, collapse whitespace. */
+function normalizeTitle(title: string): string {
+  return title.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+}
+
+/**
+ * Deduplicate books:
+ * 1. Remove exact title duplicates (cross-source) — keep higher-rated copy
+ * 2. Collapse series: keep only the best-rated entry per series_name
+ */
+function deduplicateBooks(books: Book[]): Book[] {
+  // Pass 1: deduplicate by normalized title
+  const titleMap = new Map<string, Book>();
+  for (const book of books) {
+    const key = normalizeTitle(book.title);
+    const existing = titleMap.get(key);
+    if (!existing || (book.average_rating ?? 0) > (existing.average_rating ?? 0)) {
+      titleMap.set(key, book);
+    }
+  }
+  const deduped = [...titleMap.values()];
+
+  // Pass 2: collapse series — keep only the best-rated entry per series
+  const seriesMap = new Map<string, Book>();
+  const result: Book[] = [];
+  for (const book of deduped) {
+    if (!book.series_name) {
+      result.push(book);
+      continue;
+    }
+    const seriesKey = book.series_name.toLowerCase().trim();
+    const existing = seriesMap.get(seriesKey);
+    if (!existing || (book.average_rating ?? 0) > (existing.average_rating ?? 0)) {
+      seriesMap.set(seriesKey, book);
+    }
+  }
+  result.push(...seriesMap.values());
+
+  // Re-sort by rating desc to maintain order after dedup
+  result.sort((a, b) => (b.average_rating ?? 0) - (a.average_rating ?? 0));
+  return result;
+}
+
+// ---------------------------------------------------------------------------
 // Public API
 // ---------------------------------------------------------------------------
 
@@ -99,7 +146,8 @@ export async function getBooks(options: {
 } = {}): Promise<Book[]> {
   const { source = 'litrpg', genre, sort, offset } = options;
   const requestedLimit = options.limit ?? 50;
-  const fetchLimit = Math.min(requestedLimit + 30, 200);
+  // Fetch extra to compensate for dedup removal
+  const fetchLimit = Math.min(requestedLimit + 50, 200);
 
   const params = new URLSearchParams();
   if (genre) params.set('genre', genre);
@@ -116,18 +164,18 @@ export async function getBooks(options: {
       ]);
       const litrpg = rA?.ok ? normalizeLitrpg(await rA.json()) : [];
       const harem  = rB?.ok ? normalizeHarem(await rB.json()) : [];
-      // Interleave: sort combined by rating desc
       const combined = [...litrpg, ...harem].sort(
         (a, b) => (b.average_rating ?? 0) - (a.average_rating ?? 0)
       );
-      return applyEditorialCuration(combined, genre).slice(0, requestedLimit);
+      const unique = deduplicateBooks(combined);
+      return applyEditorialCuration(unique, genre).slice(0, requestedLimit);
     }
 
     const base = source === 'harem' ? HAREM_API : LITRPG_API;
     const normalize = source === 'harem' ? normalizeHarem : normalizeLitrpg;
     const res = await feedFetch(base, `/api/blog-feed/books${qs}`);
     if (!res?.ok) return [];
-    const all = normalize(await res.json());
+    const all = deduplicateBooks(normalize(await res.json()));
     return applyEditorialCuration(all, genre).slice(0, requestedLimit);
   } catch { return []; }
 }

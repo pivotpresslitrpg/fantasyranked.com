@@ -16,11 +16,17 @@ if (!config) {
   return Astro.redirect('/rankings', 301);
 }
 
-// New release rankings use recent-books endpoint
+// New release rankings: try recent-books endpoint, fall back to regular sort=recent
 const isNewReleases = slug.startsWith('new-');
-const books = isNewReleases
-  ? await getRecentBooks({ days: 60, limit: config.limit, source: config.source })
-  : await getBooks({ genre: config.genre, sort: config.sort, limit: config.limit, source: config.source });
+let books: Awaited<ReturnType<typeof getBooks>>;
+if (isNewReleases) {
+  books = await getRecentBooks({ days: 90, limit: config.limit, source: config.source });
+  if (books.length === 0) {
+    books = await getBooks({ sort: 'recent', limit: config.limit, source: config.source });
+  }
+} else {
+  books = await getBooks({ genre: config.genre, sort: config.sort, limit: config.limit, source: config.source });
+}
 
 const listSchema = {
   "@context": "https://schema.org",

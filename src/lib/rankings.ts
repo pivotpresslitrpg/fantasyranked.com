@@ -24,10 +24,10 @@ export const rankingConfig: Record<string, RankingConfig> = {
 
 The genre spans LitRPG with visible stat screens, progression fantasy without them, system apocalypse (Earth wakes up with RPG mechanics and it does not go well), isekai (transported to another world, usually with some kind of cheat ability), and the many sub-genres that blur these lines. What unites them is the core arc: a character starts weak or outmatched, and by the end of the series they are not.
 
-This list is our broadest ranking — drawing from across the power fantasy spectrum, combining community ratings from LitRPGTools.com and Harem-Lit.com with editorial judgment about which books most purely deliver on the genre's central promise. Updated regularly as new data comes in.`,
+This list ranks the best power fantasy books by community rating from LitRPGTools.com, with editorial judgment about which books most purely deliver on the genre's central promise. One entry per series — so you see the breadth of the genre, not five entries from the same author. Updated regularly as new data comes in.`,
     sort: 'top_rated',
     limit: 100,
-    source: 'both',
+    source: 'litrpg',
     faq: [
       {
         q: 'What is power fantasy as a genre?',
