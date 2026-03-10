@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page Not Found — Fantasy Ranked"
+  description="The page you're looking for doesn't exist."
+>
+  <div class="max-w-xl mx-auto px-4 py-24 text-center">
+    <h1 class="text-5xl font-bold text-white mb-4">404</h1>
+    <p class="text-lg text-[#888] mb-8">The page you're looking for doesn't exist or has moved.</p>
+    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+      <a href="/" class="px-5 py-2.5 bg-[#f59e0b] text-black rounded font-medium hover:opacity-90 transition-opacity">Back to Home</a>
+      <a href="/rankings" class="px-5 py-2.5 border border-[#2e2e2e] text-[#ccc] rounded font-medium hover:text-white transition-colors">Browse Rankings</a>
+      <a href="/blog" class="px-5 py-2.5 border border-[#2e2e2e] text-[#ccc] rounded font-medium hover:text-white transition-colors">Read the Blog</a>
+    </div>
+  </div>
+</BaseLayout>

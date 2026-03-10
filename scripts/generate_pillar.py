@@ -188,7 +188,7 @@ def write_pillar(topic: dict, content: str):
         'date': today,
         'type': 'pillar',
         'author': CONFIG['author'],
-        'tags': ['cultivation', 'xianxia', 'guide', 'genre-explainer'],
+        'tags': [topic['focus'].lower(), 'guide', 'genre-explainer'],
         'featured': True,
     }
     if faq:

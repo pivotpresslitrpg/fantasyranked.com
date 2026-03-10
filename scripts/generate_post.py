@@ -97,6 +97,29 @@ def fetch_recent_books(days=30, limit=20) -> list:
         return []
 
 
+def fetch_books_harem(sort='top_rated', limit=20) -> list:
+    """Fetch books from the harem-lit API for cross-genre comparison."""
+    api_key = os.environ.get('BLOG_FEED_API_KEY', '')
+    if not api_key:
+        return []
+    params = {'limit': str(limit), 'sort': sort}
+    try:
+        resp = requests.get(
+            'https://api.harem-lit.com/api/blog-feed/books',
+            headers={'X-Blog-Feed-Key': api_key},
+            params=params,
+            timeout=15
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        if isinstance(data, list):
+            return data
+        return data.get('items', data.get('data', []))
+    except Exception as e:
+        print(f"Warning: failed to fetch harem books: {e}")
+        return []
+
+
 def format_book_list(books: list, max_books=15) -> str:
     if not books:
         return "(no book data available — use your knowledge of the genre)"
@@ -426,7 +449,7 @@ Writing requirements:
 def gen_cross_genre(state: dict) -> dict:
     """Fantasy Ranked only — cross-genre comparison pieces."""
     books_litrpg = fetch_books(sort='top_rated', limit=12)
-    books_harem = fetch_books(sort='top_rated', limit=12)
+    books_harem = fetch_books_harem(sort='top_rated', limit=12)
 
     prompt = f"""You are writing an editorial blog post for {CONFIG['site_name']}.
 
@@ -559,6 +582,24 @@ def slugify(title: str) -> str:
     return s[:80]
 
 
+def clean_response(text: str) -> str:
+    """Strip code fences and duplicate H1 from Claude's response."""
+    # Remove code-fence-wrapped frontmatter: ```yaml\n---\n...\n---\n```
+    text = re.sub(r'```(?:yaml|yml)?\s*\n(---\n.*?\n---)\s*\n```', r'\1', text, count=1, flags=re.DOTALL)
+    # Remove any leading H1 that duplicates the frontmatter title
+    m = re.search(r'title:\s*["\']?([^"\'\n]+)["\']?', text)
+    if m:
+        title = m.group(1).strip()
+        # Strip leading "# Title" line after frontmatter closing ---
+        text = re.sub(
+            r'(---\s*\n)\s*#\s+' + re.escape(title) + r'\s*\n',
+            r'\1\n',
+            text,
+            count=1,
+        )
+    return text
+
+
 def call_claude(prompt: str) -> str:
     # Inject GEO and internal link guidance into every prompt
     extra = ''
@@ -566,6 +607,12 @@ def call_claude(prompt: str) -> str:
         extra += f"\n\n{CONFIG['geo_guidance']}"
     if CONFIG.get('internal_link_guidance'):
         extra += f"\n\n{CONFIG['internal_link_guidance']}"
+    extra += (
+        "\n\nCRITICAL FORMATTING RULES:\n"
+        "- Output raw markdown ONLY. Do NOT wrap anything in code fences (no ``` blocks).\n"
+        "- Do NOT include an H1 heading (# Title) in the body. The title comes from frontmatter only.\n"
+        "- Start body content directly with the opening paragraph after the closing ---."
+    )
     full_prompt = prompt + extra
 
     print("Calling Claude API...")
@@ -574,7 +621,7 @@ def call_claude(prompt: str) -> str:
         max_tokens=2200,
         messages=[{'role': 'user', 'content': full_prompt}]
     )
-    return resp.content[0].text
+    return clean_response(resp.content[0].text)
 
 
 def extract_title(content: str) -> str:
