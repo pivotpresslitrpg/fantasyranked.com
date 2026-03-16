@@ -56,10 +56,10 @@ const orgSchema = {
         LitRPG, progression fantasy, system apocalypse, isekai, and harem fantasy — all in one place. Updated weekly from community ratings.
       </p>
       <div class="flex flex-wrap gap-3 mt-6">
-        <a href="/rankings" class="bg-[#f59e0b] hover:bg-[#d97706] text-black font-semibold px-5 py-2.5 rounded transition-colors">
+        <a href="/rankings/" class="bg-[#f59e0b] hover:bg-[#d97706] text-black font-semibold px-5 py-2.5 rounded transition-colors">
           Browse Rankings
         </a>
-        <a href="/new-releases" class="border border-[#2e2e2e] hover:border-[#f59e0b]/50 text-[#888] hover:text-white px-5 py-2.5 rounded font-medium transition-colors">
+        <a href="/new-releases/" class="border border-[#2e2e2e] hover:border-[#f59e0b]/50 text-[#888] hover:text-white px-5 py-2.5 rounded font-medium transition-colors">
           New Releases
         </a>
       </div>
@@ -76,7 +76,7 @@ const orgSchema = {
         <section>
           <div class="flex items-center justify-between mb-5">
             <h2 class="text-xl font-bold text-white">Recent Additions</h2>
-            <a href="/new-releases" class="text-sm text-[#f59e0b] hover:underline">See all →</a>
+            <a href="/new-releases/" class="text-sm text-[#f59e0b] hover:underline">See all →</a>
           </div>
           <div class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg px-4">
             {recentBooks.map(book => (
@@ -91,11 +91,11 @@ const orgSchema = {
         <h2 class="text-xl font-bold text-white mb-5">Browse by Category</h2>
         <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
           {[
-            { label: 'Power Fantasy', href: '/rankings/top-power-fantasy-books' },
-            { label: 'System Apocalypse', href: '/rankings/best-system-apocalypse' },
-            { label: 'Isekai', href: '/rankings/best-isekai-novels' },
-            { label: 'New LitRPG', href: '/rankings/new-litrpg-releases' },
-            { label: 'Harem Fantasy', href: '/rankings/new-harem-fantasy-releases' },
+            { label: 'Power Fantasy', href: '/rankings/top-power-fantasy-books/' },
+            { label: 'System Apocalypse', href: '/rankings/best-system-apocalypse/' },
+            { label: 'Isekai', href: '/rankings/best-isekai-novels/' },
+            { label: 'New LitRPG', href: '/rankings/new-litrpg-releases/' },
+            { label: 'Harem Fantasy', href: '/rankings/new-harem-fantasy-releases/' },
           ].map(({ label, href }) => (
             <a
               href={href}
@@ -113,7 +113,7 @@ const orgSchema = {
       <section class="bg-[#1a1a1a] border border-[#2e2e2e] rounded-lg p-5">
         <div class="flex items-center justify-between mb-4">
           <h2 class="font-bold text-white">Top Ranked</h2>
-          <a href="/rankings/top-power-fantasy-books" class="text-xs text-[#f59e0b] hover:underline">Full list →</a>
+          <a href="/rankings/top-power-fantasy-books/" class="text-xs text-[#f59e0b] hover:underline">Full list →</a>
         </div>
         {topBooks.length > 0 ? (
           <div class="divide-y divide-[#2e2e2e]">

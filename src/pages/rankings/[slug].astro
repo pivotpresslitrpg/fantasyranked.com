@@ -13,7 +13,7 @@ const { slug } = Astro.params;
 const config = rankingConfig[slug];
 
 if (!config) {
-  return Astro.redirect('/rankings', 301);
+  return Astro.redirect('/rankings/', 301);
 }
 
 // New release rankings: try recent-books endpoint, fall back to regular sort=recent
@@ -62,7 +62,7 @@ const faqSchema = config.faq?.length ? {
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} slot="head-extra" />}
 
   <div class="max-w-3xl mx-auto px-4 py-10">
-    <a href="/rankings" class="text-sm text-[#555] hover:text-[#f59e0b] transition-colors">← All Rankings</a>
+    <a href="/rankings/" class="text-sm text-[#555] hover:text-[#f59e0b] transition-colors">← All Rankings</a>
 
     <p class="text-sm font-semibold text-[#f59e0b] uppercase tracking-wider mt-4 mb-2">
       {isNewReleases ? 'New Releases' : 'Ranked List'}
@@ -119,7 +119,7 @@ const faqSchema = config.faq?.length ? {
           .slice(0, 5)
           .map(([s, c]) => (
             <li>
-              <a href={`/rankings/${s}`} class="text-[#888] hover:text-[#f59e0b] transition-colors">{c.title}</a>
+              <a href={`/rankings/${s}/`} class="text-[#888] hover:text-[#f59e0b] transition-colors">{c.title}</a>
             </li>
           ))}
       </ul>
