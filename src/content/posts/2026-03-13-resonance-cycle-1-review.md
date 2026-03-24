@@ -1,15 +1,4 @@
 ---
-title: "Divine Invasion (The Resonance Cycle Book 1) Review"
-description: "An editorial review of Divine Invasion (The Resonance Cycle Book 1) by Aaron Renfroe"
-date: "2026-03-13"
-type: "book_report"
-author: "Fantasy Ranked Editorial"
-tags: ["The Resonance Cycle", "Aaron Renfroe"]
-featured: true
----
-
-```yaml
----
 title: "Divine Invasion Review: The LitRPG Series That Takes Progression Fantasy Back to Its Roots"
 description: "Divine Invasion by Aaron Renfroe is a grounded, methodical LitRPG debut that earns its power fantasy cred through character-first worldbuilding."
 date: "2026-03-13"
@@ -18,9 +7,6 @@ author: "Fantasy Ranked Editorial"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "action RPG"]
 featured: true
 ---
-```
-
-# Divine Invasion Review: The LitRPG Series That Takes Progression Fantasy Back to Its Roots
 
 [LitRPG is a subgenre of speculative fiction in which characters experience the world through game-like systems — stats, levels, skill trees, and quantified progression.](https://litrpgcritic.com/blog/what-is-litrpg) It is characterized by explicit system mechanics, deliberate character builds, and a narrative structure that rewards strategic thinking as much as action.
 
