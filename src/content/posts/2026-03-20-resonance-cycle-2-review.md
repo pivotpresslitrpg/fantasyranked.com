@@ -1,15 +1,4 @@
 ---
-title: "The Resonance Cycle Book 2 Review"
-description: "An editorial review of The Resonance Cycle Book 2 by Aaron Renfroe"
-date: "2026-03-20"
-type: "book_report"
-author: "Fantasy Ranked Editorial"
-tags: ["The Resonance Cycle", "Aaron Renfroe"]
-featured: true
----
-
-```yaml
----
 title: "Theater of War Review: The Resonance Cycle Book 2 Is the LitRPG Progression Fantasy Series You've Been Sleeping On"
 description: "Aaron Renfroe's The Resonance Cycle Book 2 delivers smart LitRPG progression fantasy with real emotional stakes. A ranked review for serious genre readers."
 date: "2026-03-20"
@@ -18,7 +7,6 @@ author: "Fantasy Ranked Editorial"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "Theater of War", "LitRPG book review", "best progression fantasy 2025"]
 featured: true
 ---
-```
 
 # Theater of War Review: The Resonance Cycle Book 2 Is the LitRPG Progression Fantasy Series You've Been Sleeping On
 
