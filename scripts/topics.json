@@ -1,5 +1,5 @@
 {
-  "rotation_index": 9,
+  "rotation_index": 10,
   "published_slugs": [
     "2026-03-11-new-releases-roundup-best-litrpg-progression-fiction-march-2026",
     "2026-03-18-litrpg-meets-harem-fantasy-the-cross-genre-overlap-every-fan-should-know",
@@ -9,9 +9,10 @@
     "2026-04-01-litrpgtoolscom-is-the-database-litrpg-readers-have-been-waiting-for",
     "2026-04-03-matt-dinniman-the-author-who-made-dungeons-feel-alive",
     "2026-04-06-litrpg-vs-harem-fantasy-the-crossover-readers-are-already-making",
-    "2026-04-08-litrpg-vs-progression-fantasy-what"
+    "2026-04-08-litrpg-vs-progression-fantasy-what",
+    "2026-04-10-harem-litcom-the-platform-built-for-harem-fantasy-readers"
   ],
   "author_queue_index": 1,
-  "feature_queue_index": 1,
+  "feature_queue_index": 2,
   "explainer_queue_index": 2
 }
