@@ -10,14 +10,14 @@ faq:
   - q: "Is LitRPG going mainstream in 2026?"
     a: "Yes, by several measurable indicators. Dungeon Crawler Carl has sold 6M+ copies, has a TV adaptation in development, and Matt Dinniman reported at ECCC 2026 holding 8 of the top 15 spots on the NYT Monthly Audio bestseller list. Path of Ascension has a Simon & Schuster light novel deal. These are external validation signals for a genre that has had massive readership for a decade."
   - q: "What are the biggest LitRPG releases of 2026?"
-    a: "Based on anticipation signals tracked across LitRPGTools.com and Harem-Lit.com, the top 2026 releases are: Dungeon Crawler Carl 8 (May 26, highest anticipation in the genre), Chrysalis 8 (March 18, strong reception), Primal Hunter 15 (March 25), Path of Ascension 11 (March 2026), and Andy in the Apocalypse by Plum Parrot (April 7, high anticipated from Victor of Tucson author)."
+    a: "Based on anticipation signals tracked across LitRPGTools.com and Harem-Lit.com, the top 2026 releases are: Dungeon Crawler Carl 8 (May 12, highest anticipation in the genre), Chrysalis 8 (March 18, strong reception), Primal Hunter 15 (March 25), Path of Ascension 11 (March 2026), and Andy in the Apocalypse by Plum Parrot (April 7, high anticipated from Victor of Tucson author)."
   - q: "Which LitRPG series should I start in 2026?"
-    a: "For first-time readers: Dungeon Crawler Carl (Books 1-7 available now, Book 8 May 26). For readers who've finished DCC: Primal Hunter, He Who Fights with Monsters, or Path of Ascension depending on whether you want more system-dense, xianxia-hybrid, or pure power-fantasy experiences."
+    a: "For first-time readers: Dungeon Crawler Carl (Books 1-7 available now, Book 8 May 12). For readers who've finished DCC: Primal Hunter, He Who Fights with Monsters, or Path of Ascension depending on whether you want more system-dense, xianxia-hybrid, or pure power-fantasy experiences."
 ---
 
 The signals have been converging for a while. As of April 2026, they're converging faster.
 
-Matt Dinniman holds 8 of 15 spots on the NYT Monthly Audio bestseller list. Dungeon Crawler Carl has sold 6 million copies. There's a TV adaptation in development with Christopher Yost scripting. *A Parade of Horribles* (DCC #8, May 26, 2026) is the single most-anticipated release in the genre's current history. Path of Ascension has a Simon & Schuster deal that puts web-serial progression fantasy in traditional bookstores.
+Matt Dinniman holds 8 of 15 spots on the NYT Monthly Audio bestseller list. Dungeon Crawler Carl has sold 6 million copies. There's a TV adaptation in development with Christopher Yost scripting. *A Parade of Horribles* (DCC #8, May 12, 2026) is the single most-anticipated release in the genre's current history. Path of Ascension has a Simon & Schuster deal that puts web-serial progression fantasy in traditional bookstores.
 
 Based on the tracking data aggregated from [LitRPGTools.com](https://litrpgtools.com) and [Harem-Lit.com](https://harem-lit.com), here's what the rankings show about where the genre actually stands.
 
@@ -80,11 +80,11 @@ The density of quality material in this window isn't unusual by the standards of
 
 ## The May Focal Point
 
-**A Parade of Horribles** (Dungeon Crawler Carl #8, May 26, 2026) is the single most-tracked release date in the current data.
+**A Parade of Horribles** (Dungeon Crawler Carl #8, May 12, 2026) is the single most-tracked release date in the current data.
 
 The anticipation signal for DCC #8 across [LitRPGTools.com](https://litrpgtools.com) is the highest we've measured for any single release since we began tracking. That's partly the TV deal coverage creating new reader awareness, partly the existing massive DCC fanbase's accumulated wait, and partly the specific cliff-hanger positioning of Book 7 relative to what's coming.
 
-May 26 is, by our tracking, the most important single date on the 2026 progression fantasy calendar.
+May 12 is, by our tracking, the most important single date on the 2026 progression fantasy calendar.
 
 ---
 

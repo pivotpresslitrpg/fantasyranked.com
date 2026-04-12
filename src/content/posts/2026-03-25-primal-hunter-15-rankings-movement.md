@@ -50,7 +50,7 @@ The takeaway from March as a data month: **the top tier of LitRPG publishing is 
 
 ## What We're Watching Next
 
-**A Parade of Horribles (Dungeon Crawler Carl 8)** — May 26, 2026. Pre-release tracking is already at ⧗ 9.56 with a healthy sample size. This is the release that will define Q2 2026 for LitRPG rankings movement, and we'll have a full rankings update the week of launch.
+**A Parade of Horribles (Dungeon Crawler Carl 8)** — May 12, 2026. Pre-release tracking is already at ⧗ 9.56 with a healthy sample size. This is the release that will define Q2 2026 for LitRPG rankings movement, and we'll have a full rankings update the week of launch.
 
 **All the Skills 6** (Honour Rae) — December 22, 2026. Running ⧗ 9.84 in pre-release tracking on a smaller but dedicated sample. End-of-year release to track.
 
