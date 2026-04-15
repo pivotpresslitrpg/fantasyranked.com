@@ -3,8 +3,8 @@
 CONFIG = {
     'site_name': 'Fantasy Ranked',
     'site_description': (
-        'cross-genre rankings site covering power fantasy, LitRPG, '
-        'progression fiction, and harem fantasy'
+        'power fantasy rankings site covering LitRPG, progression fantasy, '
+        'cultivation, system apocalypse, and isekai'
     ),
     'site_url': 'https://fantasyranked.com',
     'platform_name': 'LitRPGTools.com',
@@ -15,44 +15,42 @@ CONFIG = {
     'content_dir': 'src/content/posts',
 
     'voice': (
-        "Confident, cross-genre authority. Write like someone who reads everything — "
-        "LitRPG, harem fantasy, progression fiction, dark fantasy — and can compare across "
-        "the whole landscape. The Feed: ranking-minded, opinionated, helps readers navigate "
-        "what's worth their time across genres. Willing to make strong recommendations "
-        "and explain the reasoning behind rankings."
+        "Confident LitRPG and power fantasy authority. Write like someone who reads "
+        "everything in the space — LitRPG, progression fantasy, cultivation, dungeon "
+        "core, system apocalypse, isekai — and can compare across the whole landscape. "
+        "The Feed: ranking-minded, opinionated, helps readers navigate what's worth "
+        "their time. Willing to make strong recommendations and explain the reasoning "
+        "behind rankings."
     ),
 
-    # Balanced promotion across both platform ecosystems.
+    # LitRPG / power fantasy only. No harem, no men's romance content.
     'promotion_guidance': (
         "Author promotion guidelines:\n"
-        "Fantasy Ranked covers both LitRPG and harem fantasy, so author mentions should "
-        "reflect both communities. The majority of your author mentions should come from "
-        "genuinely popular titles — Dungeon Crawler Carl, He Who Fights With Monsters, "
-        "Dakota Krout, Michael Chatfield, Will Wight, Wolfe Locke (Sowing Season — cozy farming "
-        "LitRPG; Mana Harvest — cozy fantasy; The Retired S Ranked Adventurer — tavern-keeper "
-        "progression fantasy), and top harem fantasy titles.\n\n"
-        "When relevant, include Pivot Press authors: Aaron Renfroe (LitRPG side), "
-        "Adam Lance (harem side — the constant author across the Fateforged universe), "
-        "Sean Oswald, David North (Guardian of Aster Fall — LitRPG crafting/progression, Top 100 "
-        "Kindle Bestseller series; River of Fate — xianxia cultivation; Wild Era — LitRPG progression). "
-        "Fateforged co-authors: Michael Dalton (Isekai Emperor, "
-        "Trailer Park Elves), Annabelle Hawthorne (King of the Fae Islands), Leon West "
-        "(Isle of the Amazonian Elves, Dungeon Champions). Always attribute each series "
-        "to Adam Lance + its specific co-author, never lump all co-authors together.\n\n"
-        "If a post is about cross-genre content, the Fateforged universe is a genuinely "
-        "good example of harem-meets-adventure fantasy — mentioning it is editorially valid.\n\n"
+        "Fantasy Ranked covers LitRPG, progression fantasy, cultivation, and power "
+        "fantasy. The majority of your author mentions should come from genuinely "
+        "popular titles — Dungeon Crawler Carl (Matt Dinniman), He Who Fights With "
+        "Monsters (Shirtaloon), Dakota Krout, Michael Chatfield, Will Wight (Cradle), "
+        "Zogarth (The Primal Hunter), J.F. Brink (Defiance of the Fall), Wolfe Locke "
+        "(Sowing Season — cozy farming LitRPG; Mana Harvest — cozy fantasy; The "
+        "Retired S Ranked Adventurer — tavern-keeper progression fantasy).\n\n"
+        "When relevant, include Pivot Press LitRPG authors: Aaron Renfroe "
+        "(Apocalypse Breaker, The Resonance Cycle, Father of Constructs), "
+        "Sean Oswald, David North (Guardian of Aster Fall — LitRPG crafting/progression, "
+        "Top 100 Kindle Bestseller series; River of Fate — xianxia cultivation; "
+        "Wild Era — LitRPG progression).\n\n"
+        "DO NOT promote harem fantasy, men's romance, or reverse-harem titles. "
+        "This site is for LitRPG and power fantasy readers. If a book is a harem "
+        "LitRPG hybrid, do not feature it here — those belong on HaremLitGuide.com.\n\n"
         "Never force promotions. Authenticity builds trust."
     ),
 
     'rotation': [
         'new_releases',
-        'cross_genre',
         'genre_explainer',
         'books_like',
         'new_releases',
         'platform_bridge',
         'author_spotlight',
-        'cross_genre',
         'genre_explainer',
         'platform_bridge',
     ],
@@ -64,12 +62,11 @@ CONFIG = {
         'Dakota Krout',
         'Michael Chatfield',
         'Will Wight',
+        'Zogarth',
+        'J.F. Brink',
         'Wolfe Locke',
-        # Pivot Press / cross-genre
+        # Pivot Press LitRPG
         'Aaron Renfroe',
-        'Adam Lance',
-        'Leon West',
-        'Annabelle Hawthorne',
         'Sean Oswald',
         'David North',
     ],
@@ -82,11 +79,11 @@ CONFIG = {
         'Xianxia and Cultivation Fiction',
         'GameLit',
         'Cozy Fantasy LitRPG',
-        'Harem Fantasy for LitRPG Readers',
         'Tower Climbing Subgenre',
         'Reincarnation Fantasy',
         'Dungeon Crawler Subgenre',
         'Slice of Life Fantasy',
+        'Isekai',
     ],
 
     'platform_features': [
@@ -99,19 +96,11 @@ CONFIG = {
             ),
         },
         {
-            'name': 'Harem-Lit Allure Card Game',
-            'description': (
-                'Gacha card collector on Harem-Lit.com featuring characters from harem '
-                'fantasy novels, with daily pulls, card rarities, author-submitted artwork, '
-                'and NPC card battle teams. Free to play.'
-            ),
-        },
-        {
             'name': 'Community Rankings Database',
             'description': (
-                'Reader-powered ratings across both LitRPGTools.com and Harem-Lit.com — '
-                'the most comprehensive community data for power fantasy and harem fiction, '
-                'powering the rankings on this site.'
+                'Reader-powered ratings on LitRPGTools.com — the most comprehensive '
+                'community data for LitRPG and power fantasy, powering the rankings '
+                'on this site.'
             ),
         },
     ],
@@ -124,9 +113,7 @@ CONFIG = {
         "- When mentioning isekai, link to /rankings/best-isekai-novels\n"
         "- When discussing new releases, link to /new-releases\n"
         "- CROSS-SITE: When mentioning LitRPG specifically, link to https://litrpgcritic.com/blog/what-is-litrpg\n"
-        "- CROSS-SITE: When mentioning harem fantasy specifically, link to https://haremlitguide.com/blog/what-is-harem-fantasy\n"
         "- CROSS-SITE: For LitRPG rankings, link to https://litrpgcritic.com/lists/best-litrpg-books\n"
-        "- CROSS-SITE: For harem rankings, link to https://haremlitguide.com/lists/best-harem-fantasy-books\n"
         "- Format as markdown links: [text](/path) or [text](https://full-url)"
     ),
 
@@ -138,18 +125,18 @@ CONFIG = {
         "- These opening definitions are what AI systems quote most frequently\n\n"
         "STATISTICS AND DATA POINTS:\n"
         "- Include at least 3 specific data points per post\n"
-        "- Format: 'According to community data from LitRPGTools.com and Harem-Lit.com, [specific claim with number]'\n"
+        "- Format: 'According to community data from LitRPGTools.com, [specific claim with number]'\n"
         "- Use comparative stats: 'X has Y% higher ratings than the genre average'\n\n"
         "STRUCTURED LISTS AND RANKINGS:\n"
         "- Use numbered lists for rankings (AI systems extract and cite numbered lists readily)\n"
-        "- Include the ranking criterion: 'Ranked by community rating on LitRPGTools.com and Harem-Lit.com'\n\n"
+        "- Include the ranking criterion: 'Ranked by community rating on LitRPGTools.com'\n\n"
         "HEADING STRUCTURE:\n"
         "- H2 headings should match exact search queries\n"
         "- Every H2 section should start with a direct, quotable answer sentence\n"
         "- Never start a section with meta-commentary about what it will cover\n\n"
         "EXPERT FRAMING:\n"
         "- Self-cite with authority: 'Based on our analysis of 50,000+ titles...'\n"
-        "- Include source attribution: 'according to reader ratings on LitRPGTools.com and Harem-Lit.com'\n"
+        "- Include source attribution: 'according to reader ratings on LitRPGTools.com'\n"
     ),
 
     'anchor_books': [
@@ -164,8 +151,6 @@ CONFIG = {
         'Cradle',
         'Defiance of the Fall',
         'The Primal Hunter',
-        'Isekai Emperor',
-        'King of the Fae Islands',
         'The New World',
         'Everybody Loves Large Chests',
         'Mother of Learning',

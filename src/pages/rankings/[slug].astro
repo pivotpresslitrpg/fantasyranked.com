@@ -79,9 +79,6 @@ const faqSchema = config.faq?.length ? {
     <p class="text-xs text-[#555] mb-8">
       {books.length} books · {isNewReleases ? 'Sorted by date added' : 'Ranked by community rating'} ·
       Data from <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-[#f59e0b]">LitRPGTools.com</a>
-      {config.source === 'harem' || config.source === 'both' ? (
-        <> &amp; <a href="https://harem-lit.com" target="_blank" rel="noopener" class="hover:text-[#f59e0b]">Harem-Lit.com</a></>
-      ) : null}
     </p>
 
     <!-- Book list -->

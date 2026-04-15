@@ -8,7 +8,7 @@ export async function GET(context: APIContext) {
 
   return rss({
     title: 'Fantasy Ranked',
-    description: 'Power fantasy and system apocalypse rankings — LitRPG, progression fantasy, isekai, and harem fiction.',
+    description: 'Power fantasy and system apocalypse rankings — LitRPG, progression fantasy, cultivation, and isekai.',
     site: context.site!,
     xmlns: { atom: 'http://www.w3.org/2005/Atom' },
     items: posts.map(post => ({

@@ -1,5 +1,4 @@
 const LITRPG_API = 'https://api.litrpgtools.com';
-const HAREM_API = 'https://api.harem-lit.com';
 const API_KEY = import.meta.env.BLOG_FEED_API_KEY;
 
 // ---------------------------------------------------------------------------
@@ -58,10 +57,10 @@ export interface Book {
   description: string | null;
   published_date: string | null;
   created_at: string;
-  source: 'litrpg' | 'harem';
+  source: 'litrpg';
 }
 
-export type DataSource = 'litrpg' | 'harem' | 'both';
+export type DataSource = 'litrpg';
 
 // ---------------------------------------------------------------------------
 // Fetch helpers
@@ -77,13 +76,6 @@ function normalizeLitrpg(json: unknown): Book[] {
   const raw = Array.isArray(json) ? json : (json as any).data ?? [];
   if (!Array.isArray(raw)) return [];
   return raw.map((b: any) => ({ ...b, source: 'litrpg' as const }));
-}
-
-function normalizeHarem(json: unknown): Book[] {
-  if (!json || typeof json !== 'object') return [];
-  const raw = Array.isArray(json) ? json : (json as any).items ?? [];
-  if (!Array.isArray(raw)) return [];
-  return raw.map((b: any) => ({ ...b, source: 'harem' as const }));
 }
 
 // ---------------------------------------------------------------------------
@@ -144,7 +136,7 @@ export async function getBooks(options: {
   sort?: 'top_rated' | 'recent' | 'featured';
   source?: DataSource;
 } = {}): Promise<Book[]> {
-  const { source = 'litrpg', genre, sort, offset } = options;
+  const { genre, sort, offset } = options;
   const requestedLimit = options.limit ?? 50;
   // Fetch extra to compensate for dedup removal
   const fetchLimit = Math.min(requestedLimit + 50, 200);
@@ -157,25 +149,9 @@ export async function getBooks(options: {
   const qs = `?${params}`;
 
   try {
-    if (source === 'both') {
-      const [rA, rB] = await Promise.all([
-        feedFetch(LITRPG_API, `/api/blog-feed/books${qs}`),
-        feedFetch(HAREM_API, `/api/blog-feed/books${qs}`),
-      ]);
-      const litrpg = rA?.ok ? normalizeLitrpg(await rA.json()) : [];
-      const harem  = rB?.ok ? normalizeHarem(await rB.json()) : [];
-      const combined = [...litrpg, ...harem].sort(
-        (a, b) => (b.average_rating ?? 0) - (a.average_rating ?? 0)
-      );
-      const unique = deduplicateBooks(combined);
-      return applyEditorialCuration(unique, genre).slice(0, requestedLimit);
-    }
-
-    const base = source === 'harem' ? HAREM_API : LITRPG_API;
-    const normalize = source === 'harem' ? normalizeHarem : normalizeLitrpg;
-    const res = await feedFetch(base, `/api/blog-feed/books${qs}`);
+    const res = await feedFetch(LITRPG_API, `/api/blog-feed/books${qs}`);
     if (!res?.ok) return [];
-    const all = deduplicateBooks(normalize(await res.json()));
+    const all = deduplicateBooks(normalizeLitrpg(await res.json()));
     return applyEditorialCuration(all, genre).slice(0, requestedLimit);
   } catch { return []; }
 }
@@ -185,27 +161,13 @@ export async function getRecentBooks(options: {
   limit?: number;
   source?: DataSource;
 } = {}): Promise<Book[]> {
-  const { days = 30, limit = 50, source = 'litrpg' } = options;
+  const { days = 30, limit = 50 } = options;
   const qs = `?days=${days}&limit=${limit}`;
 
   try {
-    if (source === 'both') {
-      const [rA, rB] = await Promise.all([
-        feedFetch(LITRPG_API, `/api/blog-feed/books/recent${qs}`),
-        feedFetch(HAREM_API, `/api/blog-feed/books/recent${qs}`),
-      ]);
-      const litrpg = rA?.ok ? normalizeLitrpg(await rA.json()) : [];
-      const harem  = rB?.ok ? normalizeHarem(await rB.json()) : [];
-      return [...litrpg, ...harem]
-        .sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
-        .slice(0, limit);
-    }
-
-    const base = source === 'harem' ? HAREM_API : LITRPG_API;
-    const normalize = source === 'harem' ? normalizeHarem : normalizeLitrpg;
-    const res = await feedFetch(base, `/api/blog-feed/books/recent${qs}`);
+    const res = await feedFetch(LITRPG_API, `/api/blog-feed/books/recent${qs}`);
     if (!res?.ok) return [];
-    return normalize(await res.json());
+    return normalizeLitrpg(await res.json());
   } catch { return []; }
 }
 

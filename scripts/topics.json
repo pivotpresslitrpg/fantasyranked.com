@@ -1,19 +1,7 @@
 {
-  "rotation_index": 11,
-  "published_slugs": [
-    "2026-03-11-new-releases-roundup-best-litrpg-progression-fiction-march-2026",
-    "2026-03-18-litrpg-meets-harem-fantasy-the-cross-genre-overlap-every-fan-should-know",
-    "2026-03-25-what-is-power-fantasy-the-complete-guide-to-the-genre",
-    "2026-03-27-if-you-liked-dungeon-crawler-carl-read-these-next",
-    "2026-03-30-new-releases-roundup-best-litrpg-progression-fiction-march-2026",
-    "2026-04-01-litrpgtoolscom-is-the-database-litrpg-readers-have-been-waiting-for",
-    "2026-04-03-matt-dinniman-the-author-who-made-dungeons-feel-alive",
-    "2026-04-06-litrpg-vs-harem-fantasy-the-crossover-readers-are-already-making",
-    "2026-04-08-litrpg-vs-progression-fantasy-what",
-    "2026-04-10-harem-litcom-the-platform-built-for-harem-fantasy-readers",
-    "2026-04-13-new-litrpg-power-fantasy-releases-worth-reading-april-2026"
-  ],
-  "author_queue_index": 1,
-  "feature_queue_index": 2,
-  "explainer_queue_index": 2
+  "rotation_index": 0,
+  "published_slugs": [],
+  "author_queue_index": 0,
+  "feature_queue_index": 0,
+  "explainer_queue_index": 0
 }

@@ -5,8 +5,8 @@ import { getBooks, getRecentBooks } from '../lib/api';
 import { rankingConfig } from '../lib/rankings';
 
 const [topBooks, recentBooks] = await Promise.all([
-  getBooks({ sort: 'top_rated', limit: 10, source: 'both' }),
-  getRecentBooks({ days: 30, limit: 8, source: 'both' }),
+  getBooks({ sort: 'top_rated', limit: 10, source: 'litrpg' }),
+  getRecentBooks({ days: 30, limit: 8, source: 'litrpg' }),
 ]);
 
 const websiteSchema = {
@@ -14,7 +14,7 @@ const websiteSchema = {
   "@type": "WebSite",
   "name": "Fantasy Ranked",
   "url": "https://fantasyranked.com",
-  "description": "Power fantasy and system apocalypse rankings, updated weekly. LitRPG, progression fantasy, isekai, and harem fantasy."
+  "description": "Power fantasy and system apocalypse rankings, updated weekly. LitRPG, progression fantasy, cultivation, and isekai."
 };
 
 const orgSchema = {
@@ -22,21 +22,19 @@ const orgSchema = {
   "@type": "Organization",
   "name": "Fantasy Ranked",
   "url": "https://fantasyranked.com",
-  "description": "Cross-genre power fantasy rankings covering LitRPG, progression fantasy, cultivation, and harem fiction.",
+  "description": "Power fantasy rankings covering LitRPG, progression fantasy, cultivation, and system apocalypse.",
   "parentOrganization": {
     "@type": "Organization",
     "name": "Pivot Press Publishing",
     "url": "https://litrpgtools.com",
     "subOrganization": [
       { "@type": "Organization", "name": "LitRPG Critic", "url": "https://litrpgcritic.com" },
-      { "@type": "Organization", "name": "HaremLit Guide", "url": "https://haremlitguide.com" },
       { "@type": "Organization", "name": "Fantasy Ranked", "url": "https://fantasyranked.com" },
-      { "@type": "Organization", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" },
-      { "@type": "Organization", "name": "Harem-Lit.com", "url": "https://harem-lit.com" }
+      { "@type": "Organization", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" }
     ]
   },
   "isPartOf": { "@type": "WebSite", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" },
-  "knowsAbout": ["Power Fantasy", "LitRPG", "Progression Fantasy", "System Apocalypse", "Isekai", "Cultivation Fiction", "Harem Fantasy"]
+  "knowsAbout": ["Power Fantasy", "LitRPG", "Progression Fantasy", "System Apocalypse", "Isekai", "Cultivation Fiction"]
 };
 ---
 
@@ -53,7 +51,7 @@ const orgSchema = {
         The best power fantasy books, ranked.
       </h1>
       <p class="mt-4 text-lg text-[#888] max-w-xl">
-        LitRPG, progression fantasy, system apocalypse, isekai, and harem fantasy — all in one place. Updated weekly from community ratings.
+        LitRPG, progression fantasy, system apocalypse, cultivation, and isekai — all in one place. Updated weekly from community ratings.
       </p>
       <div class="flex flex-wrap gap-3 mt-6">
         <a href="/rankings/" class="bg-[#f59e0b] hover:bg-[#d97706] text-black font-semibold px-5 py-2.5 rounded transition-colors">
@@ -95,7 +93,6 @@ const orgSchema = {
             { label: 'System Apocalypse', href: '/rankings/best-system-apocalypse/' },
             { label: 'Isekai', href: '/rankings/best-isekai-novels/' },
             { label: 'New LitRPG', href: '/rankings/new-litrpg-releases/' },
-            { label: 'Harem Fantasy', href: '/rankings/new-harem-fantasy-releases/' },
           ].map(({ label, href }) => (
             <a
               href={href}

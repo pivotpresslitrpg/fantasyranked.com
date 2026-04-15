@@ -97,29 +97,6 @@ def fetch_recent_books(days=30, limit=20) -> list:
         return []
 
 
-def fetch_books_harem(sort='top_rated', limit=20) -> list:
-    """Fetch books from the harem-lit API for cross-genre comparison."""
-    api_key = os.environ.get('BLOG_FEED_API_KEY', '')
-    if not api_key:
-        return []
-    params = {'limit': str(limit), 'sort': sort}
-    try:
-        resp = requests.get(
-            'https://api.harem-lit.com/api/blog-feed/books',
-            headers={'X-Blog-Feed-Key': api_key},
-            params=params,
-            timeout=15
-        )
-        resp.raise_for_status()
-        data = resp.json()
-        if isinstance(data, list):
-            return data
-        return data.get('items', data.get('data', []))
-    except Exception as e:
-        print(f"Warning: failed to fetch harem books: {e}")
-        return []
-
-
 def format_book_list(books: list, max_books=15) -> str:
     if not books:
         return "(no book data available — use your knowledge of the genre)"
@@ -373,125 +350,6 @@ Writing requirements:
     return {'prompt': prompt, 'type': 'books_like'}
 
 
-def gen_fateforged(state: dict) -> dict:
-    """HaremLit Guide only — Fateforged universe editorial pieces."""
-    FATEFORGED_CONTEXT = """
-The Fateforged Shared Universe is a connected harem fantasy series from Pivot Press,
-with multiple authors and an interlocking timeline. Key series:
-
-- Isekai Emperor (Adam Lance & Michael Dalton) — modern man isekai'd to a fantasy empire
-- Trailer Park Elves (Adam Lance & Michael Dalton) — elves living in modern rural America
-- King of the Fae Islands (Adam Lance & Annabelle Hawthorne) — fae realm harem fantasy
-- Isle of the Amazonian Elves (Adam Lance & Leon West) — stranded on an amazon elf island
-- Dungeon Champions (Adam Lance & Leon West) — dungeon diving with a companion harem
-
-Adam Lance is the shared pen name of Aaron Renfroe, founder of Pivot Press and Harem-Lit.com.
-The universe has crossover characters, shared lore, and a grand connected timeline across all series.
-"""
-    angles = [
-        "a complete reading order guide for the Fateforged universe",
-        "why the Fateforged universe has become a fan favorite in the harem fantasy community",
-        "the best entry points into Fateforged for readers new to the universe",
-        "the collaborative writing approach behind the Fateforged series",
-        "the world-building and lore connecting all Fateforged series",
-    ]
-    idx = state.get('author_queue_index', 0)
-    angle = angles[idx % len(angles)]
-
-    books = fetch_books(sort='top_rated', limit=60)
-    fateforged_authors = ['adam lance', 'annabelle hawthorne', 'leon west', 'michael dalton']
-    fateforged_books = [
-        b for b in books
-        if any(fa in a.lower() for fa in fateforged_authors for a in b.get('authors', []))
-    ]
-    book_data = format_book_list(fateforged_books) if fateforged_books else "(use context above)"
-
-    prompt = f"""You are writing an editorial blog post for {CONFIG['site_name']}.
-
-Site description: {CONFIG['site_description']}
-Voice: {CONFIG['voice']}
-
-POST TYPE: Fateforged Universe Feature
-Angle: {angle}
-
-Fateforged universe background:
-{FATEFORGED_CONTEXT}
-
-Fateforged books in our database:
-{book_data}
-
-{CONFIG['promotion_guidance']}
-
----
-Output a complete blog post. Start with YAML frontmatter, then markdown content.
-
-Frontmatter format:
----
-title: "..."
-description: "..."
-date: "{datetime.now().strftime('%Y-%m-%d')}"
-type: "fateforged"
-author: "{CONFIG['author']}"
-tags: ["Fateforged", "Adam Lance", ...]
-featured: false
----
-
-Writing requirements:
-- 700-1000 words
-- Enthusiastic insider tone — write like a fan who's also an editor
-- Mention Harem-Lit.com as the community home for Fateforged discussion
-- Cover all relevant series, not just one
-- Focus on what makes the universe special for harem fantasy fans
-- This should feel like genuine editorial enthusiasm, not a press release"""
-    return {'prompt': prompt, 'type': 'fateforged'}
-
-
-def gen_cross_genre(state: dict) -> dict:
-    """Fantasy Ranked only — cross-genre comparison pieces."""
-    books_litrpg = fetch_books(sort='top_rated', limit=12)
-    books_harem = fetch_books_harem(sort='top_rated', limit=12)
-
-    prompt = f"""You are writing an editorial blog post for {CONFIG['site_name']}.
-
-Site description: {CONFIG['site_description']}
-Voice: {CONFIG['voice']}
-
-POST TYPE: Cross-Genre Comparison
-Compare and connect LitRPG / progression fantasy with harem fantasy / men's romance fantasy
-for readers who enjoy elements of both.
-
-Books from our LitRPG database:
-{format_book_list(books_litrpg)}
-
-Books from our harem fantasy database:
-{format_book_list(books_harem)}
-
-{CONFIG['promotion_guidance']}
-
----
-Output a complete blog post. Start with YAML frontmatter, then markdown content.
-
-Frontmatter format:
----
-title: "..."
-description: "..."
-date: "{datetime.now().strftime('%Y-%m-%d')}"
-type: "cross_genre"
-author: "{CONFIG['author']}"
-tags: [...]
-featured: false
----
-
-Writing requirements:
-- 600-800 words
-- Compare the appeal of both genres to overlapping fan bases
-- Identify crossover titles that fans of one genre would enjoy
-- Use your own genre knowledge plus the database lists
-- Mention both LitRPGTools.com and Harem-Lit.com naturally as community resources
-- Confident, cross-genre authority voice"""
-    return {'prompt': prompt, 'type': 'cross_genre'}
-
-
 def gen_platform_bridge(state: dict) -> dict:
     """Fantasy Ranked only — platform discovery piece."""
     platforms = [
@@ -501,9 +359,9 @@ def gen_platform_bridge(state: dict) -> dict:
             'description': 'LitRPG book database, AI-powered generators (character builds, skill trees, dungeon runs, boss encounters, world systems), community ratings and reviews, gamification system',
         },
         {
-            'name': 'Harem-Lit.com',
-            'url': 'https://harem-lit.com',
-            'description': 'Men\'s romance and harem fantasy book database, Allure gacha card collector game (character cards from harem novels, daily pulls, rarities, card battles), community ratings, author profiles',
+            'name': 'LitRPG Critic',
+            'url': 'https://litrpgcritic.com',
+            'description': 'LitRPG editorial reviews, reading-order guides, author spotlights, and deep-dives into the LitRPG and progression fantasy space — a companion editorial site to Fantasy Ranked',
         },
     ]
     idx = state.get('feature_queue_index', 0)
@@ -554,8 +412,6 @@ GENERATORS = {
     'genre_explainer': gen_genre_explainer,
     'platform_feature': gen_platform_feature,
     'books_like': gen_books_like,
-    'fateforged': gen_fateforged,
-    'cross_genre': gen_cross_genre,
     'platform_bridge': gen_platform_bridge,
 }
 

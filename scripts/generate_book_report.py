@@ -204,185 +204,16 @@ BOOK_REGISTRY = [
         'genre_tags': ['LitRPG', 'crafting', 'constructs', 'eldritch'],
         'incomplete_series': False,
     },
-    # Adam Lance → haremlitguide.com (and fantasyranked cross-posts)
-    {
-        'id': 'isekai-emperor-1',
-        'series': 'Isekai Emperor',
-        'book_num': 1,
-        'title': 'Isekai Emperor Book 1',
-        'full_title': 'Isekai Emperor Book 1',
-        'author': 'Adam Lance & Michael Dalton',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'isekai', 'empire building'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'isekai-emperor-3',
-        'series': 'Isekai Emperor',
-        'book_num': 3,
-        'title': 'Isekai Emperor Book 3',
-        'full_title': 'Isekai Emperor Book 3',
-        'author': 'Adam Lance & Michael Dalton',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'isekai', 'empire building'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'king-fae-islands-1',
-        'series': 'King of the Fae Islands',
-        'book_num': 1,
-        'title': 'King of the Fae Islands Book 1',
-        'full_title': 'King of the Fae Islands Book 1',
-        'author': 'Adam Lance & Annabelle Hawthorne',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'fae romance', 'portal fantasy'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'king-fae-islands-2',
-        'series': 'King of the Fae Islands',
-        'book_num': 2,
-        'title': 'King of the Fae Islands Book 2',
-        'full_title': 'King of the Fae Islands Book 2',
-        'author': 'Adam Lance & Annabelle Hawthorne',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'fae romance', 'portal fantasy'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'dungeon-champions-1',
-        'series': 'Dungeon Champions',
-        'book_num': 1,
-        'title': 'Dungeon Champions Book 1',
-        'full_title': 'Dungeon Champions Book 1',
-        'author': 'Adam Lance & Leon West',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'LitRPG', 'dungeon diving'],
-        'incomplete_series': True,
-    },
-    {
-        'id': 'dungeon-champions-2',
-        'series': 'Dungeon Champions',
-        'book_num': 2,
-        'title': 'Dungeon Champions Book 2',
-        'full_title': 'Dungeon Champions Book 2',
-        'author': 'Adam Lance & Leon West',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'LitRPG', 'dungeon diving'],
-        'incomplete_series': True,
-    },
-    {
-        'id': 'dungeon-champions-3',
-        'series': 'Dungeon Champions',
-        'book_num': 3,
-        'title': 'Dungeon Champions Book 3',
-        'full_title': 'Dungeon Champions Book 3',
-        'author': 'Adam Lance & Leon West',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'LitRPG', 'dungeon diving'],
-        'incomplete_series': True,
-    },
-    {
-        'id': 'fated-enforcer-1',
-        'series': 'Fated Enforcer',
-        'book_num': 1,
-        'title': 'Fated Enforcer Book 1',
-        'full_title': 'Fated Enforcer Book 1',
-        'author': 'Adam Lance',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'urban fantasy', 'action'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'fated-enforcer-2',
-        'series': 'Fated Enforcer',
-        'book_num': 2,
-        'title': 'Fated Enforcer Book 2',
-        'full_title': 'Fated Enforcer Book 2',
-        'author': 'Adam Lance',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'urban fantasy', 'action'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'fated-enforcer-3',
-        'series': 'Fated Enforcer',
-        'book_num': 3,
-        'title': "Fate's Enforcer",
-        'full_title': "Fate's Enforcer (Fated Enforcer Book 3)",
-        'author': 'Adam Lance',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'urban fantasy', 'action'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'amazonian-elves-1',
-        'series': 'Isle of the Amazonian Elves',
-        'book_num': 1,
-        'title': 'Isle of the Amazonian Elves Book 1',
-        'full_title': 'Isle of the Amazonian Elves Book 1',
-        'author': 'Adam Lance & Leon West',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'elf fantasy', 'adventure'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'trailer-park-elves-3',
-        'series': 'Trailer Park Elves',
-        'book_num': 3,
-        'title': 'Trailer Park Elves Book 3',
-        'full_title': 'Trailer Park Elves Book 3',
-        'author': 'Adam Lance & Michael Dalton',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'urban fantasy', 'comedy'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'hex-kittens-1',
-        'series': 'Hex Kittens',
-        'book_num': 1,
-        'title': 'Hex Kittens Book 1',
-        'full_title': 'Hex Kittens Book 1',
-        'author': 'Adam Lance',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'supernatural', 'witches'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'hex-kittens-2',
-        'series': 'Hex Kittens',
-        'book_num': 2,
-        'title': 'Hex Kittens Book 2',
-        'full_title': 'Hex Kittens Book 2',
-        'author': 'Adam Lance',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'supernatural', 'witches'],
-        'incomplete_series': False,
-    },
-    {
-        'id': 'summoner-camp-1',
-        'series': 'Summoner Camp',
-        'book_num': 1,
-        'title': 'Summoner Camp Book 1',
-        'full_title': 'Summoner Camp Book 1',
-        'author': 'Adam Lance',
-        'site': 'adam',
-        'genre_tags': ['harem fantasy', 'summoner', 'camp'],
-        'incomplete_series': False,
-    },
 ]
 
 
 def get_books_for_site() -> list:
     """Return books relevant to the current site."""
     site_name = CONFIG['site_name'].lower()
-    if 'litrpg' in site_name or 'critic' in site_name:
-        return [b for b in BOOK_REGISTRY if b['site'] == 'aaron']
-    elif 'harem' in site_name or 'guide' in site_name:
+    if 'harem' in site_name or 'guide' in site_name:
         return [b for b in BOOK_REGISTRY if b['site'] == 'adam']
-    else:
-        # fantasyranked — both
-        return BOOK_REGISTRY
+    # litrpgcritic and fantasyranked — LitRPG / power fantasy only (Aaron Renfroe catalog)
+    return [b for b in BOOK_REGISTRY if b['site'] == 'aaron']
 
 
 def load_book_text(book_id: str) -> str:
@@ -435,11 +266,11 @@ def get_report_format() -> dict:
             'style': 'ranking_analysis',
             'label': 'Ranked Review',
             'instructions': (
-                "Write a cross-genre ranking analysis. Position this book within the broader "
-                "landscape of power fantasy, LitRPG, and/or harem fantasy. What does it do "
-                "that competes with the top titles in its category? Be opinionated — take a "
-                "clear stance on where this book ranks and why. Compare to well-known titles "
-                "readers might know. Praise should be specific and earned. "
+                "Write a power-fantasy ranking analysis. Position this book within the broader "
+                "landscape of LitRPG, progression fantasy, system apocalypse, and cultivation. "
+                "What does it do that competes with the top titles in its category? Be opinionated "
+                "— take a clear stance on where this book ranks and why. Compare to well-known "
+                "titles readers might know. Praise should be specific and earned. "
                 "Include a 'Where It Ranks' verdict at the end."
             ),
             'word_range': '700-1000',
