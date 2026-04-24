@@ -7,7 +7,6 @@ author: "Fantasy Ranked Editorial"
 tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "Knight Unleashed", "power fantasy", "system apocalypse"]
 featured: true
 ---
-```
 
 # Knight Unleashed Review: The Resonance Cycle Book 6 Is the Series Payoff LitRPG Fans Have Been Waiting For
 
