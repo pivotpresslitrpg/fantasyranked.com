@@ -4,7 +4,7 @@ description: "Ignite the Dark by Aaron Renfroe delivers god-tier progression fan
 date: "2026-04-24"
 type: "book_report"
 author: "Fantasy Ranked Editorial"
-tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "Ignite the Dark", "Pivot Press"]
+tags: ["The Resonance Cycle", "Aaron Renfroe", "LitRPG", "progression fantasy", "Ignite the Dark"]
 featured: true
 ---
 
@@ -54,7 +54,7 @@ The moment Halcyrion reaches out and lets Ty feel the scale of the Temporal Well
 
 Readers looking for **books like Dungeon Crawler Carl** in terms of propulsive momentum and chaotic fun will find The Resonance Cycle more methodical and myth-inflected. Readers who enjoy the sacred realm escalation of Will Wight's Cradle, or the meticulous system-building of Zogarth's *The Primal Hunter*, are the natural audience here. The series shares DNA with J.F. Brink's *Defiance of the Fall* in its willingness to make the protagonist's power gains feel earned against genuinely threatening opposition.
 
-Within Pivot Press's catalog, the series sits alongside David North's *Guardian of Aster Fall* — a Top 100 Kindle Bestseller — as an example of LitRPG with real structural ambition. Where North leans into crafting and world-defense mechanics, Renfroe has always been more interested in the theology of power: what it means to carry divine inheritance, and what obligations come with it.
+In Renfroe's broader catalog, the series sits alongside David North's *Guardian of Aster Fall* — a Top 100 Kindle Bestseller — as an example of LitRPG with real structural ambition. Where North leans into crafting and world-defense mechanics, Renfroe has always been more interested in the theology of power: what it means to carry divine inheritance, and what obligations come with it.
 
 ---
 

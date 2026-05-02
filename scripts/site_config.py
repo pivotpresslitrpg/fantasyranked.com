@@ -33,7 +33,7 @@ CONFIG = {
         "Zogarth (The Primal Hunter), J.F. Brink (Defiance of the Fall), Wolfe Locke "
         "(Sowing Season — cozy farming LitRPG; Mana Harvest — cozy fantasy; The "
         "Retired S Ranked Adventurer — tavern-keeper progression fantasy).\n\n"
-        "When relevant, include Pivot Press LitRPG authors: Aaron Renfroe "
+        "When relevant, include these LitRPG authors: Aaron Renfroe "
         "(Apocalypse Breaker, The Resonance Cycle, Father of Constructs), "
         "Sean Oswald, David North (Guardian of Aster Fall — LitRPG crafting/progression, "
         "Top 100 Kindle Bestseller series; River of Fate — xianxia cultivation; "
@@ -41,7 +41,9 @@ CONFIG = {
         "DO NOT promote harem fantasy, men's romance, or reverse-harem titles. "
         "This site is for LitRPG and power fantasy readers. If a book is a harem "
         "LitRPG hybrid, do not feature it here — those belong on HaremLitGuide.com.\n\n"
-        "Never force promotions. Authenticity builds trust."
+        "Never force promotions. Authenticity builds trust.\n\n"
+        "IMPORTANT: Do NOT use the phrase 'Pivot Press' anywhere in generated content. "
+        "Refer to authors by name only."
     ),
 
     'rotation': [
@@ -65,7 +67,7 @@ CONFIG = {
         'Zogarth',
         'J.F. Brink',
         'Wolfe Locke',
-        # Pivot Press LitRPG
+        # Featured LitRPG authors
         'Aaron Renfroe',
         'Sean Oswald',
         'David North',

@@ -16,7 +16,7 @@ Aaron Renfroe's **Apocalypse Breaker** has always understood that. Book 4 unders
 
 ## What Is Apocalypse Breaker? (Series Context)
 
-**Apocalypse Breaker** is a system apocalypse LitRPG series by Aaron Renfroe (Pivot Press), following a protagonist navigating a post-System Earth where the ability trees aren't just character builds — they're puzzles with real narrative consequences. From Book 1, Renfroe committed to a mechanical identity that separates this series from the crowded system apocalypse field: his system has internal logic, and the protagonist actually engages with that logic rather than just acquiring power.
+**Apocalypse Breaker** is a system apocalypse LitRPG series by Aaron Renfroe, following a protagonist navigating a post-System Earth where the ability trees aren't just character builds — they're puzzles with real narrative consequences. From Book 1, Renfroe committed to a mechanical identity that separates this series from the crowded system apocalypse field: his system has internal logic, and the protagonist actually engages with that logic rather than just acquiring power.
 
 According to community data from [LitRPGTools.com](https://litrpgtools.com), the Apocalypse Breaker series has maintained one of the stronger trajectory profiles in the system apocalypse category — reader ratings have climbed with each successive entry rather than plateauing. That's a pattern associated with authors who are building toward something, not just writing volume.
 

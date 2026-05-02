@@ -506,8 +506,8 @@ def write_post(content: str, published_slugs: list) -> str:
 
 
 def git_push(slug: str):
-    subprocess.run(['git', 'config', 'user.email', 'bot@pivotpress.com'], check=True, cwd=REPO_ROOT)
-    subprocess.run(['git', 'config', 'user.name', 'Pivot Press Bot'], check=True, cwd=REPO_ROOT)
+    subprocess.run(['git', 'config', 'user.email', 'bot@fantasyranked.com'], check=True, cwd=REPO_ROOT)
+    subprocess.run(['git', 'config', 'user.name', 'Fantasy Ranked Bot'], check=True, cwd=REPO_ROOT)
     subprocess.run(['git', 'add', str(CONTENT_DIR)], check=True, cwd=REPO_ROOT)
     subprocess.run(['git', 'add', str(TOPICS_FILE)], check=True, cwd=REPO_ROOT)
     result = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=REPO_ROOT)

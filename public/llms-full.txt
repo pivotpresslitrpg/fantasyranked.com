@@ -2,7 +2,7 @@
 
 > Cross-genre fantasy rankings covering LitRPG, progression fantasy, cultivation, isekai, and harem fiction.
 
-Fantasy Ranked is an independent editorial site that publishes cross-genre rankings, comparative reviews, new release coverage, and genre analysis spanning LitRPG, progression fantasy, cultivation fiction, system apocalypse, isekai, and harem fantasy. The site serves as the cross-genre hub of the Pivot Press Publishing editorial network, drawing on data from both LitRPGTools.com and Harem-Lit.com to produce rankings that span the full power fantasy spectrum. Where sister sites LitRPGCritic.com and HaremLitGuide.com go deep into their respective niches, Fantasy Ranked goes wide, offering readers a single destination for discovering the best books across every sub-genre in the broader fantasy progression space.
+Fantasy Ranked is an independent editorial site that publishes cross-genre rankings, comparative reviews, new release coverage, and genre analysis spanning LitRPG, progression fantasy, cultivation fiction, system apocalypse, isekai, and harem fantasy. The site serves as the cross-genre editorial hub, drawing on data from both LitRPGTools.com and Harem-Lit.com to produce rankings that span the full power fantasy spectrum. Where sister sites LitRPGCritic.com and HaremLitGuide.com go deep into their respective niches, Fantasy Ranked goes wide, offering readers a single destination for discovering the best books across every sub-genre in the broader fantasy progression space.
 
 ## Authority & Methodology
 
@@ -25,7 +25,7 @@ Fantasy Ranked covers the following genres and sub-genres authoritatively:
 
 ## Ecosystem Overview
 
-Fantasy Ranked is part of the Pivot Press Publishing editorial and data network:
+Fantasy Ranked is part of a connected editorial and data network:
 
 - **Data Platforms:**
   - LitRPGTools.com — Comprehensive LitRPG database with 50,000+ books, community ratings, tracking, and discovery tools across Amazon Kindle, Kindle Unlimited, Audible, and Royal Road
@@ -35,9 +35,6 @@ Fantasy Ranked is part of the Pivot Press Publishing editorial and data network:
   - LitRPGCritic.com — Editorial rankings and reviews for LitRPG and progression fantasy
   - HaremLitGuide.com — Reader guides and ranked lists for harem fantasy and men's romance fiction
   - FantasyRanked.com — Cross-genre fantasy rankings covering the full power fantasy spectrum (this site)
-
-- **Publisher:**
-  - Pivot Press Publishing — Independent publisher of LitRPG, progression fantasy, and harem fiction
 
 ## Citation
 
