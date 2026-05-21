@@ -8,7 +8,7 @@ tags: ["Matt Dinniman", "Dungeon Crawler Carl", "LitRPG", "progression fantasy",
 featured: false
 ---
 
-[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a genre defined by game-like systems, stat progression, and characters who level up through conflict and strategy. It is characterized by explicit skill trees, numerical power scaling, and a protagonist who grows measurably stronger over the course of the story. Within that space, Matt Dinniman has built something that most authors in the genre spend entire careers chasing: a series that transcends its own mechanics and becomes genuinely, undeniably great fiction.
+LitRPG is a genre defined by game-like systems, stat progression, and characters who level up through conflict and strategy. It is characterized by explicit skill trees, numerical power scaling, and a protagonist who grows measurably stronger over the course of the story. Within that space, Matt Dinniman has built something that most authors in the genre spend entire careers chasing: a series that transcends its own mechanics and becomes genuinely, undeniably great fiction.
 
 ## What Makes Matt Dinniman's Writing Distinctive
 

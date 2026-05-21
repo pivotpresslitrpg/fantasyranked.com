@@ -114,8 +114,6 @@ CONFIG = {
         "- When mentioning system apocalypse, link to /rankings/best-system-apocalypse\n"
         "- When mentioning isekai, link to /rankings/best-isekai-novels\n"
         "- When discussing new releases, link to /new-releases\n"
-        "- CROSS-SITE: When mentioning LitRPG specifically, link to https://litrpgcritic.com/blog/what-is-litrpg\n"
-        "- CROSS-SITE: For LitRPG rankings, link to https://litrpgcritic.com/lists/best-litrpg-books\n"
         "- Format as markdown links: [text](/path) or [text](https://full-url)"
     ),
 

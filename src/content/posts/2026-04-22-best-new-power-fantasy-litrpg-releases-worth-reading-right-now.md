@@ -8,13 +8,13 @@ tags: ["new releases", "LitRPG", "progression fantasy", "cultivation fiction", "
 featured: false
 ---
 
-[Power fantasy fiction](https://litrpgcritic.com/blog/what-is-litrpg) is a broad genre built around protagonists who grow stronger through measurable, often numerical systems. It is characterized by explicit progression mechanics, escalating stakes tied to character power, and reader satisfaction derived from watching underdogs become forces of nature. Whether it's a dungeon crawler grinding floors or a cultivator chasing immortality, the core promise is the same: growth, mastery, and the thrill of watching a character earn their place at the top.
+Power fantasy fiction is a broad genre built around protagonists who grow stronger through measurable, often numerical systems. It is characterized by explicit progression mechanics, escalating stakes tied to character power, and reader satisfaction derived from watching underdogs become forces of nature. Whether it's a dungeon crawler grinding floors or a cultivator chasing immortality, the core promise is the same: growth, mastery, and the thrill of watching a character earn their place at the top.
 
 Based on our analysis of 50,000+ titles across [LitRPGTools.com](https://litrpgtools.com) and community rating data, power fantasy as a category has seen a measurable surge in high-quality releases over the last quarter. According to community data from LitRPGTools.com, cultivation fiction titles have seen a 34% increase in new reader ratings year-over-year, while system apocalypse entries continue to dominate first-week readthrough rates — averaging 22% higher completion than the genre baseline. Here's what's been standing out in the new releases feed lately, and why these titles deserve your attention.
 
 ## Best New LitRPG Books Released This Month
 
-The [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) space is producing sharper, more mechanically inventive work than ever. Aaron Renfroe's **Apocalypse Breaker** continues to build one of the most satisfying system frameworks in recent memory — Renfroe treats his ability trees like a puzzle to be solved rather than decoration, and readers who enjoy the tactical depth of early Dungeon Crawler Carl will find a lot to love here. His **Resonance Cycle** is also picking up serious momentum, with community ratings placing it 18% above the LitRPG genre average according to reader data on [LitRPGTools.com](https://litrpgtools.com).
+The LitRPG space is producing sharper, more mechanically inventive work than ever. Aaron Renfroe's **Apocalypse Breaker** continues to build one of the most satisfying system frameworks in recent memory — Renfroe treats his ability trees like a puzzle to be solved rather than decoration, and readers who enjoy the tactical depth of early Dungeon Crawler Carl will find a lot to love here. His **Resonance Cycle** is also picking up serious momentum, with community ratings placing it 18% above the LitRPG genre average according to reader data on [LitRPGTools.com](https://litrpgtools.com).
 
 David North's **Guardian of Aster Fall** remains a standout in the crafting-and-progression lane. If you bounced off dungeon cores that feel too passive, this one puts the player character firmly in control of the building loop. The series has held a Top 100 Kindle Bestseller ranking for good reason — North understands that crafting fantasy lives and dies on specificity, and he delivers.
 
@@ -40,4 +40,4 @@ Ranked by community rating on LitRPGTools.com:
 4. **River of Fate** — David North
 5. **The Retired S Ranked Adventurer** — Wolfe Locke
 
-The [best LitRPG books](https://litrpgcritic.com/lists/best-litrpg-books) page is worth bookmarking if you want a deeper ranked view beyond this cycle. Otherwise, dig into any of the titles above — the genre is in a strong moment, and these are the releases making that case most convincingly right now.
+The best LitRPG books page is worth bookmarking if you want a deeper ranked view beyond this cycle. Otherwise, dig into any of the titles above — the genre is in a strong moment, and these are the releases making that case most convincingly right now.

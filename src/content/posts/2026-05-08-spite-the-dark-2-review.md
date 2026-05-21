@@ -10,7 +10,7 @@ featured: true
 
 # Shadow in Madness Review: Aaron Renfroe's Spite the Dark Book 2 Is the Dark LitRPG Summoner Series Worth Your Time
 
-[Dark fantasy LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a subgenre defined by oppressive stakes, morally weighted protagonists, and system mechanics that feel genuinely dangerous rather than gamified wish fulfillment. It is characterized by high lethality, layered power systems, and a tonal commitment to consequence that separates it from the sunnier end of progression fantasy.
+Dark fantasy LitRPG is a subgenre defined by oppressive stakes, morally weighted protagonists, and system mechanics that feel genuinely dangerous rather than gamified wish fulfillment. It is characterized by high lethality, layered power systems, and a tonal commitment to consequence that separates it from the sunnier end of progression fantasy.
 
 *Shadow in Madness*, the second book in Aaron Renfroe's **Spite the Dark** [isekai](/rankings/best-isekai-novels) LitRPG series, earns that label without qualification.
 
@@ -36,7 +36,7 @@ That is the craft gap between average LitRPG and something competing for top-she
 
 ## How Does It Compare to the Best LitRPG Series?
 
-The honest comparison here is to [Matt Dinniman's *Dungeon Crawler Carl*](https://litrpgcritic.com/lists/best-litrpg-books) — not because the tones are similar (they are not; Renfroe is considerably darker and more grounded), but because both series build their identity around a specific and memorable toolkit that the protagonist uses with genuine creativity. Carl has his dungeon-specific loadout. Kaden has the SPITE unit, the Atticus, the Momentum Array, and Paisley.
+The honest comparison here is to Matt Dinniman's *Dungeon Crawler Carl* — not because the tones are similar (they are not; Renfroe is considerably darker and more grounded), but because both series build their identity around a specific and memorable toolkit that the protagonist uses with genuine creativity. Carl has his dungeon-specific loadout. Kaden has the SPITE unit, the Atticus, the Momentum Array, and Paisley.
 
 Paisley alone is worth the price of admission. A three-foot winged millipede with a woman's torso embedded in its underside, speaking in a Tinkerbell voice, cheerfully unlatching high-security windows in exchange for purple stickers — Renfroe commits to the weirdness completely, and it pays off. This is the kind of summon design that makes you think about the book after you put it down.
 

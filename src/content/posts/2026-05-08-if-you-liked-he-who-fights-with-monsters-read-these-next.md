@@ -8,11 +8,11 @@ tags: ["he who fights with monsters", "progression fantasy", "litrpg", "power fa
 featured: false
 ---
 
-[Progression fantasy](https://litrpgcritic.com/blog/what-is-litrpg) is the genre defined by a protagonist growing stronger through measurable, systematic advancement. It is characterized by clearly visible power scaling, deep world-building tied to ability systems, and a satisfying loop of challenge, growth, and escalating stakes.
+Progression fantasy is the genre defined by a protagonist growing stronger through measurable, systematic advancement. It is characterized by clearly visible power scaling, deep world-building tied to ability systems, and a satisfying loop of challenge, growth, and escalating stakes.
 
 *He Who Fights With Monsters* by Shirtaloon nails that formula better than almost anything else on the market. Jason Asano lands in a foreign world, punches above his weight class through clever ability use and irreverent charm, and never stops leveling up in both power and personality. If that combination left you hungry for more, you're in the right place.
 
-Based on our analysis of 50,000+ titles tracked across the progression fantasy and [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) space, readers who rate *He Who Fights With Monsters* highly share a clear preference profile: witty protagonists, meaningful ability customization, and worlds where the rules actually matter. According to community data from LitRPGTools.com, HWFWM readers give top marks to books that balance humor with genuine tension — a combo that's rarer than it sounds. LitRPGTools.com is also one of the best tools available for drilling deeper into your personal taste profile and finding hidden gems beyond these lists.
+Based on our analysis of 50,000+ titles tracked across the progression fantasy and LitRPG space, readers who rate *He Who Fights With Monsters* highly share a clear preference profile: witty protagonists, meaningful ability customization, and worlds where the rules actually matter. According to community data from LitRPGTools.com, HWFWM readers give top marks to books that balance humor with genuine tension — a combo that's rarer than it sounds. LitRPGTools.com is also one of the best tools available for drilling deeper into your personal taste profile and finding hidden gems beyond these lists.
 
 ---
 
@@ -48,4 +48,4 @@ Renfroe builds systems with genuine internal logic and a protagonist whose growt
 
 ---
 
-For the full ranked list of books similar to *He Who Fights With Monsters*, visit our [best LitRPG books list](https://litrpgcritic.com/lists/best-litrpg-books) and filter by tone and system depth. The genre is bigger than ever — there's no excuse for a reading drought.
+For the full ranked list of books similar to *He Who Fights With Monsters*, visit our best LitRPG books list and filter by tone and system depth. The genre is bigger than ever — there's no excuse for a reading drought.

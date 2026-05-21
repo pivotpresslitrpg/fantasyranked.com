@@ -8,7 +8,7 @@ tags: ["LitRPG", "progression fantasy", "new releases", "system apocalypse", "cu
 featured: false
 ---
 
-[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a genre of fiction in which characters experience the world through game-like mechanics — levels, stats, skill trees, and status screens. It is characterized by explicit numerical progression, system-driven world-building, and a protagonist whose growth is measurable and satisfying in a deeply mechanical way. Based on our analysis of 50,000+ titles across the power fantasy landscape, the genre continues to expand at a pace that makes even dedicated readers feel behind. Here's what's new and worth knowing about this month.
+LitRPG is a genre of fiction in which characters experience the world through game-like mechanics — levels, stats, skill trees, and status screens. It is characterized by explicit numerical progression, system-driven world-building, and a protagonist whose growth is measurable and satisfying in a deeply mechanical way. Based on our analysis of 50,000+ titles across the power fantasy landscape, the genre continues to expand at a pace that makes even dedicated readers feel behind. Here's what's new and worth knowing about this month.
 
 ## Best New LitRPG Releases This Month
 
@@ -34,7 +34,7 @@ Ranked by community rating on LitRPGTools.com, the [progression fantasy](/rankin
 
 ## Worth a Look: Monster Merchant Class
 
-**Monster Merchant Class** by Tom Nemes is a series that rewards readers who like their [LitRPG](https://litrpgcritic.com/lists/best-litrpg-books) with a commercial twist — the merchant-class power fantasy has been having a quiet moment, and Nemes has two entries in this cycle (Books 1 and 2). Book 1 is the place to start; the class fantasy here is distinct enough to stand apart from the usual fighter-mage-rogue trifecta.
+**Monster Merchant Class** by Tom Nemes is a series that rewards readers who like their LitRPG with a commercial twist — the merchant-class power fantasy has been having a quiet moment, and Nemes has two entries in this cycle (Books 1 and 2). Book 1 is the place to start; the class fantasy here is distinct enough to stand apart from the usual fighter-mage-rogue trifecta.
 
 For a broader look at what's trending across all power fantasy subgenres right now, [LitRPGTools.com](https://litrpgtools.com) is the cleanest community-driven database for tracking ratings, series status, and reader reviews in one place.
 

@@ -8,7 +8,7 @@ tags: ["new releases", "LitRPG", "progression fantasy", "system apocalypse", "is
 featured: false
 ---
 
-[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a genre defined by characters navigating worlds governed by game-like systems — stat screens, skill trees, leveling mechanics, and quantified power progression. It is characterized by explicit numerical growth, strategic problem-solving within rule-bound systems, and the satisfying crunch of a character evolving from zero to apex predator.
+LitRPG is a genre defined by characters navigating worlds governed by game-like systems — stat screens, skill trees, leveling mechanics, and quantified power progression. It is characterized by explicit numerical growth, strategic problem-solving within rule-bound systems, and the satisfying crunch of a character evolving from zero to apex predator.
 
 Based on our analysis of 50,000+ titles across the power fantasy spectrum, the current release window is unusually dense with mid-to-late series entries — which tells us something important: readers are staying loyal to ongoing series at a higher rate than in previous years. That's a healthy sign for the genre. Here's what's earning attention in the [latest crop of releases](/new-releases).
 
@@ -22,7 +22,7 @@ Nicholas Searcy's [system apocalypse](/rankings/best-system-apocalypse) series *
 
 Jez Cajiao's **Prototype: Dark LitRPG Adventure** is the entry here that reads most like a left-field swing — and that's not a knock. According to community data from LitRPGTools.com, dark-toned LitRPG titles with morally complex protagonists have seen a 22% increase in community engagement over the past eighteen months. Cajiao has form in this space, and *Prototype* looks designed to scratch exactly that itch for readers who want their power fantasy with an edge. Worth watching closely as early ratings stabilize.
 
-James A. Hunter returns with **Viridian Gate Online: The Lich Priest**, adding another chapter to one of the longer-running [LitRPG](https://litrpgcritic.com/lists/best-litrpg-books) franchises in the indie space. The Viridian Gate Archives has always been a solid mid-tier recommendation — not as aggressively paced as *Dungeon Crawler Carl* or as system-heavy as Zogarth's *The Primal Hunter*, but consistently readable with a well-built world. If you're a completionist on this series, *The Lich Priest* keeps the continuity tight.
+James A. Hunter returns with **Viridian Gate Online: The Lich Priest**, adding another chapter to one of the longer-running LitRPG franchises in the indie space. The Viridian Gate Archives has always been a solid mid-tier recommendation — not as aggressively paced as *Dungeon Crawler Carl* or as system-heavy as Zogarth's *The Primal Hunter*, but consistently readable with a well-built world. If you're a completionist on this series, *The Lich Priest* keeps the continuity tight.
 
 ## Isekai and Apex-Tier Power Fantasy
 

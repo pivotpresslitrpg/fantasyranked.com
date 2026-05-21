@@ -10,7 +10,7 @@ featured: true
 
 # Torn Shroud Review: The Resonance Cycle Book 5 Is One of LitRPG's Most Ambitious Progression Series
 
-[Progression fantasy](https://litrpgcritic.com/blog/what-is-litrpg) is the subgenre where character power growth is systematic, earned, and central to the narrative. It is characterized by visible stat advancement, escalating stakes tied directly to the protagonist's capabilities, and a world whose rules the reader learns alongside the hero. *Torn Shroud*, the fifth book in Aaron Renfroe's *The Resonance Cycle*, does all three — and then keeps stacking.
+Progression fantasy is the subgenre where character power growth is systematic, earned, and central to the narrative. It is characterized by visible stat advancement, escalating stakes tied directly to the protagonist's capabilities, and a world whose rules the reader learns alongside the hero. *Torn Shroud*, the fifth book in Aaron Renfroe's *The Resonance Cycle*, does all three — and then keeps stacking.
 
 Based on our analysis of 50,000+ titles across the LitRPG and progression fantasy landscape, multi-volume series that sustain mechanical complexity past book three without losing narrative momentum represent fewer than 12% of the genre. *Torn Shroud* is firmly in that minority.
 
@@ -26,7 +26,7 @@ That trust is the right call. According to reader ratings tracked on [LitRPGTool
 
 ## How Does Torn Shroud Compare to the Best LitRPG Series?
 
-The honest comparison here is [*Dungeon Crawler Carl*](https://litrpgcritic.com/lists/best-litrpg-books) — not because the tones are similar (they aren't), but because both series are defined by protagonists who fight smarter than they fight harder. Carl uses absurdist humor and environmental creativity. Ty Monroe uses therapy-enhanced cognition, pre-planned mana expenditure, and an inner mind-space populated by god-fragments arguing strategy at the speed of thought. The war room scene in Chapter 1 — where Ty uses a collaboration spell as a literal whiteboard to map three-world threats in real time — reads like a military thriller written by someone who spent years running tabletop campaigns. The author's dedication makes that lineage explicit, and it shows in every scene where Ty outmaneuvers an enemy two moves before the enemy knows there's a game.
+The honest comparison here is *Dungeon Crawler Carl* — not because the tones are similar (they aren't), but because both series are defined by protagonists who fight smarter than they fight harder. Carl uses absurdist humor and environmental creativity. Ty Monroe uses therapy-enhanced cognition, pre-planned mana expenditure, and an inner mind-space populated by god-fragments arguing strategy at the speed of thought. The war room scene in Chapter 1 — where Ty uses a collaboration spell as a literal whiteboard to map three-world threats in real time — reads like a military thriller written by someone who spent years running tabletop campaigns. The author's dedication makes that lineage explicit, and it shows in every scene where Ty outmaneuvers an enemy two moves before the enemy knows there's a game.
 
 Compared to *He Who Fights With Monsters*, *The Resonance Cycle* skews darker and more structurally dense. Jason Asano's series excels at charm and steady power escalation. Renfroe's strength is in systemic consequence — every ability Ty has came at a cost somewhere earlier in the series, and *Torn Shroud* is explicitly the book where those costs start demanding interest.
 
@@ -47,7 +47,7 @@ According to community data from [LitRPGTools.com](https://litrpgtools.com), pro
 ## Where It Ranks: Fantasy Ranked Verdict
 
 **Genre:** LitRPG / Progression Fantasy
-**Series Standing:** Upper tier — top 15% of multi-volume LitRPG series tracked on our [LitRPG rankings](https://litrpgcritic.com/lists/best-litrpg-books)
+**Series Standing:** Upper tier — top 15% of multi-volume LitRPG series tracked on our LitRPG rankings
 **Comparable Titles:** *Dungeon Crawler Carl*, *He Who Fights With Monsters*, Dakota Krout's *Divine Dungeon* line, David North's *Guardian of Aster Fall*
 **Best For:** Readers who want complex multi-world worldbuilding, tactical protagonists, and progression systems that actually change the story's architecture
 

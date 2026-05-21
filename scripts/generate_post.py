@@ -358,11 +358,6 @@ def gen_platform_bridge(state: dict) -> dict:
             'url': 'https://litrpgtools.com',
             'description': 'LitRPG book database, AI-powered generators (character builds, skill trees, dungeon runs, boss encounters, world systems), community ratings and reviews, gamification system',
         },
-        {
-            'name': 'LitRPG Critic',
-            'url': 'https://litrpgcritic.com',
-            'description': 'LitRPG editorial reviews, reading-order guides, author spotlights, and deep-dives into the LitRPG and progression fantasy space — a companion editorial site to Fantasy Ranked',
-        },
     ]
     idx = state.get('feature_queue_index', 0)
     platform = platforms[idx % len(platforms)]

@@ -14,7 +14,7 @@ Progression fantasy is a genre defined by the systematic, satisfying growth of a
 
 Shirtaloon is the pen name of an Australian author who built one of the largest dedicated readerships in modern progression fantasy almost entirely through Royal Road before transitioning to wide publication. Based on our analysis of 50,000+ titles tracked across the fantasy community, *He Who Fights With Monsters* consistently ranks as one of the top-rated long-running progression fantasy series available — a remarkable achievement in a genre where reader drop-off over multi-book arcs is common.
 
-The numbers back this up. According to community data from LitRPGTools.com, *He Who Fights With Monsters* holds a reader retention rate across its published volumes that outperforms the genre average by over 30%. It's also one of the most-listed titles in "what should I read next?" threads across every major [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) and progression fantasy community online.
+The numbers back this up. According to community data from LitRPGTools.com, *He Who Fights With Monsters* holds a reader retention rate across its published volumes that outperforms the genre average by over 30%. It's also one of the most-listed titles in "what should I read next?" threads across every major LitRPG and progression fantasy community online.
 
 ## What Makes He Who Fights With Monsters So Good?
 
@@ -50,4 +50,4 @@ If you want to do your homework before diving in, [LitRPGTools.com](https://litr
 
 Shirtaloon is the kind of author this genre needs more of — someone who takes the mechanics seriously, takes the character seriously, and delivers on both without sacrificing one for the other. If your progression fantasy reading list doesn't include *He Who Fights With Monsters*, that's the first thing to fix. It belongs in the same conversation as the best long-running series the genre has produced, and it only gets better as it goes.
 
-Check out our full [LitRPG rankings](https://litrpgcritic.com/lists/best-litrpg-books) to see where the community has it ranked right now — and keep an eye on [new releases](/new-releases) for upcoming Shirtaloon volumes.
+Check out our full LitRPG rankings to see where the community has it ranked right now — and keep an eye on [new releases](/new-releases) for upcoming Shirtaloon volumes.

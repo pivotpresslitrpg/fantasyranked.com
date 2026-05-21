@@ -8,13 +8,13 @@ tags: ["new releases", "LitRPG", "progression fantasy", "cultivation", "system a
 featured: false
 ---
 
-[Power fantasy fiction](https://litrpgcritic.com/blog/what-is-litrpg) is a genre defined by the systematic, satisfying progression of a protagonist's strength, abilities, or status within a rule-governed world. It is characterized by explicit leveling mechanics, escalating stakes, and a deep focus on character growth through conflict, training, or system mastery. Right now, the genre is producing some of its best work — and if you haven't checked [what's new](/new-releases) lately, you've got ground to cover.
+Power fantasy fiction is a genre defined by the systematic, satisfying progression of a protagonist's strength, abilities, or status within a rule-governed world. It is characterized by explicit leveling mechanics, escalating stakes, and a deep focus on character growth through conflict, training, or system mastery. Right now, the genre is producing some of its best work — and if you haven't checked [what's new](/new-releases) lately, you've got ground to cover.
 
 Based on our analysis of 50,000+ titles across LitRPG, cultivation, dungeon core, and [system apocalypse](/rankings/best-system-apocalypse) subgenres, the spring 2026 release window is leaning hard into tightly plotted progression arcs and world-building that rewards long-term readers. Here's what's earning attention.
 
 ## Best New LitRPG Books in 2026
 
-The strongest new [LitRPG releases](https://litrpgcritic.com/lists/best-litrpg-books) this cycle are distinguished by mechanical creativity and narrative momentum — not just stat sheets. According to community data from LitRPGTools.com, system apocalypse titles with ensemble casts average 14% higher reader retention ratings than solo-protagonist entries. That trend shows up clearly in the current release slate.
+The strongest new LitRPG releases this cycle are distinguished by mechanical creativity and narrative momentum — not just stat sheets. According to community data from LitRPGTools.com, system apocalypse titles with ensemble casts average 14% higher reader retention ratings than solo-protagonist entries. That trend shows up clearly in the current release slate.
 
 **Dungeon Crawler Carl** remains the gold standard Matt Dinniman set for the genre — irreverent, brutal, mechanically inventive — and new releases are being measured against that bar. Any progression fantasy launching this season that doesn't bring a distinct voice to its system design is going to feel derivative by comparison.
 

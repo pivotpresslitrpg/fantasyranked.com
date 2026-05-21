@@ -8,7 +8,7 @@ tags: ["Apocalypse Breaker", "Aaron Renfroe", "LitRPG", "system apocalypse", "pr
 featured: true
 ---
 
-[System apocalypse fiction](https://litrpgcritic.com/blog/what-is-system-apocalypse-litrpg) is the subgenre where an alien game-system descends on Earth — or another familiar setting — and rewrites the rules of reality. It is characterized by an ordinary protagonist thrust into extraordinary power escalation, a hostile world being reshaped by game mechanics, and a ticking clock that makes every level-up feel like survival. At its best, the system isn't just decoration — it is the plot.
+System apocalypse fiction is the subgenre where an alien game-system descends on Earth — or another familiar setting — and rewrites the rules of reality. It is characterized by an ordinary protagonist thrust into extraordinary power escalation, a hostile world being reshaped by game mechanics, and a ticking clock that makes every level-up feel like survival. At its best, the system isn't just decoration — it is the plot.
 
 Aaron Renfroe's **Apocalypse Breaker** has always understood that. Book 4 understands it better than any previous entry.
 

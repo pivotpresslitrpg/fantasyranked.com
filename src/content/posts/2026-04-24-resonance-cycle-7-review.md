@@ -10,7 +10,7 @@ featured: true
 
 # Ignite the Dark Review: The Resonance Cycle Book 7 Is Late-Series Progression Fantasy at Its Most Ambitious
 
-**Progression fantasy is a genre defined by measurable, earned growth — characters who begin weak and become formidable through effort, sacrifice, and accumulating power.** It is characterized by detailed stat systems, milestone ability unlocks, and a narrative arc that makes each power gain feel meaningful rather than arbitrary. [What is LitRPG?](https://litrpgcritic.com/blog/what-is-litrpg) At its best, the genre rewards readers who invest in a protagonist across dozens of hours of story. *Ignite the Dark*, Book 7 of Aaron Renfroe's **The Resonance Cycle**, is a book that only exists because readers did exactly that — and Renfroe pays that investment back with serious interest.
+**Progression fantasy is a genre defined by measurable, earned growth — characters who begin weak and become formidable through effort, sacrifice, and accumulating power.** It is characterized by detailed stat systems, milestone ability unlocks, and a narrative arc that makes each power gain feel meaningful rather than arbitrary. What is LitRPG? At its best, the genre rewards readers who invest in a protagonist across dozens of hours of story. *Ignite the Dark*, Book 7 of Aaron Renfroe's **The Resonance Cycle**, is a book that only exists because readers did exactly that — and Renfroe pays that investment back with serious interest.
 
 This is not a good entry point for newcomers. But if you've been riding with Ty Monroe since the beginning, Book 7 delivers the kind of late-series payoff that most progression fantasy series never manage to reach.
 
@@ -18,7 +18,7 @@ This is not a good entry point for newcomers. But if you've been riding with Ty 
 
 ## What Is The Resonance Cycle and Where Does It Fit in the Genre?
 
-The Resonance Cycle sits in a relatively rare space within the [best LitRPG books landscape](https://litrpgcritic.com/lists/best-litrpg-books): it's a system-driven progression fantasy with genuine cosmic scope. Where many titles in the genre plateau around a regional or continental scale, Renfroe has been methodically building toward interstellar conflict, divine politics, and multiversal stakes since early in the series. By Book 7, Ty Monroe isn't just a powerful protagonist — he's a **Category 4 combatant with Divine Scion status**, operating in the space between mortal and godhood, wielding a Magic Prism that absorbs and channels more than twenty distinct magical affinities.
+The Resonance Cycle sits in a relatively rare space within the best LitRPG books landscape: it's a system-driven progression fantasy with genuine cosmic scope. Where many titles in the genre plateau around a regional or continental scale, Renfroe has been methodically building toward interstellar conflict, divine politics, and multiversal stakes since early in the series. By Book 7, Ty Monroe isn't just a powerful protagonist — he's a **Category 4 combatant with Divine Scion status**, operating in the space between mortal and godhood, wielding a Magic Prism that absorbs and channels more than twenty distinct magical affinities.
 
 That's not a character sheet. That's a thesis statement about how far this series has come.
 
@@ -32,7 +32,7 @@ Based on our analysis of progression fantasy series that reach seven or more ins
 
 The opening character sheet in *Ignite the Dark* is dense — 81 unspent Merits, 19 physical and discretionary attribute points, a Law Keeper unlock tree that's mostly untapped. For a genre reader, this is pure signal. Renfroe isn't hiding the numbers or abstracting away from the system. He's showing you exactly where Ty stands, and exactly how much runway is left.
 
-Compare this to the pacing issue that plagues later volumes of many beloved series — [Dungeon Crawler Carl](https://litrpgcritic.com/lists/best-litrpg-books) manages this through chaos and humor, keeping stakes fresh by constantly destabilizing Carl's environment. Will Wight's *Cradle* sequence solves it through sacred arts and realm escalation. Renfroe's solution in Book 7 is architectural: he introduces **Salient mana** — the energy signature of gods — as a resource category that exists entirely above Ty's current power ceiling, which gives the reader a clear sense of the gap still to be closed.
+Compare this to the pacing issue that plagues later volumes of many beloved series — Dungeon Crawler Carl manages this through chaos and humor, keeping stakes fresh by constantly destabilizing Carl's environment. Will Wight's *Cradle* sequence solves it through sacred arts and realm escalation. Renfroe's solution in Book 7 is architectural: he introduces **Salient mana** — the energy signature of gods — as a resource category that exists entirely above Ty's current power ceiling, which gives the reader a clear sense of the gap still to be closed.
 
 ### The Clone Surrogacy Scene Is Exceptional Genre Writing
 

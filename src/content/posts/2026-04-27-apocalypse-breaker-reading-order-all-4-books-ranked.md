@@ -8,7 +8,7 @@ tags: ["Apocalypse Breaker", "Aaron Renfroe", "reading order", "LitRPG", "system
 featured: false
 ---
 
-[System apocalypse fiction](https://litrpgcritic.com/blog/what-is-system-apocalypse-litrpg) is built on a simple, endlessly engaging premise: the day everything familiar gets rewritten by an alien game system. What separates the great series from the forgettable ones is how much the author commits to the internal logic of their system — and whether the power progression feels earned.
+System apocalypse fiction is built on a simple, endlessly engaging premise: the day everything familiar gets rewritten by an alien game system. What separates the great series from the forgettable ones is how much the author commits to the internal logic of their system — and whether the power progression feels earned.
 
 Aaron Renfroe's **Apocalypse Breaker** is one of the most mechanically committed series in the genre. With Book 4 just released and the series now establishing itself in the upper tier of system apocalypse LitRPG, this is the complete reading guide for anyone ready to start — or anyone who needs to know whether the series maintains its quality across four volumes.
 

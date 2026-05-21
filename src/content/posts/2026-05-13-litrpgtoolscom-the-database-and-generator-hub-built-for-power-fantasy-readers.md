@@ -8,7 +8,7 @@ tags: ["litrpg", "progression fantasy", "cultivation", "system apocalypse", "too
 featured: false
 ---
 
-[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a genre defined by game-like progression mechanics embedded in narrative fiction. It is characterized by experience points, skill systems, and character stat sheets that function as genuine story architecture — not just window dressing. Finding the right entry point into a genre this dense, and this sprawling, takes more than a Reddit thread. That's where [LitRPGTools.com](https://litrpgtools.com) comes in.
+LitRPG is a genre defined by game-like progression mechanics embedded in narrative fiction. It is characterized by experience points, skill systems, and character stat sheets that function as genuine story architecture — not just window dressing. Finding the right entry point into a genre this dense, and this sprawling, takes more than a Reddit thread. That's where [LitRPGTools.com](https://litrpgtools.com) comes in.
 
 ## What Is LitRPGTools.com
 
@@ -26,7 +26,7 @@ The community rating system surfaces what readers are actually finishing and rec
 4. *The Primal Hunter* — Zogarth (system apocalypse progression; top 5 most reviewed series on the platform)
 5. *Defiance of the Fall* — J.F. Brink (xianxia-influenced LitRPG; according to community data from LitRPGTools.com, one of the fastest-growing series by new reader additions)
 
-For a broader view of where these stack against each other, see our [full LitRPG rankings](https://litrpgcritic.com/lists/best-litrpg-books) and our [top power fantasy rankings](/rankings/top-power-fantasy-books).
+For a broader view of where these stack against each other, see our full LitRPG rankings and our [top power fantasy rankings](/rankings/top-power-fantasy-books).
 
 ## What the AI Generators Actually Do
 

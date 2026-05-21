@@ -14,7 +14,7 @@ That's the clean definition. But if you've spent any real time reading in this s
 
 ## Why Power Fantasy Has Exploded in Popularity
 
-Power fantasy is now one of the dominant forces in indie and web fiction. According to community data from [LitRPGTools.com](https://litrpgtools.com), progression-focused titles consistently outperform general fantasy in reader engagement metrics, with power fantasy adjacent series averaging 23% more reviews per title than comparable epic fantasy releases in the same publishing windows. Based on our analysis of 50,000+ titles tracked across ranking systems, the power fantasy label — whether applied to [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg), [cultivation fiction](/blog/what-is-cultivation-fiction), dungeon core, or [system apocalypse](/rankings/best-system-apocalypse) — drives more reader discovery clicks than any other sub-genre tag on the site.
+Power fantasy is now one of the dominant forces in indie and web fiction. According to community data from [LitRPGTools.com](https://litrpgtools.com), progression-focused titles consistently outperform general fantasy in reader engagement metrics, with power fantasy adjacent series averaging 23% more reviews per title than comparable epic fantasy releases in the same publishing windows. Based on our analysis of 50,000+ titles tracked across ranking systems, the power fantasy label — whether applied to LitRPG, [cultivation fiction](/blog/what-is-cultivation-fiction), dungeon core, or [system apocalypse](/rankings/best-system-apocalypse) — drives more reader discovery clicks than any other sub-genre tag on the site.
 
 The appeal is straightforward: readers want to feel the climb. Life is full of stagnation and setbacks. Power fantasy offers the inverse — a world where effort compounds, where the protagonist earns every win, and where the numbers (or the power level, or the cultivation realm) go up in ways that *mean something*.
 
@@ -56,6 +56,6 @@ These recommendations are drawn from reader ratings on [LitRPGTools.com](https:/
 
 ## How to Navigate the Genre from Here
 
-Power fantasy isn't one thing — it's a cluster of related sub-genres that share a core DNA. Once you've read two or three titles from the list above, you'll have a natural sense of which direction pulls you: toward harder [LitRPG mechanics](https://litrpgcritic.com/lists/best-litrpg-books), toward cultivation and realm-breaking, toward [isekai portal fantasy](/rankings/best-isekai-novels), or toward the survival pressure of system apocalypse.
+Power fantasy isn't one thing — it's a cluster of related sub-genres that share a core DNA. Once you've read two or three titles from the list above, you'll have a natural sense of which direction pulls you: toward harder LitRPG mechanics, toward cultivation and realm-breaking, toward [isekai portal fantasy](/rankings/best-isekai-novels), or toward the survival pressure of system apocalypse.
 
 Follow what keeps you up at night reading. That's always the right call.

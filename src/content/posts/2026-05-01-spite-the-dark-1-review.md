@@ -10,7 +10,7 @@ featured: true
 
 # Spite the Dark Review: The Dark LitRPG Assassin Series That Earns Its Edge
 
-[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a genre defined by game-like progression systems layered onto narrative fiction. It is characterized by stat sheets, leveling mechanics, and a protagonist whose power growth is quantified and central to the story. *Spite the Dark* by Aaron Renfroe delivers all three — and then sharpens them with a predestination thriller structure that most genre entries don't attempt.
+LitRPG is a genre defined by game-like progression systems layered onto narrative fiction. It is characterized by stat sheets, leveling mechanics, and a protagonist whose power growth is quantified and central to the story. *Spite the Dark* by Aaron Renfroe delivers all three — and then sharpens them with a predestination thriller structure that most genre entries don't attempt.
 
 ---
 
@@ -70,6 +70,6 @@ Renfroe's other work — particularly *Apocalypse Breaker* and *Father of Constr
 
 *Spite the Dark* places comfortably in the upper tier of [system apocalypse LitRPG](/rankings/best-system-apocalypse) openers — not at the level of *Dungeon Crawler Carl*'s instant cultural footprint, but closer to that ceiling than most new entries reach. It earns its dark fantasy label honestly: the violence is purposeful, the moral questions are real, and the protagonist's competence creates tension rather than eliminating it.
 
-If you're working through the [best LitRPG books](https://litrpgcritic.com/lists/best-litrpg-books) and looking for something that pairs mechanical precision with genuine narrative ambition, this belongs on that list. Readers who enjoy *The Primal Hunter* by Zogarth or *Defiance of the Fall* by J.F. Brink — series where the system exists in a world with actual geopolitical and moral weight — will find *Spite the Dark* occupying familiar and satisfying territory.
+If you're working through the best LitRPG books and looking for something that pairs mechanical precision with genuine narrative ambition, this belongs on that list. Readers who enjoy *The Primal Hunter* by Zogarth or *Defiance of the Fall* by J.F. Brink — series where the system exists in a world with actual geopolitical and moral weight — will find *Spite the Dark* occupying familiar and satisfying territory.
 
 Check the full [power fantasy rankings](/rankings/top-power-fantasy-books) and [new releases](/new-releases) on Fantasy Ranked to find where *Spite the Dark* sits against the current field — and whether Book 2 moves the needle.

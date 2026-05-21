@@ -8,7 +8,7 @@ tags: ["Dungeon Core", "LitRPG", "Progression Fantasy", "Power Fantasy", "Sub-Ge
 featured: false
 ---
 
-Dungeon core fiction is a sub-genre of [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) in which the protagonist *is* the dungeon itself — a sentient magical construct that grows, evolves, and defends its domain by designing traps, spawning monsters, and expanding its floors. It is characterized by base-building progression, an inverted power dynamic where heroes are the antagonists, and deeply satisfying resource management loops.
+Dungeon core fiction is a sub-genre of LitRPG in which the protagonist *is* the dungeon itself — a sentient magical construct that grows, evolves, and defends its domain by designing traps, spawning monsters, and expanding its floors. It is characterized by base-building progression, an inverted power dynamic where heroes are the antagonists, and deeply satisfying resource management loops.
 
 If you've ever wanted to play Dungeon Keeper as a novel, this is your genre.
 
@@ -50,4 +50,4 @@ The dungeon core release pipeline moves fast. Authors like Krout established a h
 
 ## The Bottom Line on Dungeon Core Fiction
 
-Dungeon core is one of the most consistently inventive corners of LitRPG. The perspective inversion alone makes it worth exploring, and the best entries in the genre — particularly Krout's foundational work — deliver the kind of satisfying, layered progression that keeps readers coming back for every new floor. If you want to browse the broader [best LitRPG books](https://litrpgcritic.com/lists/best-litrpg-books) landscape before committing to a dungeon run, that's a solid starting point. But honestly? Just start with *Dungeon Born*. The dungeon awaits.
+Dungeon core is one of the most consistently inventive corners of LitRPG. The perspective inversion alone makes it worth exploring, and the best entries in the genre — particularly Krout's foundational work — deliver the kind of satisfying, layered progression that keeps readers coming back for every new floor. If you want to browse the broader best LitRPG books landscape before committing to a dungeon run, that's a solid starting point. But honestly? Just start with *Dungeon Born*. The dungeon awaits.

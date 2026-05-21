@@ -10,7 +10,7 @@ featured: true
 
 # Knight Unleashed Review: The Resonance Cycle Book 6 Is the Series Payoff LitRPG Fans Have Been Waiting For
 
-[Progression fantasy](https://litrpgcritic.com/blog/what-is-litrpg) is a subgenre defined by earned power escalation and the systematic dismantling of limits placed on a protagonist. It is characterized by meaningful stat progression, world-building that rewards returning readers, and climactic moments where accumulated growth pays off in full.
+Progression fantasy is a subgenre defined by earned power escalation and the systematic dismantling of limits placed on a protagonist. It is characterized by meaningful stat progression, world-building that rewards returning readers, and climactic moments where accumulated growth pays off in full.
 
 *Knight Unleashed* — Book 6 of Aaron Renfroe's **The Resonance Cycle** — is that kind of payoff book. And it earns it.
 
@@ -18,7 +18,7 @@ featured: true
 
 ## What Is The Resonance Cycle? (Series Context for New Readers)
 
-The Resonance Cycle is a [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) series built around Ty Monroe, a Divine Scion of the Wild operating inside a contested magic system where gods, scions, and interdimensional politics collide. It's not a simple dungeon-grind or solo-leveling power trip. Renfroe has been constructing a layered world where divine factions maneuver, moral complexity sits alongside combat escalation, and the protagonist's power is deliberately constrained — until, as of Book 6, it isn't.
+The Resonance Cycle is a LitRPG series built around Ty Monroe, a Divine Scion of the Wild operating inside a contested magic system where gods, scions, and interdimensional politics collide. It's not a simple dungeon-grind or solo-leveling power trip. Renfroe has been constructing a layered world where divine factions maneuver, moral complexity sits alongside combat escalation, and the protagonist's power is deliberately constrained — until, as of Book 6, it isn't.
 
 By the time *Knight Unleashed* opens, Ty is chained to a bench in a prison cell while Law's agents attempt to strip his abilities using a divine-tier extractor. That's the floor the book starts from. What follows is a controlled detonation.
 
@@ -28,7 +28,7 @@ By the time *Knight Unleashed* opens, Ty is chained to a bench in a prison cell 
 
 **Yes — and specifically in the areas that matter most to long-term series readers.**
 
-Based on our analysis of 50,000+ titles tracked across the genre, Book 6 entries in LitRPG series face a specific structural challenge: they must reward invested readers without becoming inaccessible to anyone arriving mid-series. *Knight Unleashed* threads this better than most. The opening character sheet alone — tracking Ty's skills, merits, fractal charges, and equipment across a dozen categories — signals the kind of mechanical density that [top-ranked LitRPG readers](https://litrpgcritic.com/lists/best-litrpg-books) actively seek out.
+Based on our analysis of 50,000+ titles tracked across the genre, Book 6 entries in LitRPG series face a specific structural challenge: they must reward invested readers without becoming inaccessible to anyone arriving mid-series. *Knight Unleashed* threads this better than most. The opening character sheet alone — tracking Ty's skills, merits, fractal charges, and equipment across a dozen categories — signals the kind of mechanical density that top-ranked LitRPG readers actively seek out.
 
 Comparable titles come to mind immediately. **Dungeon Crawler Carl** (Matt Dinniman) uses a similar formula of protagonist-in-a-cage escalating to terrifying competence, and Renfroe matches that energy beat for beat in the prison escape sequence. Where Carl gets comedy and chaos, Ty gets something colder — three sentences from his goddess, and then he's simply *unleashed*. The prose doesn't over-explain it. The character sheet notification reads: *You have adapted to Law's restraints. You are unbound.* That's it. That restraint is effective.
 
@@ -50,7 +50,7 @@ The divine politics interlude that opens the book also punches above its weight.
 
 ## Where Does The Resonance Cycle Fit in the Broader Genre Landscape?
 
-The Resonance Cycle sits in the upper tier of multi-book [LitRPG series](https://litrpgcritic.com/lists/best-litrpg-books) that have successfully built toward a Book 6. According to reader ratings tracked on LitRPGTools.com, series that maintain mechanical coherence across six entries while escalating stakes show approximately 40% higher series-completion rates than the genre average — and Renfroe's series architecture justifies that loyalty.
+The Resonance Cycle sits in the upper tier of multi-book LitRPG series that have successfully built toward a Book 6. According to reader ratings tracked on LitRPGTools.com, series that maintain mechanical coherence across six entries while escalating stakes show approximately 40% higher series-completion rates than the genre average — and Renfroe's series architecture justifies that loyalty.
 
 It doesn't have the viral accessibility of **He Who Fights With Monsters** (Shirtaloon) or the cozy entry-point of Wolfe Locke's farming and tavern-keeper progressions. This is a dense, committed series for readers who want their power fantasy to carry six books of accumulated consequence. If you're looking for something with similar divine-faction complexity and a protagonist shaped by institutional constraint, **David North's Guardian of Aster Fall** and **River of Fate** are worth cross-referencing — both handle the intersection of systemic progression and world-level stakes with comparable seriousness.
 
@@ -73,7 +73,7 @@ But if you're already in? Book 6 delivers. The promise of "be unleashed" isn't a
 **Entry Point for New Readers: Low (series commitment required)**
 **Comparable To: Dungeon Crawler Carl (tonal), Cradle (faction-level world-building), Defiance of the Fall (system integration)**
 
-*Knight Unleashed* is the book long-term Resonance readers have been building toward. It doesn't waste the setup. For fans of dense, consequence-heavy [LitRPG progression fantasy](https://litrpgcritic.com/lists/best-litrpg-books), this series belongs in the conversation alongside the genre's best multi-volume works.
+*Knight Unleashed* is the book long-term Resonance readers have been building toward. It doesn't waste the setup. For fans of dense, consequence-heavy LitRPG progression fantasy, this series belongs in the conversation alongside the genre's best multi-volume works.
 
 ---
 

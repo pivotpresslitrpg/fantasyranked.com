@@ -8,7 +8,7 @@ tags: ["LitRPG vs Progression Fantasy", "LitRPG", "progression fantasy", "genre 
 featured: false
 ---
 
-[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a subgenre of fantasy fiction in which characters exist inside a world governed by explicit role-playing game mechanics. It is characterized by visible stat blocks, experience point systems, and numerical progression that the reader can track alongside the protagonist. Progression fantasy, by contrast, is broader: it captures any story where a character grows systematically in power over time — but the game UI is optional.
+LitRPG is a subgenre of fantasy fiction in which characters exist inside a world governed by explicit role-playing game mechanics. It is characterized by visible stat blocks, experience point systems, and numerical progression that the reader can track alongside the protagonist. Progression fantasy, by contrast, is broader: it captures any story where a character grows systematically in power over time — but the game UI is optional.
 
 These two labels get conflated constantly, and it's understandable. Both are power fantasies at heart. Both appeal to readers who want to feel every level-up. But the distinction matters when you're trying to figure out which shelf to shop from — so let's settle it clearly.
 
@@ -32,7 +32,7 @@ The overlap is real, though. Many of the best books blur the boundary intentiona
 
 ## The Best Gateway Books for Both Subgenres
 
-Here are eight titles worth starting with, ranked by their usefulness as entry points — meaning accessibility, quality, and how well they represent the subgenre's strengths. For deeper rankings, see the full list at [LitRPGCritic](https://litrpgcritic.com/lists/best-litrpg-books).
+Here are eight titles worth starting with, ranked by their usefulness as entry points — meaning accessibility, quality, and how well they represent the subgenre's strengths. For deeper rankings, browse our [top power fantasy rankings](/rankings/top-power-fantasy-books).
 
 1. **Dungeon Crawler Carl** (Matt Dinniman) — The genre's most viral title for good reason. Sharp writing, a brutal [system apocalypse](/rankings/best-system-apocalypse) premise, and a protagonist whose voice carries you through even the densest stat sections. Start here if you're new to everything.
 

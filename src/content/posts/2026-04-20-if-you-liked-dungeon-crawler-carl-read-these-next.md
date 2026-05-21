@@ -8,7 +8,7 @@ tags: ["dungeon crawler carl", "litrpg", "system apocalypse", "progression fanta
 featured: false
 ---
 
-[Dungeon Crawler Carl](https://litrpgcritic.com/blog/what-is-litrpg) sits at the intersection of brutal [LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) systems and razor-sharp satire. It is characterized by high-stakes dungeon progression, deeply personal character voice, and a system that feels like it was designed by a sadistic game show producer.
+Dungeon Crawler Carl sits at the intersection of brutal LitRPG systems and razor-sharp satire. It is characterized by high-stakes dungeon progression, deeply personal character voice, and a system that feels like it was designed by a sadistic game show producer.
 
 If you burned through Carl and Princess Donut's descent and you're now staring at a void-shaped hole in your reading list, we've got you covered. Based on our analysis of 50,000+ titles across the LitRPG and progression fantasy landscape, these are the books most likely to scratch that exact itch.
 
@@ -18,7 +18,7 @@ The best Dungeon Crawler Carl read-alikes share at least two of three traits: a 
 
 ## Top Books Like Dungeon Crawler Carl (Ranked by Community Rating)
 
-1. **He Who Fights With Monsters** by Shirtaloon/Travis Deverell — [He Who Fights With Monsters](https://litrpgcritic.com/lists/best-litrpg-books) delivers the same blend of irreverent humor and intelligent system-building that made Carl iconic. The protagonist Jason Asano is transplanted into a world of monsters and magic with all the self-awareness of someone who's read too many fantasy novels — and it works brilliantly. Book 9 is sitting at a perfect 5.0★ in our database right now.
+1. **He Who Fights With Monsters** by Shirtaloon/Travis Deverell — He Who Fights With Monsters delivers the same blend of irreverent humor and intelligent system-building that made Carl iconic. The protagonist Jason Asano is transplanted into a world of monsters and magic with all the self-awareness of someone who's read too many fantasy novels — and it works brilliantly. Book 9 is sitting at a perfect 5.0★ in our database right now.
 
 2. **The Primal Hunter** by Zogarth — If you loved the relentless escalation of Dungeon Crawler Carl, Zogarth's series hits those same highs. Jake Thayne is a different kind of protagonist — more stoic than Carl, but the system integration and the sense of a world fundamentally broken and rebuilt around grinding power make this a natural next read. Book 13 is rated 5.0★ by our community.
 

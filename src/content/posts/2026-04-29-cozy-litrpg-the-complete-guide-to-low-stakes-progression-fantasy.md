@@ -8,7 +8,7 @@ tags: ["cozy LitRPG", "progression fantasy", "farming fantasy", "slice of life",
 featured: false
 ---
 
-[Progression fantasy](https://litrpgcritic.com/blog/what-is-progression-fantasy) doesn't have to be about saving the world. Not every power climb needs a countdown. Not every protagonist needs to be standing over the corpse of a demon king by the final chapter.
+Progression fantasy doesn't have to be about saving the world. Not every power climb needs a countdown. Not every protagonist needs to be standing over the corpse of a demon king by the final chapter.
 
 Cozy LitRPG — the subgenre that applies explicit game mechanics and power progression to peaceful, slice-of-life settings — has been growing quietly and then suddenly for the past two years. It is characterized by visible stat systems and leveling in contexts where the stakes are personal rather than apocalyptic: building a farm, running a tavern, cultivating a garden, restoring a village, crafting legendary items in a workshop.
 
@@ -79,7 +79,7 @@ Skip it if:
 
 ## Where to Find More
 
-The cozy LitRPG catalog is still growing rapidly. For current community ratings and a searchable database of cozy and low-stakes progression fantasy titles, the full genre catalog is available at [LitRPGTools.com](https://litrpgtools.com). For the broader power fantasy ranking picture, see our [top power fantasy rankings](/rankings/top-power-fantasy-books) and [progression fantasy guide](https://litrpgcritic.com/blog/what-is-progression-fantasy).
+The cozy LitRPG catalog is still growing rapidly. For current community ratings and a searchable database of cozy and low-stakes progression fantasy titles, the full genre catalog is available at [LitRPGTools.com](https://litrpgtools.com). For the broader power fantasy ranking picture, see our [top power fantasy rankings](/rankings/top-power-fantasy-books) and progression fantasy guide.
 
 ---
 

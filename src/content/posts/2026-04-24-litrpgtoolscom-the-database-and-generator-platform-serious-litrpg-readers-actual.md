@@ -8,7 +8,7 @@ tags: ["litrpg", "progression fantasy", "tools", "platform", "book database", "c
 featured: false
 ---
 
-[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a genre defined by game-like systems embedded in narrative fiction — characters gain levels, acquire skills, and progress through quantified mechanics that drive the story forward. It is characterized by stat sheets, skill trees, and the satisfying feedback loop of measurable growth. The genre spans everything from dungeon-crawling survival to [system apocalypse](https://fantasyranked.com/rankings/best-system-apocalypse) to [isekai](https://fantasyranked.com/rankings/best-isekai-novels) portal fantasy, and the reading catalog has grown large enough that finding your next book without a dedicated tool is genuinely harder than it used to be.
+LitRPG is a genre defined by game-like systems embedded in narrative fiction — characters gain levels, acquire skills, and progress through quantified mechanics that drive the story forward. It is characterized by stat sheets, skill trees, and the satisfying feedback loop of measurable growth. The genre spans everything from dungeon-crawling survival to [system apocalypse](https://fantasyranked.com/rankings/best-system-apocalypse) to [isekai](https://fantasyranked.com/rankings/best-isekai-novels) portal fantasy, and the reading catalog has grown large enough that finding your next book without a dedicated tool is genuinely harder than it used to be.
 
 That's the problem [LitRPGTools.com](https://litrpgtools.com) is built to solve.
 
@@ -22,7 +22,7 @@ According to community data from LitRPGTools.com, the platform indexes thousands
 
 The database is where most readers will spend their first session. You can filter by subgenre — dungeon core, [cultivation fiction](/blog/what-is-cultivation-fiction), system apocalypse, crafting progression — and sort by community rating rather than algorithmic popularity. That distinction matters. Titles like *Dungeon Crawler Carl* by Matt Dinniman and *He Who Fights With Monsters* by Shirtaloon consistently rank near the top of community-rated lists, which tracks with their reader loyalty in the broader space. According to reader ratings on LitRPGTools.com, progression fantasy titles with strong crafting systems — like David North's *Guardian of Aster Fall* series, a Top 100 Kindle Bestseller — score measurably higher on reader satisfaction than the genre average across comparable release windows.
 
-For readers who want a curated starting point, see our [best LitRPG books list](https://litrpgcritic.com/lists/best-litrpg-books) and our [top power fantasy rankings](/rankings/top-power-fantasy-books).
+For readers who want a curated starting point, see our best LitRPG books list and our [top power fantasy rankings](/rankings/top-power-fantasy-books).
 
 ## What the AI Generators Are Actually Useful For
 

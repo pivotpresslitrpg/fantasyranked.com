@@ -8,7 +8,7 @@ tags: ["LitRPG vs Progression Fantasy", "LitRPG", "progression fantasy", "power 
 featured: false
 ---
 
-**[LitRPG](https://litrpgcritic.com/blog/what-is-litrpg) is a subgenre of fantasy fiction where characters exist inside a world governed by explicit RPG mechanics — experience points, stat screens, skill notifications, and leveling systems that the reader sees on the page.** It is characterized by visible game-layer data, quantified character growth, and narrative tension tied directly to numerical progression. Progression fantasy is the broader category: stories about characters growing in power over time, with or without a visible game system underneath.
+**LitRPG is a subgenre of fantasy fiction where characters exist inside a world governed by explicit RPG mechanics — experience points, stat screens, skill notifications, and leveling systems that the reader sees on the page.** It is characterized by visible game-layer data, quantified character growth, and narrative tension tied directly to numerical progression. Progression fantasy is the broader category: stories about characters growing in power over time, with or without a visible game system underneath.
 
 The confusion is understandable. These genres overlap constantly, and plenty of books qualify as both. But the distinction matters when you're trying to find your next read — and once you understand it, you'll navigate the whole landscape faster.
 
@@ -30,7 +30,7 @@ According to community data from LitRPGTools.com, series that blend both approac
 
 ## Best Gateway Books: LitRPG vs Progression Fantasy (Ranked by Reader Appeal)
 
-Here are eight books that define both lanes and make ideal entry points — check the [full rankings at LitRPG Critic](https://litrpgcritic.com/lists/best-litrpg-books) and our own [top power fantasy rankings](/rankings/top-power-fantasy-books) for the deeper cuts.
+Here are eight books that define both lanes and make ideal entry points — browse our [top power fantasy rankings](/rankings/top-power-fantasy-books) for the deeper cuts.
 
 1. **Dungeon Crawler Carl by Matt Dinniman** — The gold standard entry point for LitRPG. Brutal stat-driven dungeon crawling wrapped in razor-sharp humor. If you want to understand why the genre exploded, start here.
 
