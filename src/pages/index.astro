@@ -1,7 +1,8 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import BookCard from '../components/BookCard.astro';
-import { getBooks, getRecentBooks } from '../lib/api';
+import FeaturedAuthors from '../components/FeaturedAuthors.astro';
+import { getBooks, getRecentBooks, PLATFORM_BASE, PLATFORM_NAME } from '../lib/api';
 import { rankingConfig } from '../lib/rankings';
 
 const [topBooks, recentBooks] = await Promise.all([
@@ -51,6 +52,19 @@ const orgSchema = {
           New Releases
         </a>
       </div>
+    </div>
+  </section>
+
+  <!-- Platform funnel CTA -->
+  <section class="border-b border-[#2e2e2e] bg-gradient-to-r from-[#f59e0b]/10 to-transparent px-4 py-6">
+    <div class="max-w-5xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+      <div>
+        <h2 class="text-lg font-bold text-white">Track your reading on {PLATFORM_NAME}</h2>
+        <p class="text-sm text-[#888] mt-1">Thousands of ranked books, a new-release calendar, reviews, and reading-order tools — free.</p>
+      </div>
+      <a href={PLATFORM_BASE} target="_blank" rel="noopener" class="shrink-0 bg-[#f59e0b] hover:bg-[#d97706] text-black font-semibold px-5 py-2.5 rounded transition-colors whitespace-nowrap">
+        Explore {PLATFORM_NAME} →
+      </a>
     </div>
   </section>
 
@@ -112,6 +126,9 @@ const orgSchema = {
           <p class="text-sm text-[#666] py-4 text-center">Loading rankings…</p>
         )}
       </section>
+
+      <!-- Featured authors → platform author pages -->
+      <FeaturedAuthors />
     </aside>
   </div>
 </BaseLayout>
