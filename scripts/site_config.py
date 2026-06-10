@@ -109,12 +109,16 @@ CONFIG = {
 
     'internal_link_guidance': (
         "Include natural internal links where relevant:\n"
-        "- When mentioning cultivation fiction, link to /blog/what-is-cultivation-fiction\n"
-        "- When recommending books, link to the appropriate ranking page (e.g., /rankings/top-power-fantasy-books)\n"
-        "- When mentioning system apocalypse, link to /rankings/best-system-apocalypse\n"
-        "- When mentioning isekai, link to /rankings/best-isekai-novels\n"
-        "- When discussing new releases, link to /new-releases\n"
-        "- Format as markdown links: [text](/path) or [text](https://full-url)"
+        "- When mentioning cultivation fiction, link to /blog/what-is-cultivation-fiction/\n"
+        "- When recommending books, link to the appropriate ranking page (e.g., /rankings/top-power-fantasy-books/)\n"
+        "- When mentioning system apocalypse, link to /rankings/best-system-apocalypse/\n"
+        "- When mentioning isekai, link to /rankings/best-isekai-novels/\n"
+        "- When discussing new releases, link to /new-releases/\n"
+        "- Format as markdown links: [text](/path/) or [text](https://full-url) — internal paths always end with a trailing slash\n\n"
+        "PLATFORM LINK (REQUIRED): every post must contain at least one markdown link "
+        "to https://litrpgtools.com — put it on the platform name the first time it is "
+        "mentioned, e.g. [LitRPGTools.com](https://litrpgtools.com). A bare unlinked "
+        "mention does not count."
     ),
 
     'geo_guidance': (

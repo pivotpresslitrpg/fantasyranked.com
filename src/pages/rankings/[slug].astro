@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import BookCard from '../../components/BookCard.astro';
-import { getBooks, getRecentBooks } from '../../lib/api';
+import { getBooks, getRecentBooks, platformUrl } from '../../lib/api';
 import { rankingConfig } from '../../lib/rankings';
 
 export async function getStaticPaths() {
@@ -78,7 +78,7 @@ const faqSchema = config.faq?.length ? {
 
     <p class="text-xs text-[#555] mb-8">
       {books.length} books · {isNewReleases ? 'Sorted by date added' : 'Ranked by community rating'} ·
-      Data from <a href="https://litrpgtools.com" target="_blank" rel="noopener" class="hover:text-[#f59e0b]">LitRPGTools.com</a>
+      Data from <a href={platformUrl('list-attribution')} target="_blank" rel="noopener" class="hover:text-[#f59e0b]">LitRPGTools.com</a>
     </p>
 
     <!-- Book list -->
@@ -90,6 +90,14 @@ const faqSchema = config.faq?.length ? {
       ) : (
         <p class="py-8 text-center text-[#666]">No books found for this ranking.</p>
       )}
+    </div>
+
+    <!-- Post-ranking platform CTA — readers who scroll a full ranking are the warmest funnel traffic -->
+    <div class="mt-8 p-5 bg-gradient-to-r from-[#f59e0b]/10 to-transparent border border-[#2e2e2e] rounded-lg flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+      <p class="text-sm text-[#ccc]">Track every book in this ranking — ratings, reviews, reading order, and new releases.</p>
+      <a href={platformUrl('ranking-cta')} target="_blank" rel="noopener" class="shrink-0 bg-[#f59e0b] hover:bg-[#d97706] text-black font-semibold px-5 py-2 rounded text-sm transition-colors whitespace-nowrap">
+        Explore on LitRPGTools &rarr;
+      </a>
     </div>
 
     <!-- FAQ section -->
