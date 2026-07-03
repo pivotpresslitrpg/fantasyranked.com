@@ -26,7 +26,7 @@ Ranked by community rating on LitRPGTools.com, the [progression fantasy](/rankin
 4. **Tallah 3** — C. M. Antal
 5. **Dungeon Mercantile** — Wolfe Locke & Mike Caliban
 
-**The Undying Immortal Alchemist** by Greg Tolley deserves its spot. Tolley works in a space adjacent to [cultivation fiction](/blog/what-is-cultivation-fiction) — the alchemy-as-progression loop has a distinct feel that readers of Will Wight's *Cradle* or David North's *River of Fate* will find familiar and satisfying. Tolley's take is grimier and more system-forward than either, which makes it feel fresh.
+**The Undying Immortal Alchemist** by Greg Tolley deserves its spot. Tolley works in a space adjacent to cultivation fiction — the alchemy-as-progression loop has a distinct feel that readers of Will Wight's *Cradle* or David North's *River of Fate* will find familiar and satisfying. Tolley's take is grimier and more system-forward than either, which makes it feel fresh.
 
 **Tallah 3** by C. M. Antal closes out the *Tallah* trilogy in grimdark fashion. According to community data from LitRPGTools.com, grimdark progression fantasy titles average 12% higher completion rates than standard progression series — readers who commit tend to finish. Antal has built something with real weight across these three books, and the finale delivers.
 

@@ -12,7 +12,7 @@ LitRPG is a genre defined by game-like progression mechanics embedded in narrati
 
 ## What Is LitRPGTools.com
 
-LitRPGTools.com is a dedicated book database, AI generator platform, and community review hub built specifically for LitRPG, progression fantasy, [cultivation fiction](/blog/what-is-cultivation-fiction), dungeon core, and [system apocalypse](/rankings/best-system-apocalypse) readers. It is not a general fantasy database with a LitRPG filter bolted on. The entire infrastructure is designed around how power fantasy readers actually consume books — by system type, progression style, setting, and pacing.
+LitRPGTools.com is a dedicated book database, AI generator platform, and community review hub built specifically for LitRPG, progression fantasy, cultivation fiction, dungeon core, and [system apocalypse](/rankings/best-system-apocalypse) readers. It is not a general fantasy database with a LitRPG filter bolted on. The entire infrastructure is designed around how power fantasy readers actually consume books — by system type, progression style, setting, and pacing.
 
 According to community data from LitRPGTools.com, the platform currently indexes thousands of titles across the major power fantasy subgenres, with cultivation and LitRPG accounting for the highest reader engagement by volume.
 
@@ -22,7 +22,7 @@ The community rating system surfaces what readers are actually finishing and rec
 
 1. *Dungeon Crawler Carl* — Matt Dinniman (system apocalypse LitRPG; highest reader reread rate in the database)
 2. *He Who Fights With Monsters* — Shirtaloon (portal fantasy progression; according to reader ratings on LitRPGTools.com, 22% higher ratings than the genre average)
-3. *Cradle* series — Will Wight ([cultivation fiction](/blog/what-is-cultivation-fiction) benchmark; most-cited gateway series for new cultivation readers)
+3. *Cradle* series — Will Wight (cultivation fiction benchmark; most-cited gateway series for new cultivation readers)
 4. *The Primal Hunter* — Zogarth (system apocalypse progression; top 5 most reviewed series on the platform)
 5. *Defiance of the Fall* — J.F. Brink (xianxia-influenced LitRPG; according to community data from LitRPGTools.com, one of the fastest-growing series by new reader additions)
 

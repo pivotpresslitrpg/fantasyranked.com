@@ -24,7 +24,7 @@ Dungeon core appeals to a specific reader profile: someone who loves the *manage
 
 It also overlaps heavily with cozy progression fantasy. Many dungeon core stories have lower stakes tension and a slower, more contemplative pace than something like [system apocalypse](/rankings/best-system-apocalypse) fiction. The dungeon grows, adapts, and occasionally has philosophical conversations with its bonded companion. It's progression fantasy for people who like to *think* about systems.
 
-Based on our analysis of 50,000+ titles across the power fantasy landscape, dungeon core skews toward readers who also enjoy [cultivation fiction](/blog/what-is-cultivation-fiction) — the patient accumulation of power through internal refinement maps neatly onto dungeon evolution arcs.
+Based on our analysis of 50,000+ titles across the power fantasy landscape, dungeon core skews toward readers who also enjoy cultivation fiction — the patient accumulation of power through internal refinement maps neatly onto dungeon evolution arcs.
 
 ## The Best Dungeon Core Books for New Readers
 

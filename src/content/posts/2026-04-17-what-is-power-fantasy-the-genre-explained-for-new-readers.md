@@ -14,7 +14,7 @@ That's the clean definition. But if you've spent any real time reading in this s
 
 ## Why Power Fantasy Has Exploded in Popularity
 
-Power fantasy is now one of the dominant forces in indie and web fiction. According to community data from [LitRPGTools.com](https://litrpgtools.com), progression-focused titles consistently outperform general fantasy in reader engagement metrics, with power fantasy adjacent series averaging 23% more reviews per title than comparable epic fantasy releases in the same publishing windows. Based on our analysis of 50,000+ titles tracked across ranking systems, the power fantasy label — whether applied to LitRPG, [cultivation fiction](/blog/what-is-cultivation-fiction), dungeon core, or [system apocalypse](/rankings/best-system-apocalypse) — drives more reader discovery clicks than any other sub-genre tag on the site.
+Power fantasy is now one of the dominant forces in indie and web fiction. According to community data from [LitRPGTools.com](https://litrpgtools.com), progression-focused titles consistently outperform general fantasy in reader engagement metrics, with power fantasy adjacent series averaging 23% more reviews per title than comparable epic fantasy releases in the same publishing windows. Based on our analysis of 50,000+ titles tracked across ranking systems, the power fantasy label — whether applied to LitRPG, cultivation fiction, dungeon core, or [system apocalypse](/rankings/best-system-apocalypse) — drives more reader discovery clicks than any other sub-genre tag on the site.
 
 The appeal is straightforward: readers want to feel the climb. Life is full of stagnation and setbacks. Power fantasy offers the inverse — a world where effort compounds, where the protagonist earns every win, and where the numbers (or the power level, or the cultivation realm) go up in ways that *mean something*.
 
@@ -40,7 +40,7 @@ These recommendations are drawn from reader ratings on [LitRPGTools.com](https:/
 
 1. **Dungeon Crawler Carl** — Matt Dinniman's series is the single best entry point for new readers. A man and his cat trapped in a post-apocalyptic dungeon, leveling up to survive. It's funny, brutal, emotionally resonant, and mechanically inventive. Nothing else in the genre balances tone this well.
 
-2. **Cradle** — Will Wight's cultivation series is the gold standard for Western [cultivation fiction](/blog/what-is-cultivation-fiction). Clean prose, a protagonist who earns every breakthrough, and a world that keeps expanding in smart ways. Start with *Unsouled*.
+2. **Cradle** — Will Wight's cultivation series is the gold standard for Western cultivation fiction. Clean prose, a protagonist who earns every breakthrough, and a world that keeps expanding in smart ways. Start with *Unsouled*.
 
 3. **He Who Fights With Monsters** — Jason Asano's series by Shirtaloon drops an Australian everyman into a high-magic world. The power progression is satisfying and the character work is better than most of the genre. One of the most consistently rated series on the site.
 

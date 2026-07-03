@@ -35,7 +35,7 @@ Zac Piker wakes up to a [system apocalypse](/rankings/best-system-apocalypse) an
 Rated 5.0★ in our database, this one delivers exactly what the title promises: a protagonist whose magical progression feels genuinely OP without losing narrative tension. HWFWM fans who love watching a caster build get increasingly unhinged abilities will find a lot to love here.
 
 **5. Cradle series by Will Wight**
-If HWFWM gave you a taste for [cultivation fiction](/blog/what-is-cultivation-fiction), Wight's *Cradle* is the gold standard. Lindon's rise from weakest to world-shattering is one of the genre's best power arcs, full stop.
+If HWFWM gave you a taste for cultivation fiction, Wight's *Cradle* is the gold standard. Lindon's rise from weakest to world-shattering is one of the genre's best power arcs, full stop.
 
 **6. Restarting the Apocalypse by Michael Chatfield**
 Rated 5.0★ in our database, Chatfield brings tight pacing and a protagonist who refuses to stop pushing forward. According to community data from LitRPGTools.com, Chatfield's work over-indexes with readers who specifically cite "satisfying progression loops" as their top genre priority.

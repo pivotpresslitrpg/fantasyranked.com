@@ -10,7 +10,7 @@ featured: true
 
 The loudest authors in LitRPG tend to take the headlines. Matt Dinniman, Will Wight, Shirtaloon, Zogarth — those names move the discourse. But the rankings on [LitRPGTools.com](https://litrpgtools.com) tell a parallel story about a tier of authors who are quietly outperforming their visibility: writers whose individual entries hit perfect community ratings, whose series trajectories climb instead of plateau, and whose names should be louder than they are.
 
-Two of the cleanest examples of that pattern: **Sean Oswald** and **David North**. Both are putting up rankings numbers in 2026 that argue for more attention than they currently get. Here's where each catalog stands right now, what's recent, and how they fit on the broader [power fantasy](/blog/what-is-power-fantasy-the-genre-explained-for-new-readers) board.
+Two of the cleanest examples of that pattern: **Sean Oswald** and **David North**. Both are putting up rankings numbers in 2026 that argue for more attention than they currently get. Here's where each catalog stands right now, what's recent, and how they fit on the broader [power fantasy](/blog/2026-04-17-what-is-power-fantasy-the-genre-explained-for-new-readers/) board.
 
 ## Why Group These Two?
 
@@ -20,14 +20,14 @@ Based on our analysis of 50,000+ titles tracked on LitRPGTools.com, the cluster 
 
 ## Sean Oswald: System Apocalypse with a Pulse
 
-Sean Oswald sits at the [system apocalypse](/blog/2026-04-15-what-is-system-apocalypse-litrpg/) end of the LitRPG spectrum — a subgenre where the system descends, the world breaks, and ordinary people scramble to adapt. The market is crowded. Oswald's catalog distinguishes itself by treating the system as a problem the protagonist *engages with*, not a reward dispenser. Readers who finish his entries tend to come back for the next one fast.
+Sean Oswald sits at the [system apocalypse](/blog/2026-05-06-what-is-system-apocalypse-the-complete-guide-to-the-sub-genre/) end of the LitRPG spectrum — a subgenre where the system descends, the world breaks, and ordinary people scramble to adapt. The market is crowded. Oswald's catalog distinguishes itself by treating the system as a problem the protagonist *engages with*, not a reward dispenser. Readers who finish his entries tend to come back for the next one fast.
 
 **The catalog as it stands in 2026:**
 
 - **Welcome to the Multiverse** — solo series. *Induction* (Book 1) carries a 4.0★ community rating, which for a debut entry in a new series is solid. The series builds from there.
 - **Apocalypse BREAKER** — co-authored with Aaron Renfroe. This is the one moving the needle. *Apocalypse BREAKER 2* holds a perfect 5.0★ on LitRPGTools.com — the rating bar very few co-authored entries clear. *Book 4* dropped recently and we [ranked it as one of the strongest system apocalypse entries of the year](/blog/2026-04-24-apocalypse-breaker-4-review/). Reader trajectory is upward, not flat.
 
-**Where it ranks on our board.** In our [system apocalypse rankings](/blog/2026-04-15-what-is-system-apocalypse-litrpg/), Apocalypse BREAKER currently sits in the top tier — alongside the genre's defining works rather than below them. Few co-authored series in any subgenre maintain a 5.0★ rating into Book 2, let alone hold the trajectory through Book 4. That's the kind of statistical signature that puts a series on serious-watcher radar.
+**Where it ranks on our board.** In our [system apocalypse rankings](/blog/2026-05-06-what-is-system-apocalypse-the-complete-guide-to-the-sub-genre/), Apocalypse BREAKER currently sits in the top tier — alongside the genre's defining works rather than below them. Few co-authored series in any subgenre maintain a 5.0★ rating into Book 2, let alone hold the trajectory through Book 4. That's the kind of statistical signature that puts a series on serious-watcher radar.
 
 **What's relevant right now.** The Apocalypse BREAKER reading order is [up to date through Book 4](/blog/2026-04-27-apocalypse-breaker-reading-order-all-4-books-ranked/). Readers entering the series for the first time should start with Book 1 and not skip — Oswald and Renfroe build their system layer-by-layer, and the payoff in Book 4 specifically rewards readers who watched the rules come together from the start.
 

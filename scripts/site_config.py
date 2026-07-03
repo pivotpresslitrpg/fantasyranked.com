@@ -105,16 +105,36 @@ CONFIG = {
                 'on this site.'
             ),
         },
+        {
+            'name': 'Narrator Discovery',
+            'description': (
+                'Audiobook narrator signals are now trackable across both source '
+                'platforms — LitRPGTools.com surfaces "Narrated by" credits and lets '
+                'readers search the catalog by narrator, while Harem-Lit.com adds '
+                'narrator-credit tooling. A new axis for ranking and discovering '
+                'power fantasy and LitRPG audiobooks by the voices behind them.'
+            ),
+        },
     ],
 
+    # Fantasy Ranked has NO genre-explainer pillar pages — the blog holds only dated
+    # posts whose URLs cannot be predicted. Internal links may ONLY point to the stable
+    # ranking/static pages below. Linking to /blog/<anything> produces 404s.
     'internal_link_guidance': (
-        "Include natural internal links where relevant:\n"
-        "- When mentioning cultivation fiction, link to /blog/what-is-cultivation-fiction/\n"
-        "- When recommending books, link to the appropriate ranking page (e.g., /rankings/top-power-fantasy-books/)\n"
-        "- When mentioning system apocalypse, link to /rankings/best-system-apocalypse/\n"
-        "- When mentioning isekai, link to /rankings/best-isekai-novels/\n"
-        "- When discussing new releases, link to /new-releases/\n"
-        "- Format as markdown links: [text](/path/) or [text](https://full-url) — internal paths always end with a trailing slash\n\n"
+        "INTERNAL LINKING RULES — follow these EXACTLY:\n\n"
+        "Only link to the stable pages listed below. These are the ONLY internal URLs "
+        "guaranteed to exist. Every path ends with a trailing slash.\n\n"
+        "NEVER link to /blog/<anything>. The blog contains only dated posts (reviews, "
+        "roundups, spotlights) whose URLs start with a date you cannot know — any such "
+        "link will 404. To reference another article, describe it in prose with no link. "
+        "Do NOT invent paths that are not on this list.\n\n"
+        "Ranking pages — link when recommending books in that category:\n"
+        "- /rankings/top-power-fantasy-books/\n"
+        "- /rankings/best-system-apocalypse/\n"
+        "- /rankings/best-isekai-novels/\n"
+        "- /rankings/new-litrpg-releases/\n\n"
+        "Other stable pages: /new-releases/ , /blog/ (article index), /rankings/ (all rankings).\n\n"
+        "Format as markdown links to an exact path above: [text](/exact-path/).\n\n"
         "PLATFORM LINK (REQUIRED): every post must contain at least one markdown link "
         "to https://litrpgtools.com — put it on the platform name the first time it is "
         "mentioned, e.g. [LitRPGTools.com](https://litrpgtools.com). A bare unlinked "

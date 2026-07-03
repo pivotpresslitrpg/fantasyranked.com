@@ -16,7 +16,7 @@ The confusion is understandable. These genres overlap constantly, and plenty of 
 
 The cleanest way to think about it: all LitRPG is progression fantasy, but not all progression fantasy is LitRPG. The dividing line is the **game layer**. If a book shows you stat boxes, level-up notifications, or explicit skill menus as part of the narrative experience, it's LitRPG. If the character grows in power through training, cultivation, or accumulated mastery — but the story doesn't render that growth as visible game data — it's progression fantasy without the RPG scaffolding.
 
-[Cultivation fiction](/blog/what-is-cultivation-fiction), for example, is pure progression fantasy. Characters refine their qi, break through realms, and grow exponentially in power — but there's no system notifying them that they've hit Level 47. Will Wight's *Cradle* series sits squarely in this space: obsessive power progression, no stat screens.
+Cultivation fiction, for example, is pure progression fantasy. Characters refine their qi, break through realms, and grow exponentially in power — but there's no system notifying them that they've hit Level 47. Will Wight's *Cradle* series sits squarely in this space: obsessive power progression, no stat screens.
 
 [System apocalypse](/rankings/best-system-apocalypse) stories, on the other hand, almost always lean LitRPG — the "system" that drops on Earth or another world typically comes loaded with notifications, character sheets, and skill trees that the reader sees in real time.
 
