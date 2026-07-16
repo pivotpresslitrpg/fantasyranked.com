@@ -34,6 +34,10 @@ A new public **interviews hub**, spotlighted on the homepage and linked from aut
 
 Verified authors now get **readable public profile URLs**, and the platform launched **public pages for industry professionals** — narrators, cover artists, publishers — with a proper application pipeline behind them. Fifth place only because the payoff is longer-term: this is plumbing. But it's plumbing that makes every person behind a book findable and linkable, and databases win on exactly this kind of unglamorous completeness.
 
+## Event MVP (Unranked, Because It Wasn't a Fair Fight)
+
+One thing we deliberately left out of the rankings: LitRPGTools.com was the **official app of LitRPG Con 2026** (July 10–12). The standalone mobile schedule planner — personal agendas with conflict resolution, venue map, con quests, a shareable QR Adventurer Card, and every panel linked to its authors' books — was used by **over 30% of attendees**, an adoption rate most official event apps never sniff. It doesn't rank on our discovery criterion because the con is over; it absolutely ranks as the month's proof that this platform can ship for a live audience under real conditions.
+
 ## The Takeaway
 
 Five upgrades, one theme: [LitRPGTools.com](https://litrpgtools.com) is betting that discovery — not just data — is what a genre platform is for, and this month's shipping pace backs it up. Our [top power fantasy rankings](/rankings/top-power-fantasy-books/) draw on community data from exactly these systems, so when the platform's discovery gets sharper, so do the rankings.
