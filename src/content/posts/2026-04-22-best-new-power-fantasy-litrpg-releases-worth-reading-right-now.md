@@ -1,5 +1,5 @@
 ---
-title: "Best New Power Fantasy & LitRPG Releases Worth Reading Right Now"
+title: "Power Fantasy & LitRPG Release Roundup - April 22, 2026"
 description: "Our editorial roundup of the best new releases in LitRPG, progression fantasy, cultivation, and system apocalypse — covering what's worth your time and why."
 date: "2026-04-22"
 type: "new_releases"

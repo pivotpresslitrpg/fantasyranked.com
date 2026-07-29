@@ -1,5 +1,5 @@
 ---
-title: "New Power Fantasy Releases Worth Reading This Week"
+title: "Power Fantasy Release Roundup - July 17, 2026"
 description: "Our editorial roundup of the latest LitRPG, progression fantasy, and dungeon fiction releases — covering standout new entries across cultivation, system apocalypse, isekai, and more."
 date: "2026-07-17"
 type: "new_releases"

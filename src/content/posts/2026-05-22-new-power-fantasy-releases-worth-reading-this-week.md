@@ -1,5 +1,5 @@
 ---
-title: "New Power Fantasy Releases Worth Reading This Week"
+title: "Power Fantasy Release Roundup - May 22, 2026"
 description: "Our editorial roundup of the best new LitRPG, progression fantasy, and system apocalypse releases hitting shelves now — ranked picks, fresh series starters, and long-running favorites worth catching up on."
 date: "2026-05-22"
 type: "new_releases"

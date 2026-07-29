@@ -2,50 +2,27 @@ const LITRPG_API = 'https://api.litrpgtools.com';
 const API_KEY = import.meta.env.BLOG_FEED_API_KEY;
 
 // ---------------------------------------------------------------------------
-// Editorial curation layer
-// Ensures genre-relevant highlighted authors appear in ranked lists.
-// Books are only promoted if they already exist in the fetched results —
-// nothing is fabricated or added from outside the dataset.
+// Editorial spotlights are explicit and separate from data-ranked lists.
 // ---------------------------------------------------------------------------
 
-const EDITORIAL_PRIORITY: { author: string; weight: number; excludeGenres: string[]; platformSlug?: string }[] = [
-  { author: 'Aaron Renfroe', weight: 3, excludeGenres: ['Dungeon Core'], platformSlug: 'aaron-renfroe' },
-  { author: 'Sean Oswald',   weight: 2, excludeGenres: [], platformSlug: 'sean-oswald' },
-  { author: 'David North',   weight: 2, excludeGenres: [], platformSlug: 'david-north' },
+export const FEATURED_AUTHORS: string[] = [
+  'Matt Dinniman',
+  'Aaron Renfroe',
+  'Shirtaloon',
+  'Sean Oswald',
+  'Will Wight',
+  'David North',
+  'Dakota Krout',
 ];
 
-/** Curated authors to spotlight in the Featured Authors funnel module. */
-export const FEATURED_AUTHORS: string[] = EDITORIAL_PRIORITY.map((e) => e.author);
 
 /** Known platform author-page slugs — guarantees author deep-links even when
  * the current book pool doesn't surface author_slugs for them. */
-export const FEATURED_AUTHOR_SLUGS: Record<string, string> = Object.fromEntries(
-  EDITORIAL_PRIORITY.filter((e) => e.platformSlug).map((e) => [e.author, e.platformSlug as string])
-);
-
-function applyEditorialCuration(books: Book[], genre?: string): Book[] {
-  if (books.length < 3) return books;
-  const result = [...books];
-  const genreLower = genre?.toLowerCase() ?? '';
-
-  for (const entry of EDITORIAL_PRIORITY) {
-    if (entry.excludeGenres.some(ex => genreLower.includes(ex.toLowerCase()))) continue;
-
-    const idx = result.findIndex(b =>
-      b.authors.some(a => a.toLowerCase().includes(entry.author.toLowerCase()))
-    );
-    if (idx === -1) continue;
-
-    // weight 3 → top 15% of list; weight 2 → top 25% (floor of 2)
-    const band = Math.max(2, Math.floor(result.length * (entry.weight >= 3 ? 0.15 : 0.25)));
-    if (idx > band) {
-      const [book] = result.splice(idx, 1);
-      result.splice(band, 0, book);
-    }
-  }
-
-  return result;
-}
+export const FEATURED_AUTHOR_SLUGS: Record<string, string> = {
+  'Aaron Renfroe': 'aaron-renfroe',
+  'Sean Oswald': 'sean-oswald',
+  'David North': 'david-north',
+};
 
 // ---------------------------------------------------------------------------
 // Types
@@ -164,7 +141,7 @@ export async function getBooks(options: {
     const res = await feedFetch(LITRPG_API, `/api/blog-feed/books${qs}`);
     if (!res?.ok) return [];
     const all = deduplicateBooks(normalizeLitrpg(await res.json()));
-    return applyEditorialCuration(all, genre).slice(0, requestedLimit);
+    return all.slice(0, requestedLimit);
   } catch { return []; }
 }
 

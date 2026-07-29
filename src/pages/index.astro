@@ -23,7 +23,8 @@ const websiteSchema = {
   "@type": "WebSite",
   "name": "Fantasy Ranked",
   "url": "https://fantasyranked.com",
-  "description": "Power fantasy and system apocalypse rankings, updated weekly. LitRPG, progression fantasy, cultivation, and isekai."
+  "description": "Power fantasy and system apocalypse rankings, updated weekly. LitRPG, progression fantasy, cultivation, and isekai.",
+  "publisher": { "@type": "Organization", "name": "Pivot Press Publishing", "url": "https://pivotpresspublishing.com" }
 };
 
 const orgSchema = {
@@ -32,7 +33,8 @@ const orgSchema = {
   "name": "Fantasy Ranked",
   "url": "https://fantasyranked.com",
   "description": "Power fantasy rankings covering LitRPG, progression fantasy, cultivation, and system apocalypse.",
-  "isPartOf": { "@type": "WebSite", "name": "LitRPGTools.com", "url": "https://litrpgtools.com" },
+  "parentOrganization": { "@type": "Organization", "name": "Pivot Press Publishing", "url": "https://pivotpresspublishing.com" },
+  "sameAs": ["https://litrpgtools.com"],
   "knowsAbout": ["Power Fantasy", "LitRPG", "Progression Fantasy", "System Apocalypse", "Isekai", "Cultivation Fiction"]
 };
 ---

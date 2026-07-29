@@ -1,5 +1,5 @@
 ---
-title: "LitRPG vs Progression Fantasy: What's the Difference and Where Should You Start?"
+title: "LitRPG vs Progression Fantasy: A Rules-and-Progression Comparison"
 description: "LitRPG and progression fantasy look similar from the outside — but they're built on different rules. Here's how to tell them apart and which books to read first."
 date: "2026-04-08"
 type: "genre_explainer"

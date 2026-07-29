@@ -1,5 +1,5 @@
 ---
-title: "LitRPG vs Progression Fantasy: What's the Difference and Where Should You Start?"
+title: "Should You Start with LitRPG or Progression Fantasy? A Reader Guide"
 description: "LitRPG and progression fantasy are the two biggest labels in power fantasy fiction — but they're not the same thing. Here's how to tell them apart and which books to read first."
 date: "2026-04-29"
 type: "genre_explainer"
