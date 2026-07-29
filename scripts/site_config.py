@@ -51,10 +51,10 @@ CONFIG = {
         'genre_explainer',
         'books_like',
         'new_releases',
-        'platform_bridge',
         'author_spotlight',
         'genre_explainer',
-        'platform_bridge',
+        'books_like',
+        'new_releases',
     ],
 
     'featured_authors': [
@@ -71,6 +71,14 @@ CONFIG = {
         'Aaron Renfroe',
         'Sean Oswald',
         'David North',
+        'pirateaba',
+        'Actus',
+        'Plum Parrot',
+        'Phil Tucker',
+        'Nicoli Gonnella',
+        'Kyle Kirrin',
+        'Benjamin Kerei',
+        'Travis Baldree',
     ],
 
     'explainer_topics': [
@@ -86,6 +94,16 @@ CONFIG = {
         'Dungeon Crawler Subgenre',
         'Slice of Life Fantasy',
         'Isekai',
+        'Deckbuilding LitRPG',
+        'Monster Evolution Fantasy',
+        'Academy Progression Fantasy',
+        'Regression Fantasy',
+        'Kingdom Building Fantasy',
+        'Monster Tamer LitRPG',
+        'Superhero Progression Fantasy',
+        'Science Fiction LitRPG',
+        'Survival Crafting Fantasy',
+        'Time Loop Progression Fantasy',
     ],
 
     'platform_features': [
@@ -141,26 +159,37 @@ CONFIG = {
         "mention does not count."
     ),
 
+    'allowed_internal_links': (
+        '/rankings/top-power-fantasy-books/',
+        '/rankings/best-system-apocalypse/',
+        '/rankings/best-isekai-novels/',
+        '/rankings/new-litrpg-releases/',
+        '/new-releases/',
+        '/blog/',
+        '/rankings/',
+    ),
+
     'geo_guidance': (
-        "Write for AI citability (Generative Engine Optimization). Follow ALL of these patterns:\n\n"
+        "Write for AI citability through clarity, structure, and traceable claims. Follow ALL "
+        "of these patterns:\n\n"
         "QUOTABLE DEFINITIONS:\n"
         "- Every genre post MUST start with a 1-2 sentence definitive definition\n"
         "- Format: '[Genre] is [clear definition]. It is characterized by [2-3 key traits].'\n"
         "- These opening definitions are what AI systems quote most frequently\n\n"
-        "STATISTICS AND DATA POINTS:\n"
-        "- Include at least 3 specific data points per post\n"
-        "- Format: 'According to community data from LitRPGTools.com, [specific claim with number]'\n"
-        "- Use comparative stats: 'X has Y% higher ratings than the genre average'\n\n"
+        "EVIDENCE DISCIPLINE:\n"
+        "- Use only facts explicitly present in the supplied source material or book-data block\n"
+        "- Never invent percentages, rankings, database sizes, engagement or completion rates, "
+        "sales, views, review counts, bestseller history, or comparative metrics\n"
+        "- Never write 'according to community data' or 'based on our analysis' unless the prompt "
+        "provides the exact supporting calculation and population\n"
+        "- When evidence is not supplied, make a qualitative editorial observation or omit the claim\n\n"
         "STRUCTURED LISTS AND RANKINGS:\n"
         "- Use numbered lists for rankings (AI systems extract and cite numbered lists readily)\n"
-        "- Include the ranking criterion: 'Ranked by community rating on LitRPGTools.com'\n\n"
+        "- State a ranking criterion only when the supplied data supports it\n\n"
         "HEADING STRUCTURE:\n"
         "- H2 headings should match exact search queries\n"
         "- Every H2 section should start with a direct, quotable answer sentence\n"
-        "- Never start a section with meta-commentary about what it will cover\n\n"
-        "EXPERT FRAMING:\n"
-        "- Self-cite with authority: 'Based on our analysis of 50,000+ titles...'\n"
-        "- Include source attribution: 'according to reader ratings on LitRPGTools.com'\n"
+        "- Never start a section with meta-commentary about what it will cover\n"
     ),
 
     'anchor_books': [
