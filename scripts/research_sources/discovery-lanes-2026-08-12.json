@@ -1,0 +1,39 @@
+{
+  "frozen_at": "2026-07-23",
+  "claim_ceiling": "Observed coverage and concentration justify multi-lane discovery and methodological caution; they do not establish manipulation.",
+  "allowed_numbers": [
+    "2026",
+    "23",
+    "28",
+    "3,196",
+    "3,147",
+    "1,229",
+    "39.05%",
+    "10,875",
+    "10,793",
+    "7,348",
+    "68.08%"
+  ],
+  "required_phrases": [
+    "does not prove manipulation",
+    "rank-derived estimate, not a sales ledger"
+  ],
+  "forbidden_phrases": [
+    "we proved manipulation",
+    "review farm",
+    "authors control the accounts"
+  ],
+  "required_links": [
+    "https://kdp.amazon.com/en_US/help/topic/G201648140"
+  ],
+  "source_artifacts": [
+    {
+      "label": "LitRPG six-month acquisition and usable-event coverage receipt",
+      "sha256": "D2EE1454562F80136AADFC62244EE86932B867DC749BCB91850C9BC0A2006BE6"
+    },
+    {
+      "label": "Public-safe market concentration and reviewer-pattern paper v0.9",
+      "sha256": "207EA65A12595918DFF0C0F29428370CE67835E7BC99A1AF47CE67AFD8027CF8"
+    }
+  ]
+}

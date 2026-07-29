@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "publish_date": "2026-08-05",
+      "slug": "amazon-bsr-ratings-and-reviews-are-three-different-signals",
+      "post_type": "critical_opinion",
+      "draft": "scheduled_posts/amazon-bsr-ratings-and-reviews-are-three-different-signals.md",
+      "manifest": "research_sources/ranking-signals-2026-08-05.json",
+      "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-08-12",
+      "slug": "why-fantasy-rankings-need-more-than-one-discovery-lane",
+      "post_type": "critical_opinion",
+      "draft": "scheduled_posts/why-fantasy-rankings-need-more-than-one-discovery-lane.md",
+      "manifest": "research_sources/discovery-lanes-2026-08-12.json",
+      "status": "scheduled"
+    }
+  ]
+}

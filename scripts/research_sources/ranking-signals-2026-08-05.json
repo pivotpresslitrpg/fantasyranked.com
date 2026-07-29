@@ -1,0 +1,28 @@
+{
+  "frozen_at": "2026-07-23",
+  "claim_ceiling": "BSR, star ratings, and review counts are distinct signals. Rank-derived models may estimate activity but cannot prove sales, revenue, or misconduct.",
+  "allowed_numbers": [
+    "2",
+    "28",
+    "2026"
+  ],
+  "required_phrases": [
+    "does not prove misconduct",
+    "rank-derived estimate, not a sales ledger"
+  ],
+  "forbidden_phrases": [
+    "we proved manipulation",
+    "review farm",
+    "authors control the accounts"
+  ],
+  "required_links": [
+    "https://kdp.amazon.com/en_US/help/topic/G201648140",
+    "https://kdp.amazon.com/en_US/help/topic/G202101910"
+  ],
+  "source_artifacts": [
+    {
+      "label": "Public-safe market concentration and reviewer-pattern paper v0.9",
+      "sha256": "207EA65A12595918DFF0C0F29428370CE67835E7BC99A1AF47CE67AFD8027CF8"
+    }
+  ]
+}
