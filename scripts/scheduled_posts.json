@@ -7,7 +7,8 @@
       "post_type": "critical_opinion",
       "draft": "scheduled_posts/amazon-bsr-ratings-and-reviews-are-three-different-signals.md",
       "manifest": "research_sources/ranking-signals-2026-08-05.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-08-05"
     },
     {
       "publish_date": "2026-08-12",
