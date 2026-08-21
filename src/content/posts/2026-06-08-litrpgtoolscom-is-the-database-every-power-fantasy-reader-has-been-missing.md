@@ -4,11 +4,11 @@ description: "A platform discovery feature covering LitRPGTools.com — the LitR
 date: "2026-06-08"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "cultivation", "system apocalypse", "isekai", "tools", "platform", "book database", "community ratings"]
+tags: ["LitRPG", "progression fantasy", "cultivation", "system apocalypse", "isekai", "tools", "platform", "book database", "community ratings"]
 featured: false
 ---
 
-LitRPG is a genre defined by the integration of game mechanics — levels, stats, skill trees, and system notifications — into narrative fiction. It is characterized by quantified character progression, explicit power scaling, and reader investment in build optimization alongside story. Based on our analysis of 50,000+ titles across LitRPG, [progression fantasy](/rankings/top-power-fantasy-books), [cultivation](/blog/what-is-cultivation-fiction), and [system apocalypse](/rankings/best-system-apocalypse), the single most consistent complaint from readers is navigational: there's too much to read and not enough signal on where to start.
+LitRPG is a genre defined by the integration of game mechanics — levels, stats, skill trees, and system notifications — into narrative fiction. It is characterized by quantified character progression, explicit power scaling, and reader investment in build optimization alongside story. Based on our analysis of 50,000+ titles across LitRPG, [progression fantasy](/rankings/top-power-fantasy-books), [cultivation](https://litrpgcritic.com/blog/what-is-cultivation-fiction/), and [system apocalypse](/rankings/best-system-apocalypse), the single most consistent complaint from readers is navigational: there's too much to read and not enough signal on where to start.
 
 [LitRPGTools.com](https://litrpgtools.com) is the most direct answer to that problem we've seen.
 

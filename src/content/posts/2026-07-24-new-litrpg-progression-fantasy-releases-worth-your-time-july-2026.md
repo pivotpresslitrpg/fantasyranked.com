@@ -4,7 +4,7 @@ description: "A curated roundup of the most notable new releases in LitRPG, prog
 date: "2026-07-24"
 type: "new_releases"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "system apocalypse", "new releases", "cozy litrpg", "portal fantasy"]
+tags: ["LitRPG", "progression fantasy", "system apocalypse", "new releases", "cozy LitRPG", "portal fantasy"]
 featured: false
 ---
 

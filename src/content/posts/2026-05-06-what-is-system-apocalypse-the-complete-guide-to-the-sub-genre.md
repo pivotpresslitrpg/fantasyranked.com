@@ -4,7 +4,7 @@ description: "System Apocalypse is one of the fastest-growing sub-genres in LitR
 date: "2026-05-06"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["System Apocalypse", "LitRPG", "Progression Fantasy", "Post-Apocalyptic Fantasy", "Genre Guide"]
+tags: ["system apocalypse", "LitRPG", "progression fantasy", "Post-Apocalyptic Fantasy", "Genre Guide"]
 featured: false
 ---
 

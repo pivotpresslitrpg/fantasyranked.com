@@ -4,7 +4,7 @@ description: "New to xianxia and cultivation fiction? Here's everything you need
 date: "2026-05-25"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Xianxia and Cultivation Fiction", "Cultivation", "Progression Fantasy", "LitRPG", "Power Fantasy", "Xianxia", "Wuxia", "Chinese Web Novels"]
+tags: ["Xianxia and Cultivation Fiction", "cultivation", "progression fantasy", "LitRPG", "power fantasy", "xianxia", "Wuxia", "Chinese Web Novels"]
 featured: false
 ---
 
@@ -16,7 +16,7 @@ If you've ever thought progression fantasy felt good but wanted it *harder*, mor
 
 Cultivation fiction follows characters who systematically refine their body, spirit, and energy to ascend through discrete power ranks — think Qi Condensation, Foundation Establishment, Core Formation — until they transcend mortality entirely. The journey is the point. Every breakthrough, every realm crossed, hits with the satisfying weight of a level-up that actually *means* something.
 
-While wuxia (martial heroes) keeps things grounded in the mortal world, [cultivation fiction](/blog/what-is-cultivation-fiction) reaches for the heavens — literally. Xianxia translates roughly to "immortal heroes," and that immortality-seeking ambition defines the genre's scale and stakes. These aren't stories about saving a village. They're about becoming a god, or dying trying across a thousand years of effort.
+While wuxia (martial heroes) keeps things grounded in the mortal world, [cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/) reaches for the heavens — literally. Xianxia translates roughly to "immortal heroes," and that immortality-seeking ambition defines the genre's scale and stakes. These aren't stories about saving a village. They're about becoming a god, or dying trying across a thousand years of effort.
 
 ## Why Cultivation Fiction Has Exploded in Western Markets
 

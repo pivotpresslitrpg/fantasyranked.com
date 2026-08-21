@@ -4,7 +4,7 @@ description: "He Who Fights With Monsters hooked you on witty Australian-voiced 
 date: "2026-05-08"
 type: "books_like"
 author: "Fantasy Ranked Editorial"
-tags: ["he who fights with monsters", "progression fantasy", "litrpg", "power fantasy", "isekai", "system apocalypse", "recommendations"]
+tags: ["He Who Fights With Monsters", "progression fantasy", "LitRPG", "power fantasy", "isekai", "system apocalypse", "recommendations"]
 featured: false
 ---
 

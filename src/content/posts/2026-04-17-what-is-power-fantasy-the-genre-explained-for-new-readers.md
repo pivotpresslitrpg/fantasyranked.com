@@ -4,7 +4,7 @@ description: "Power fantasy is one of the fastest-growing corners of genre ficti
 date: "2026-04-17"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Power Fantasy", "LitRPG", "Progression Fantasy", "Cultivation", "Isekai", "System Apocalypse"]
+tags: ["power fantasy", "LitRPG", "progression fantasy", "cultivation", "isekai", "system apocalypse"]
 featured: false
 ---
 

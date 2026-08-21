@@ -4,7 +4,7 @@ description: "LitRPG and progression fantasy are the two biggest labels in power
 date: "2026-04-29"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["LitRPG vs Progression Fantasy", "LitRPG", "progression fantasy", "power fantasy", "genre guide", "gateway books"]
+tags: ["LitRPG vs Progression Fantasy", "LitRPG", "progression fantasy", "power fantasy", "Genre Guide", "Gateway Books"]
 featured: false
 ---
 

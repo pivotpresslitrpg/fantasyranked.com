@@ -4,7 +4,7 @@ description: "Slice of life fantasy is one of the fastest-growing corners of Lit
 date: "2026-07-20"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Slice of Life Fantasy", "Cozy Fantasy", "LitRPG", "Progression Fantasy", "Cozy LitRPG", "Genre Explainer"]
+tags: ["Slice of Life Fantasy", "cozy fantasy", "LitRPG", "progression fantasy", "cozy LitRPG", "Genre Explainer"]
 featured: false
 ---
 

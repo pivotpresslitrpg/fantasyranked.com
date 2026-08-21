@@ -4,7 +4,7 @@ description: "What is cozy fantasy LitRPG? We define the sub-genre, explain its 
 date: "2026-06-12"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Cozy Fantasy LitRPG", "LitRPG", "Progression Fantasy", "Cozy Gaming", "Farming Fantasy", "Slice of Life LitRPG"]
+tags: ["Cozy Fantasy LitRPG", "LitRPG", "progression fantasy", "Cozy Gaming", "Farming Fantasy", "Slice of Life LitRPG"]
 featured: false
 ---
 
@@ -22,7 +22,7 @@ Based on our analysis of 50,000+ titles across the LitRPG and progression fantas
 
 Cozy LitRPG is for readers who love the mechanical satisfaction of progression systems but want the emotional throughline to be about community, mastery, and belonging rather than survival. It draws heavily from the same instincts that make games like Stardew Valley, Story of Seasons, or Potion Craft addictive — systems that reward patience and iteration, wrapped in warmth.
 
-It also functions as a natural on-ramp for readers adjacent to the genre. If someone loves slice-of-life isekai, [cultivation fiction](/blog/what-is-cultivation-fiction/), or cozy fantasy novels without LitRPG mechanics, this sub-genre bridges the gap cleanly.
+It also functions as a natural on-ramp for readers adjacent to the genre. If someone loves slice-of-life isekai, [cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/), or cozy fantasy novels without LitRPG mechanics, this sub-genre bridges the gap cleanly.
 
 ## The Best Cozy Fantasy LitRPG Books to Start With
 

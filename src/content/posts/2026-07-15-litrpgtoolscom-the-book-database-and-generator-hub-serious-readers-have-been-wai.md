@@ -4,7 +4,7 @@ description: "A look at what LitRPGTools.com offers LitRPG and progression fanta
 date: "2026-07-15"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "tools", "book database", "community", "platform discovery", "cultivation", "system apocalypse"]
+tags: ["LitRPG", "progression fantasy", "tools", "book database", "community", "platform discovery", "cultivation", "system apocalypse"]
 featured: false
 ---
 

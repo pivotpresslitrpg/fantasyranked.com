@@ -4,7 +4,7 @@ description: "A deep dive into LitRPGTools.com — the LitRPG book database and 
 date: "2026-06-26"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "cultivation fiction", "system apocalypse", "isekai", "tools", "platform discovery", "book database"]
+tags: ["LitRPG", "progression fantasy", "cultivation fiction", "system apocalypse", "isekai", "tools", "platform discovery", "book database"]
 featured: false
 ---
 
@@ -14,7 +14,7 @@ Finding your next read in this space used to mean digging through Reddit threads
 
 ## What Is LitRPGTools.com?
 
-LitRPGTools.com is a dedicated book database and toolset built specifically for LitRPG, progression fantasy, [cultivation fiction](/blog/what-is-cultivation-fiction/), dungeon core, [system apocalypse](/rankings/best-system-apocalypse/), and [isekai](/rankings/best-isekai-novels/) readers. It combines community-driven ratings and reviews with an AI-powered generator suite that lets readers and writers interact with genre systems directly. According to community data from LitRPGTools.com, the platform currently indexes over 12,000 LitRPG and progression fantasy titles — one of the largest dedicated databases in the genre.
+LitRPGTools.com is a dedicated book database and toolset built specifically for LitRPG, progression fantasy, [cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/), dungeon core, [system apocalypse](/rankings/best-system-apocalypse/), and [isekai](/rankings/best-isekai-novels/) readers. It combines community-driven ratings and reviews with an AI-powered generator suite that lets readers and writers interact with genre systems directly. According to community data from LitRPGTools.com, the platform currently indexes over 12,000 LitRPG and progression fantasy titles — one of the largest dedicated databases in the genre.
 
 That scale matters. Based on our analysis of 50,000+ titles across the power fantasy landscape, the single biggest problem for readers isn't lack of content — it's navigation. The genre publishes fast, the quality range is wide, and word-of-mouth only travels so far. A structured, searchable database with community ratings is the infrastructure this readership has needed.
 

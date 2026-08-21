@@ -4,7 +4,7 @@ description: "LitRPGTools.com brings together a searchable LitRPG book database,
 date: "2026-06-01"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "cultivation", "system apocalypse", "tools", "community", "platform"]
+tags: ["LitRPG", "progression fantasy", "cultivation", "system apocalypse", "tools", "community", "platform"]
 featured: false
 ---
 
@@ -14,7 +14,7 @@ LitRPG is a genre defined by game-mechanic storytelling layered onto fantasy or 
 
 ## What Is LitRPGTools.com?
 
-LitRPGTools.com is a dedicated book database, community rating platform, and AI-powered creative toolkit for LitRPG, [cultivation fiction](/blog/what-is-cultivation-fiction), progression fantasy, dungeon core, and [system apocalypse](/rankings/best-system-apocalypse) readers. Based on our analysis of 50,000+ titles tracked across the power fantasy space, no single platform currently combines searchable genre databases with reader-facing AI generation tools the way LitRPGTools does. It is the closest thing the genre has to a purpose-built home base.
+LitRPGTools.com is a dedicated book database, community rating platform, and AI-powered creative toolkit for LitRPG, [cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/), progression fantasy, dungeon core, and [system apocalypse](/rankings/best-system-apocalypse) readers. Based on our analysis of 50,000+ titles tracked across the power fantasy space, no single platform currently combines searchable genre databases with reader-facing AI generation tools the way LitRPGTools does. It is the closest thing the genre has to a purpose-built home base.
 
 ## What Readers Can Actually Do on the Platform
 
@@ -26,7 +26,7 @@ The AI generator suite is where the platform gets genuinely interesting for read
 2. **Dungeon Run Generator** — creates encounter progressions with boss mechanics, loot logic, and floor scaling
 3. **Boss Encounter Builder** — generates single high-stakes encounters with ability sets and escalating phases
 4. **World System Generator** — builds out full rule frameworks for magic or mana systems, useful for thinking through how your favorite series' internal logic compares across titles
-5. **Skill Tree Creator** — maps progression paths in the style of series like Michael Chatfield's *Mana Kingdom* or the cultivation ladders in [xianxia-adjacent fiction](/blog/what-is-cultivation-fiction)
+5. **Skill Tree Creator** — maps progression paths in the style of series like Michael Chatfield's *Mana Kingdom* or the cultivation ladders in [xianxia-adjacent fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/)
 
 These tools aren't gimmicks. For readers who discuss builds in Discord servers or debate power scaling across Shirtaloon's *He Who Fights With Monsters* and Sean Oswald's work, the generators give that conversation a structured playground.
 

@@ -4,7 +4,7 @@ description: "Our editorial roundup of the latest LitRPG, progression fantasy, a
 date: "2026-07-17"
 type: "new_releases"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "isekai", "dungeon core", "new releases", "cultivation", "system apocalypse"]
+tags: ["LitRPG", "progression fantasy", "isekai", "dungeon core", "new releases", "cultivation", "system apocalypse"]
 featured: false
 ---
 

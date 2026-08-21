@@ -4,7 +4,7 @@ description: "A definitive guide to dungeon crawler LitRPG — what it is, why r
 date: "2026-07-13"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Dungeon Crawler Subgenre", "LitRPG", "Progression Fantasy", "Dungeon Crawler Carl", "Power Fantasy", "Genre Guide"]
+tags: ["Dungeon Crawler Subgenre", "LitRPG", "progression fantasy", "Dungeon Crawler Carl", "power fantasy", "Genre Guide"]
 featured: false
 ---
 

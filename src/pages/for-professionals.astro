@@ -1,0 +1,190 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FaqBlock from '../components/FaqBlock.astro';
+import ProfessionalCTA from '../components/ProfessionalCTA.astro';
+import { organizationSchema, SELF_URL } from '../lib/network';
+import {
+  ROLES,
+  BETA_RATE_NOTE,
+  REVIEW_NOTE,
+  professionalUrl,
+  PLATFORM_NAME,
+} from '../lib/professionals';
+
+const title = 'Getting Paid to Work on Fantasy Books: Roles, Rates & How to Apply';
+const description =
+  'Every paid role in LitRPG and power fantasy publishing — editor, narrator, visual artist, alpha and beta reader — with what each requires, what it pays, and where to apply.';
+
+const faq = [
+  {
+    q: 'Which book-industry roles actually pay in LitRPG and power fantasy?',
+    a: 'Five list publicly on LitRPGTools.com: editor, audiobook narrator, visual artist, alpha or beta reader, and other specialists such as formatters, cartographers, publicists, and audio engineers. All set their own rates. ARC reading and reviewing, by contrast, are unpaid — ARC programs compensate in books, and paid retail reviews violate retailer policy.',
+  },
+  {
+    q: 'How much does beta reading pay per book?',
+    a: 'Rates are set by the reader and quoted per 50,000 words. The platform’s applicant guidance cites an industry norm of roughly $250–500 USD per 50,000 words for a full pass, with rush turnaround typically 1.5–2× standard. Power fantasy novels run long, so a single title often spans several of those units.',
+  },
+  {
+    q: 'What is the difference between an alpha reader and a beta reader?',
+    a: 'Alpha readers give a fast, story-first pass on an early or in-progress draft, targeting structural problems while they are cheap to fix. Beta readers work through a finished draft and deliver beat-level detail. Alpha first, beta second — and in the directory, alpha reading is an opt-in service on a beta reader profile rather than a separate listing.',
+  },
+  {
+    q: 'What is the entry requirement for beta reading?',
+    a: 'Confirmation that you have read at least 25 books in LitRPG or progression fantasy. The application then asks you to define feedback types, turnaround, delivery format, subgenre comfort, and rates.',
+  },
+  {
+    q: 'Where do fantasy artists find book cover commissions?',
+    a: 'Wherever genre authors already shop for production help. The LitRPGTools directory carries a dedicated visual artist path covering covers, illustration, character art, maps, and typography, with per-image AI classification, a recorded rights attestation, and pricing that must include a commercial publishing license.',
+  },
+  {
+    q: 'Is applying free, and how long does review take?',
+    a: 'Applications are free, auto-save as you go, and are reviewed by a human in about 5–7 days. Profiles go public only after approval. Browsing the directory is free for authors; the paid side is posting a casting call.',
+  },
+  {
+    q: 'How should an author compare candidates?',
+    a: 'Filter on role, current availability, and closest subgenre at the same time, then compare disclosed rates, turnaround, and relevant experience across a shortlist rather than hiring whoever replies first. Availability and fit are separate questions, and a directory listing is a first filter rather than a substitute for samples and a written scope.',
+  },
+];
+
+const pageUrl = `${SELF_URL}/for-professionals/`;
+
+const orgSchema = organizationSchema({
+  name: 'Fantasy Ranked',
+  description: 'Power fantasy rankings covering LitRPG, progression fantasy, cultivation, and system apocalypse.',
+  knowsAbout: [
+    'Power Fantasy',
+    'LitRPG',
+    'Progression Fantasy',
+    'Beta reading',
+    'Alpha reading',
+    'Book cover art',
+    'Audiobook narration',
+  ],
+});
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map(({ q, a }) => ({
+    '@type': 'Question',
+    name: q,
+    acceptedAnswer: { '@type': 'Answer', text: a },
+  })),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SELF_URL}/` },
+    { '@type': 'ListItem', position: 2, name: 'For professionals', item: pageUrl },
+  ],
+};
+---
+
+<BaseLayout title={title} description={description} schema={[orgSchema, faqSchema, breadcrumbSchema]}>
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'For professionals' }]} />
+
+    <p class="mt-5 text-sm font-semibold uppercase tracking-[0.14em] text-[var(--color-brand)]">
+      Paid work in the genre
+    </p>
+    <h1 class="mt-2 text-3xl sm:text-4xl font-bold leading-tight text-white">
+      Every paid role in power fantasy publishing, and what each one takes
+    </h1>
+
+    <div class="prose mt-6">
+      <p>
+        There are five paid roles a reader or creative can hold in LitRPG and power fantasy
+        publishing: editor, audiobook narrator, visual artist, alpha or beta reader, and other
+        book-industry specialist. All five list publicly on
+        <a href={professionalUrl('directory', 'hub-intro')} target="_blank" rel="noopener">{PLATFORM_NAME}</a>,
+        set their own rates, and are contacted directly by authors.
+      </p>
+      <p>
+        This is the standing reference for all of them — requirements, pay, and process — kept in
+        one place rather than spread across articles that age out.
+      </p>
+
+      <h2>Paid versus unpaid, stated plainly</h2>
+      <p>
+        Worth separating before anything else, because search results on this topic mix them
+        freely. Beta reading, alpha reading, editing, narration, and cover art are paid
+        professional services. ARC programs are not paid — they trade early copies for honest
+        reviews, which is good value for a heavy reader but is compensation in books. And anyone
+        offering cash for retail reviews is asking you to violate retailer policy; that is not a
+        side income, it is a liability.
+      </p>
+
+      <h2>The roles compared</h2>
+    </div>
+
+    <div class="mt-6 overflow-x-auto">
+      <table class="w-full min-w-[560px] border-collapse text-sm">
+        <thead>
+          <tr>
+            <th class="border-b border-[var(--color-border)] pb-2 pr-4 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">Role</th>
+            <th class="border-b border-[var(--color-border)] pb-2 pr-4 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">The work</th>
+            <th class="border-b border-[var(--color-border)] pb-2 text-left text-xs font-semibold uppercase tracking-wider text-[var(--color-text-muted)]">Entry requirement</th>
+          </tr>
+        </thead>
+        <tbody>
+          {ROLES.map((role) => (
+            <tr class="align-top">
+              <td class="border-b border-[var(--color-border)] py-3 pr-4 font-semibold text-white">
+                <a href={professionalUrl('apply', role.applyContent)} target="_blank" rel="noopener" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white">
+                  {role.name}
+                </a>
+              </td>
+              <td class="border-b border-[var(--color-border)] py-3 pr-4 leading-relaxed text-[#bbb]">{role.work}</td>
+              <td class="border-b border-[var(--color-border)] py-3 leading-relaxed text-[#999]">
+                {role.requirement ?? 'Portfolio and track record.'}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="prose mt-8">
+      <h2>What the rates look like</h2>
+      <p>{BETA_RATE_NOTE}</p>
+      <p>
+        Narration is quoted per finished hour, editing per project or per word, and visual work per
+        tier — with listed art prices required to include a commercial publishing license, so
+        quotes assume commercial use rather than treating it as an add-on.
+      </p>
+      <p>
+        The reverse route exists too: authors and publishers on paid plans post casting calls,
+        private paid briefs matched to approved professionals by role fit, availability, content
+        comfort, and budget. Matched professionals see the brief; posters never see private rates
+        or hard limits.
+      </p>
+
+      <h2>Process and timeline</h2>
+      <p>{REVIEW_NOTE}</p>
+      <p>
+        Approved professionals get a public profile, a dashboard covering profile views, unique
+        visitors, contact reveals and the search terms that surfaced them, matched casting-call
+        access, and a pause control for when the queue is full.
+      </p>
+    </div>
+
+    <div class="mt-12 flex flex-col gap-4">
+      <ProfessionalCTA mode="earn" surface="hub" />
+      <ProfessionalCTA mode="create" surface="hub" />
+      <ProfessionalCTA mode="hire" surface="hub" />
+    </div>
+
+    <FaqBlock items={faq} heading="Frequently asked" />
+
+    <p class="mt-10 border-t border-[var(--color-border)] pt-5 text-sm text-[var(--color-text-muted)]">
+      Same program, other shelves:
+      <a href="https://litrpgcritic.com/for-professionals/" rel="noopener" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white">LitRPG Critic</a>
+      covers it for LitRPG specifically, and
+      <a href="https://haremlitguide.com/for-professionals/" rel="noopener" class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white">HaremLit Guide</a>
+      for harem fantasy and men's romance.
+    </p>
+  </div>
+</BaseLayout>

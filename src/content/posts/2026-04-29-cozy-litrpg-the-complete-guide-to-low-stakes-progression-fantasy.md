@@ -4,7 +4,7 @@ description: "Cozy LitRPG is one of the fastest-growing subgenres in power fanta
 date: "2026-04-29"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["cozy LitRPG", "progression fantasy", "farming fantasy", "slice of life", "tavern keeper", "power fantasy", "genre guide", "LitRPG"]
+tags: ["cozy LitRPG", "progression fantasy", "Farming Fantasy", "slice of life", "tavern keeper", "power fantasy", "Genre Guide", "LitRPG"]
 featured: false
 ---
 

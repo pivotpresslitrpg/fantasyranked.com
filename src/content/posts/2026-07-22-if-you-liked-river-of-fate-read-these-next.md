@@ -4,7 +4,7 @@ description: "River of Fate hooked you with xianxia cultivation, deep progressio
 date: "2026-07-22"
 type: "books_like"
 author: "Fantasy Ranked Editorial"
-tags: [cultivation, xianxia, litrpg, progression-fantasy, power-fantasy, river-of-fate, david-north]
+tags: []
 featured: false
 ---
 

@@ -4,7 +4,7 @@ description: "A practical look at LitRPGTools.com — the LitRPG book database, 
 date: "2026-05-13"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "cultivation", "system apocalypse", "tools", "platform", "book database", "ai generators"]
+tags: ["LitRPG", "progression fantasy", "cultivation", "system apocalypse", "tools", "platform", "book database", "ai generators"]
 featured: false
 ---
 

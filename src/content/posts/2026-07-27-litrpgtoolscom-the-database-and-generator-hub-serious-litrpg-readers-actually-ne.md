@@ -4,7 +4,7 @@ description: "A practical look at what LitRPGTools.com offers — from its commu
 date: "2026-07-27"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "tools", "platform", "book database", "character builds", "community ratings"]
+tags: ["LitRPG", "progression fantasy", "tools", "platform", "book database", "character builds", "community ratings"]
 featured: false
 ---
 

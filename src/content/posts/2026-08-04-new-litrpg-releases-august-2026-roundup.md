@@ -4,7 +4,7 @@ description: "The best new LitRPG and progression fantasy releases hitting shelv
 date: "2026-08-04"
 type: "new_releases"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "new releases", "progression fantasy", "system apocalypse", "roundup"]
+tags: ["LitRPG", "new releases", "progression fantasy", "system apocalypse", "roundup"]
 featured: false
 ---
 

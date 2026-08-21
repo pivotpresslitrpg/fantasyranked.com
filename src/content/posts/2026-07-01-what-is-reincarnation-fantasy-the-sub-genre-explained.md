@@ -4,7 +4,7 @@ description: "Reincarnation fantasy is one of the fastest-growing corners of Lit
 date: "2026-07-01"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Reincarnation Fantasy", "Isekai", "LitRPG", "Progression Fantasy", "Cultivation", "Genre Explainer"]
+tags: ["Reincarnation Fantasy", "isekai", "LitRPG", "progression fantasy", "cultivation", "Genre Explainer"]
 featured: false
 ---
 
@@ -29,7 +29,7 @@ The appeal is obvious once you understand it. There's something uniquely satisfy
 This sub-genre is a natural fit for readers who love:
 
 - **Progression fantasy** — watching a character grow from a known baseline toward something greater
-- **[Cultivation fiction](/blog/what-is-cultivation-fiction/)** — many xianxia and wuxia stories heavily feature reincarnation cycles
+- **[Cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/)** — many xianxia and wuxia stories heavily feature reincarnation cycles
 - **Strategic protagonists** — characters who plan ahead, exploit foreknowledge, and outthink opponents
 - **Emotional depth** — the grief, guilt, or second-chance hope that comes with dying and starting over
 

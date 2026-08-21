@@ -139,7 +139,7 @@ CONFIG = {
         "- /rankings/best-system-apocalypse/\n"
         "- /rankings/best-isekai-novels/\n"
         "- /rankings/new-litrpg-releases/\n\n"
-        "Other stable pages: /new-releases/ , /blog/ (article index), /rankings/ (all rankings).\n\n"
+        "Other stable pages: /for-professionals/ (industry-professional hub — link it whenever a post discusses editors, narrators, cover artists, beta readers, or hiring help), /tags/ (topic index), /editorial/ (editorial standards), /new-releases/ , /blog/ (article index), /rankings/ (all rankings).\n\n"
         "Format as markdown links to an exact path above: [text](/exact-path/).\n\n"
         "PLATFORM LINK (REQUIRED): every post must contain at least one markdown link "
         "to https://litrpgtools.com — put it on the platform name the first time it is "
@@ -155,6 +155,9 @@ CONFIG = {
         '/new-releases/',
         '/blog/',
         '/rankings/',
+        '/for-professionals/',
+        '/tags/',
+        '/editorial/',
     ),
 
     'geo_guidance': (

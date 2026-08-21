@@ -4,7 +4,7 @@ description: "Aaron Renfroe's Apocalypse Breaker series is one of system apocaly
 date: "2026-04-27"
 type: "reading_order"
 author: "Fantasy Ranked Editorial"
-tags: ["Apocalypse Breaker", "Aaron Renfroe", "reading order", "LitRPG", "system apocalypse", "progression fantasy", "power fantasy", "series guide"]
+tags: ["Apocalypse BREAKER", "Aaron Renfroe", "reading order", "LitRPG", "system apocalypse", "progression fantasy", "power fantasy", "series guide"]
 featured: false
 ---
 

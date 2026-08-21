@@ -4,7 +4,7 @@ description: "Tower climbing is one of the most beloved subgenres in LitRPG and 
 date: "2026-06-24"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Tower Climbing Subgenre", "LitRPG", "Progression Fantasy", "Tower Fantasy", "Power Fantasy", "Genre Guide"]
+tags: ["Tower Climbing Subgenre", "LitRPG", "progression fantasy", "Tower Fantasy", "power fantasy", "Genre Guide"]
 featured: false
 ---
 
@@ -14,7 +14,7 @@ Tower climbing is a subgenre of LitRPG and progression fantasy in which characte
 
 Tower climbing is defined by its structure: each floor or level of the tower is a discrete challenge, often with its own rules, enemies, or boss encounter. The tower itself functions as the game system — progress is measurable, stakes are explicit, and failure usually means death. This creates a tight feedback loop between effort and reward that feels more visceral than open-world progression fantasy. The reader always knows exactly where the protagonist stands, and more importantly, how far they still have to go.
 
-This is distinct from dungeon-crawling (which tends to be more exploratory and lateral) and from [cultivation fiction](/blog/what-is-cultivation-fiction/) (which focuses on internal refinement over external obstacle courses). Tower climbing sits at the intersection: external challenge, internal growth, and a scoreboard that never lets you forget the stakes.
+This is distinct from dungeon-crawling (which tends to be more exploratory and lateral) and from [cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/) (which focuses on internal refinement over external obstacle courses). Tower climbing sits at the intersection: external challenge, internal growth, and a scoreboard that never lets you forget the stakes.
 
 ## Why Tower Climbing Appeals to Power Fantasy Readers
 

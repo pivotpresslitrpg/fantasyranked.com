@@ -4,7 +4,7 @@ description: "GameLit is one of the fastest-growing corners of power fantasy fic
 date: "2026-06-05"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["GameLit", "LitRPG", "progression fantasy", "power fantasy", "genre guide", "gateway books"]
+tags: ["GameLit", "LitRPG", "progression fantasy", "power fantasy", "Genre Guide", "Gateway Books"]
 featured: false
 ---
 
@@ -48,7 +48,7 @@ Ranked by a combination of community rating, accessibility for newcomers, and ov
 
 ## How GameLit Connects to the Broader Power Fantasy Landscape
 
-GameLit doesn't exist in isolation. It bleeds naturally into [cultivation fiction](/blog/what-is-cultivation-fiction) — plenty of xianxia-inspired works layer cultivation mechanics onto explicit game systems — and into system apocalypse, dungeon core, and progression fantasy more broadly. The mechanical DNA of GameLit is showing up everywhere.
+GameLit doesn't exist in isolation. It bleeds naturally into [cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/) — plenty of xianxia-inspired works layer cultivation mechanics onto explicit game systems — and into system apocalypse, dungeon core, and progression fantasy more broadly. The mechanical DNA of GameLit is showing up everywhere.
 
 If you're new to the genre and want to map the full landscape, [LitRPGTools.com](https://LitRPGTools.com) is the best community tool available for tracking what you've read, discovering crossovers, and finding your next obsession.
 

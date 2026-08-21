@@ -4,7 +4,7 @@ description: "Dungeon core fiction is one of the most creative corners of LitRPG
 date: "2026-05-18"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Dungeon Core", "LitRPG", "Progression Fantasy", "Power Fantasy", "Sub-Genre Guide"]
+tags: ["dungeon core", "LitRPG", "progression fantasy", "power fantasy", "Sub-Genre Guide"]
 featured: false
 ---
 

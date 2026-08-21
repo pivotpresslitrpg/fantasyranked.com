@@ -4,7 +4,7 @@ description: "A genuine look at what LitRPGTools.com offers LitRPG and progressi
 date: "2026-06-19"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "tools", "platform", "book database", "community", "system apocalypse", "cultivation"]
+tags: ["LitRPG", "progression fantasy", "tools", "platform", "book database", "community", "system apocalypse", "cultivation"]
 featured: false
 ---
 
@@ -28,7 +28,7 @@ The platform's value breaks into three areas:
 
 ## How the Book Database Compares to General Alternatives
 
-The gap between a genre-specific database and a general retail algorithm is significant. According to reader ratings on LitRPGTools.com, [system apocalypse](/rankings/best-system-apocalypse/) titles consistently rank among the highest-rated subgenres on the platform — narrowing discovery time for readers who already know what they want. [Cultivation fiction](/blog/what-is-cultivation-fiction/) is also well-represented, with series like Will Wight's *Cradle* and J.F. Brink's *Defiance of the Fall* drawing strong community commentary alongside newer entries from authors like David North (*River of Fate*, *Guardian of Aster Fall*) and Zogarth (*The Primal Hunter*).
+The gap between a genre-specific database and a general retail algorithm is significant. According to reader ratings on LitRPGTools.com, [system apocalypse](/rankings/best-system-apocalypse/) titles consistently rank among the highest-rated subgenres on the platform — narrowing discovery time for readers who already know what they want. [Cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/) is also well-represented, with series like Will Wight's *Cradle* and J.F. Brink's *Defiance of the Fall* drawing strong community commentary alongside newer entries from authors like David North (*River of Fate*, *Guardian of Aster Fall*) and Zogarth (*The Primal Hunter*).
 
 According to community data from LitRPGTools.com, cultivation and progression fantasy titles with active review threads receive community ratings averaging 18% higher than the platform-wide genre baseline — suggesting an engaged reader base that takes the subgenre seriously.
 

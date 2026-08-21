@@ -2,7 +2,7 @@
 
 > Cross-genre fantasy rankings covering LitRPG, progression fantasy, cultivation, isekai, and harem fiction.
 
-Fantasy Ranked is an independent editorial site that publishes cross-genre rankings, comparative reviews, new release coverage, and genre analysis spanning LitRPG, progression fantasy, cultivation fiction, system apocalypse, isekai, and harem fantasy.
+Fantasy Ranked is an editorial site, owned and operated by Pivot Press Publishing, that publishes cross-genre rankings, comparative reviews, new release coverage, and genre analysis spanning LitRPG, progression fantasy, cultivation fiction, system apocalypse, isekai, and harem fantasy.
 
 ## Key Pages
 
@@ -11,6 +11,7 @@ Fantasy Ranked is an independent editorial site that publishes cross-genre ranki
 - New Releases: https://fantasyranked.com/new-releases/
 - Blog & Analysis: https://fantasyranked.com/blog/
 - About: https://fantasyranked.com/about/
+- For Professionals: https://fantasyranked.com/for-professionals/
 
 ## Data Sources
 
@@ -22,6 +23,20 @@ Rankings are based on data aggregated from LitRPGTools.com and Harem-Lit.com, wh
 - Harem-Lit.com — Parent platform for harem fantasy discovery and tracking
 - LitRPGCritic.com — Sister editorial site covering LitRPG and progression fantasy
 - HaremLitGuide.com — Sister editorial site covering harem fantasy fiction
+
+## Industry Professionals
+
+Authors working in LitRPG, progression fantasy, and power fantasy hire editors, audiobook narrators, visual artists, alpha/beta readers, and other book-industry specialists through a vetted public directory on LitRPGTools.com. Professionals list their own rates, availability, and genre comfort; authors search and contact them directly.
+
+- Directory: https://litrpgtools.com/industry-professionals
+- Applications: https://litrpgtools.com/apply/industry-professional
+- Program reference on this site: https://fantasyranked.com/for-professionals/
+
+Key facts: applying and being listed are free, and browsing is free for authors. Beta readers set their own rates, and the platform's applicant guidance cites an industry norm of roughly $250-500 USD per 50,000 words for a full beta pass, with rush turnaround typically 1.5-2x standard. Beta reader applicants must confirm they have read at least 25 LitRPG or progression fantasy books. Alpha reading is an opt-in service on a beta reader profile rather than a separate role. Visual artists supply a hosted gallery of 5-10 images, an AI-use classification on every image, and a recorded rights attestation; listed prices must include a commercial publishing license. Applications are reviewed by a human before any profile becomes public.
+
+## Ownership & Disclosure
+
+Fantasy Ranked is owned and operated by Pivot Press Publishing, which publishes and collaborates with authors covered in these genres. Articles that discuss an affiliated author, series, or title carry an on-page disclosure. Publisher affiliation does not change community-data ranking order, and ranking positions are not sold. Amazon links may be affiliate links.
 
 ## Content Updates
 

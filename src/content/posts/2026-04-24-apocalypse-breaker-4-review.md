@@ -4,7 +4,7 @@ description: "Apocalypse Breaker Book 4 by Aaron Renfroe delivers the biggest, m
 date: "2026-04-24"
 type: "book_report"
 author: "Fantasy Ranked Editorial"
-tags: ["Apocalypse Breaker", "Aaron Renfroe", "LitRPG", "system apocalypse", "progression fantasy", "power fantasy", "book review"]
+tags: ["Apocalypse BREAKER", "Aaron Renfroe", "LitRPG", "system apocalypse", "progression fantasy", "power fantasy", "book review"]
 featured: true
 ---
 

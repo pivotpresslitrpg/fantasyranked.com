@@ -4,7 +4,7 @@ description: "Fans of Matt Dinniman's Dungeon Crawler Carl love its chaotic humo
 date: "2026-04-20"
 type: "books_like"
 author: "Fantasy Ranked Editorial"
-tags: ["dungeon crawler carl", "litrpg", "system apocalypse", "progression fantasy", "dungeon core", "recommended reads"]
+tags: ["Dungeon Crawler Carl", "LitRPG", "system apocalypse", "progression fantasy", "dungeon core", "recommended reads"]
 featured: false
 ---
 

@@ -4,7 +4,7 @@ description: "Isekai is one of the most popular sub-genres in power fantasy. Her
 date: "2026-07-29"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["Isekai", "LitRPG", "Progression Fantasy", "Power Fantasy", "Genre Guide"]
+tags: ["isekai", "LitRPG", "progression fantasy", "power fantasy", "Genre Guide"]
 featured: false
 ---
 

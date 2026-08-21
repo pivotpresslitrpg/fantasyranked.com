@@ -4,7 +4,7 @@ description: "LitRPG and progression fantasy look similar from the outside — b
 date: "2026-04-08"
 type: "genre_explainer"
 author: "Fantasy Ranked Editorial"
-tags: ["LitRPG vs Progression Fantasy", "LitRPG", "progression fantasy", "genre explainer", "power fantasy", "gateway books"]
+tags: ["LitRPG vs Progression Fantasy", "LitRPG", "progression fantasy", "Genre Explainer", "power fantasy", "Gateway Books"]
 featured: false
 ---
 

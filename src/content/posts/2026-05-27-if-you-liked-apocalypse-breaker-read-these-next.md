@@ -4,7 +4,7 @@ description: "Loved Aaron Renfroe's Apocalypse Breaker? Here are the best books 
 date: "2026-05-27"
 type: "books_like"
 author: "Fantasy Ranked Editorial"
-tags: ["LitRPG", "system apocalypse", "progression fantasy", "power fantasy", "books like apocalypse breaker", "aaron renfroe"]
+tags: ["LitRPG", "system apocalypse", "progression fantasy", "power fantasy", "books like apocalypse breaker", "Aaron Renfroe"]
 featured: false
 ---
 
@@ -37,7 +37,7 @@ If you appreciated the crafting and build-layer depth in *Apocalypse Breaker*, N
 Staying in Renfroe's catalog is the obvious move. *Father of Constructs* shares the same mechanical confidence and punchy pacing as *Apocalypse Breaker*, and according to community data from [LitRPGTools.com](https://LitRPGTools.com), readers who finish one Renfroe title have an 80%+ completion rate on his others.
 
 **7. Cradle Series — Will Wight**
-For readers ready to branch into [cultivation fiction](/blog/what-is-cultivation-fiction), *Cradle* is the gold standard entry point. The progression philosophy — protagonist claws upward through a world of overwhelming power — maps directly onto what makes *Apocalypse Breaker* satisfying.
+For readers ready to branch into [cultivation fiction](https://litrpgcritic.com/blog/what-is-cultivation-fiction/), *Cradle* is the gold standard entry point. The progression philosophy — protagonist claws upward through a world of overwhelming power — maps directly onto what makes *Apocalypse Breaker* satisfying.
 
 **8. The Divine Dungeon / Completionist Chronicles — Dakota Krout**
 Krout's systems are inventive and his power curves are steep. Both series reward readers who like understanding exactly how every ability stacks, which puts them squarely in *Apocalypse Breaker* territory.

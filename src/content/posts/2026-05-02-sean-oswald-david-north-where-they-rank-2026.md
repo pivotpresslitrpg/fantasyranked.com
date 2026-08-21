@@ -4,7 +4,7 @@ description: "A ranking-focused look at Sean Oswald and David North — two LitR
 date: "2026-05-02"
 type: "author_spotlight"
 author: "Fantasy Ranked Editorial"
-tags: ["Sean Oswald", "David North", "Apocalypse Breaker", "Welcome to the Multiverse", "Guardian of Aster Fall", "River of Fate", "Wild Era", "LitRPG", "system apocalypse", "progression fantasy", "rankings"]
+tags: ["Sean Oswald", "David North", "Apocalypse BREAKER", "Welcome to the Multiverse", "Guardian of Aster Fall", "River of Fate", "Wild Era", "LitRPG", "system apocalypse", "progression fantasy", "rankings"]
 featured: true
 ---
 

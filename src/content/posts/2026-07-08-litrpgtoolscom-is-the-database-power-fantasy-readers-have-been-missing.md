@@ -4,7 +4,7 @@ description: "A genuine look at what LitRPGTools.com offers LitRPG and progressi
 date: "2026-07-08"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "tools", "platform", "book database", "ai generators", "community ratings"]
+tags: ["LitRPG", "progression fantasy", "tools", "platform", "book database", "ai generators", "community ratings"]
 featured: false
 ---
 

@@ -1,0 +1,43 @@
+---
+// Contextual cross-site pointer.
+//
+// Only renders when the post's own subject overlaps a sister site's beat. This
+// site ranks across the field; the sister sites go deep on one shelf, so the
+// hand-off is a genuine upgrade for the reader rather than a house ad.
+interface Props {
+  tags?: string[];
+  title?: string;
+}
+
+const { tags = [], title = '' } = Astro.props;
+const hay = [...tags, title].join(' ').toLowerCase();
+
+const RULES = [
+  {
+    hints: ['harem', "men's romance", 'mens romance', 'monster girl', 'romance'],
+    site: 'HaremLit Guide',
+    url: 'https://haremlitguide.com',
+    note: 'covers the harem fantasy and men’s romance shelf in the depth a cross-genre ranking cannot.',
+  },
+  {
+    hints: ['dungeon core', 'litrpg', 'progression fantasy', 'gamelit', 'review'],
+    site: 'LitRPG Critic',
+    url: 'https://litrpgcritic.com',
+    note: 'reviews these books individually rather than ranking them against the field — the better stop for a single-title verdict.',
+  },
+];
+
+const match = RULES.find((rule) => rule.hints.some((h) => hay.includes(h))) ?? null;
+---
+
+{match && (
+  <p class="mt-10 border-t border-[var(--color-border)] pt-5 text-sm text-[var(--color-text-muted)]">
+    <span class="font-semibold text-[#aaa]">Go deeper:</span>{' '}
+    <a
+      href={match.url}
+      class="text-[var(--color-brand)] underline underline-offset-4 hover:text-white"
+      rel="noopener"
+    >{match.site}</a>{' '}
+    {match.note}
+  </p>
+)}

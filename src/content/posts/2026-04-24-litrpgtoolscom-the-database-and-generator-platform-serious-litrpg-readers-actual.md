@@ -4,7 +4,7 @@ description: "LitRPGTools.com combines a searchable LitRPG book database with AI
 date: "2026-04-24"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
-tags: ["litrpg", "progression fantasy", "tools", "platform", "book database", "community ratings", "AI generators"]
+tags: ["LitRPG", "progression fantasy", "tools", "platform", "book database", "community ratings", "ai generators"]
 featured: false
 ---
 
