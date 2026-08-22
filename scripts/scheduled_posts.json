@@ -16,7 +16,8 @@
       "post_type": "critical_opinion",
       "draft": "scheduled_posts/why-fantasy-rankings-need-more-than-one-discovery-lane.md",
       "manifest": "research_sources/discovery-lanes-2026-08-12.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-08-22"
     }
   ]
 }
