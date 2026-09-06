@@ -1,7 +1,7 @@
 ---
 title: "Author Studio vs Canva for Fantasy Authors: What a Genre Design Tool Does Differently"
 description: "LitRPGTools shipped a free in-browser comic and graphics studio. Ranked against a general design tool on the five things an author actually needs: right sizes, comic-native tools, privacy, portability, and cost."
-date: "2026-09-07"
+date: "2026-09-14"
 type: "platform_bridge"
 author: "Fantasy Ranked Editorial"
 tags: ["litrpgtools.com", "author studio", "platform features", "comic maker", "author tools", "Patreon", "power fantasy"]
