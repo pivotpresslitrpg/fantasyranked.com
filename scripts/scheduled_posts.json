@@ -142,6 +142,14 @@
       "draft": "scheduled_posts/resonance-cycle-10-second-look-character.md",
       "manifest": "research_sources/resonance-cycle-10-second-look-character.json",
       "status": "scheduled"
+    },
+    {
+      "publish_date": "2026-11-04",
+      "slug": "fantasy-book-conventions-watch-2027",
+      "post_type": "reader_guide",
+      "draft": "scheduled_posts/fantasy-book-conventions-watch-2027.md",
+      "manifest": "research_sources/fantasy-book-conventions-watch-2027.json",
+      "status": "scheduled"
     }
   ]
 }

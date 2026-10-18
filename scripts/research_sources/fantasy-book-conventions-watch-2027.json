@@ -1,0 +1,394 @@
+{
+  "frozen_at": "2026-10-18",
+  "approved_at": "2026-10-18",
+  "evidence_scope": "Approved editorial draft. Product figures supplied by Aaron in the scheduling brief; illustrative times, booth numbers, quantities and list ordinals are not observed event measurements.",
+  "publication_note": "<!-- publishAt: 2026-11-04T11:35:00-07:00 (America/Denver); editorial draft only. -->",
+  "publication_policy": "Pipeline uses publish_date (UTC day); original draft clock time is editorial metadata only.",
+  "allowed_numbers": [
+    "00",
+    "1",
+    "1,135",
+    "11",
+    "16,000",
+    "18",
+    "2",
+    "2026",
+    "2027",
+    "223",
+    "3",
+    "30",
+    "5",
+    "50,000",
+    "6",
+    "600",
+    "9",
+    "85"
+  ],
+  "number_sources": [
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "title: \"Fantasy Book Conventions 2027 Reader Guide: Choosing Between LitRPG Con, Worldcon, and Dragon Con\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "description: \"Use this fantasy book conventions 2027 reader guide to compare verified dates and vibes for LitRPG Con, Worldcon, and Dragon Con.\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "tags: [\"fantasy\",\"conventions\",\"2027\",\"reader guide\",\"LitRPG\"]",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "  - q: \"How should fantasy readers choose which 2027 book convention to attend?\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "  - q: \"When and where is LitRPG Con 2027 taking place?\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "18",
+        "2026",
+        "2027",
+        "9",
+        "11"
+      ],
+      "context": "    a: \"According to the official LitRPG Con website (checked October 18, 2026), LitRPG Con 2027 is scheduled for July 9–11, 2027 at the Grand Hyatt in Denver, Colorado.\"",
+      "kind": "official event dates and venue",
+      "source": "https://litrpgcon.com/"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "  - q: \"Do Montréal Worldcon and Dragon Con overlap in 2027?\"",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2",
+        "6",
+        "2027",
+        "18",
+        "2026"
+      ],
+      "context": "    a: \"Yes. Both Montréal Worldcon and Dragon Con list September 2–6, 2027 on their official announcements (checked October 18, 2026), so readers planning a Labor Day weekend trip will want to pick one destination.\"",
+      "kind": "official event dates, venue or edition",
+      "source": "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/ ; https://www.dragoncon.org/"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "Planning your travel with a fantasy book conventions 2027 reader guide starts with one honest question: do you want an intimate hotel weekend where every single panel and dealer table speaks your exact subgenre, a massive international science fiction and fantasy literary gathering, or a sprawling multi-hotel pop-culture festival with dedicated fantasy book tracks?",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027",
+        "18",
+        "2026"
+      ],
+      "context": "Three standout events belong on every fantasy reader's 2027 calendar: LitRPG Con in Denver, the 2027 Worldcon in Montréal, and Dragon Con in Atlanta. Every date and venue below was verified against official event announcements on October 18, 2026. Because 2027 guest rosters and signing schedules are still being announced, check each official site for live updates before locking in non-refundable flights.",
+      "kind": "approved editorial as-of date or roadmap statement",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "## How does this fantasy book conventions 2027 reader guide help you pick the right weekend?",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027",
+        "50,000"
+      ],
+      "context": "This fantasy book conventions 2027 reader guide compares each event's verified dates, city, literary focus, and floor experience so you can match your trip to the books you actually read. Choosing the right scale up front prevents booking a 50,000-person cosplay spectacle when you really wanted quiet hallway chats about progression magic systems.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "Before you book a hotel block, look at the three distinct flavors on the 2027 map:",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "9",
+        "11",
+        "2027"
+      ],
+      "context": "* **Subgenre-deep & community-tight:** LitRPG Con (July 9–11, 2027, Denver).",
+      "kind": "official event dates and venue",
+      "source": "https://litrpgcon.com/"
+    },
+    {
+      "numbers": [
+        "2",
+        "6",
+        "2027"
+      ],
+      "context": "* **Broad SFF literary tradition & awards:** Montréal Worldcon (September 2–6, 2027, Montréal).",
+      "kind": "official event dates, venue or edition",
+      "source": "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/"
+    },
+    {
+      "numbers": [
+        "2",
+        "6",
+        "2027"
+      ],
+      "context": "* **High-energy multi-fandom marathon with book tracks:** Dragon Con (September 2–6, 2027, Atlanta).",
+      "kind": "official event dates, venue or edition",
+      "source": "https://www.dragoncon.org/"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "## Why should progression fantasy and LitRPG readers circle LitRPG Con 2027 in Denver?",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027",
+        "18",
+        "2026",
+        "9",
+        "11"
+      ],
+      "context": "LitRPG Con 2027 gives readers three days dedicated specifically to LitRPG, progression fantasy, and game-lit books under one hotel roof. According to the [official LitRPG Con site]() (checked October 18, 2026), the convention runs July 9–11, 2027 at the Grand Hyatt in Denver.",
+      "kind": "official event dates and venue",
+      "source": "https://litrpgcon.com/"
+    },
+    {
+      "numbers": [
+        "2026",
+        "600",
+        "1,135",
+        "223",
+        "16,000",
+        "2027"
+      ],
+      "context": "LitRPG Con also runs on ConRoster, the convention platform built for gaming, fan and book conventions. At LitRPG Con 2026, about 600 app users logged 1,135 quest completions from 223 users and about 16,000 schedule shares. For readers, that means the convention app connects author panel listings directly to their dealer hall signing booths and displays author pages populated with books, covers, and series data from [LitRPG Tools]()—plus offline schedule caching and QR quests between sessions. (Check the [official LitRPG Con site]() as 2027 guest announcements and signing rules go live.)",
+      "kind": "observed product figures",
+      "source": "Pivot Press ConRoster product summary, 2026-10-18"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "## What makes Montréal Worldcon 2027 a strong choice for traditional SFF readers?",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027",
+        "18",
+        "2026",
+        "2",
+        "6",
+        "85"
+      ],
+      "context": "Montréal Worldcon 2027 is the 85th World Science Fiction Convention, offering five days of broad science fiction and fantasy panels, pitch sessions, and the Hugo Awards. According to the [official Worldcon announcement]() (checked October 18, 2026), it takes place September 2–6, 2027 at the Palais des Congrès de Montréal and surrounding hotels.",
+      "kind": "official event dates, venue or edition",
+      "source": "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/",
+      "edition_provenance": "85th edition is retained from the approved draft; not independently confirmed by the fetched Worldcon announcement."
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "Keep two practical planning notes in mind if you are eyeing Montréal for September 2027:",
+      "kind": "official event dates, venue or edition",
+      "source": "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/"
+    },
+    {
+      "numbers": [
+        "2027",
+        "18",
+        "2026"
+      ],
+      "context": "* **Follow the host updates:** Check the [Montréal 2027 official event site]() (checked October 18, 2026) for membership rates, hotel block openings, and programming announcements as they roll out.",
+      "kind": "approved editorial as-of date or roadmap statement",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "* **Check cross-border travel early:** If you are traveling from the United States or overseas, verify your passport validity and travel requirements well before summer 2027.",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "## How should fantasy readers weigh Dragon Con 2027 against the Labor Day overlap?",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2027",
+        "2",
+        "6",
+        "18",
+        "2026"
+      ],
+      "context": "Dragon Con 2027 runs September 2–6, 2027 in downtown Atlanta according to the [official Dragon Con site]() (checked October 18, 2026)—the exact same Labor Day weekend as Montréal Worldcon. Choose Dragon Con if you want fantasy and urban fantasy book panels surrounded by massive cosplay, gaming halls, and late-night fan tracks.",
+      "kind": "official event dates, venue or edition",
+      "source": "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/ ; https://www.dragoncon.org/"
+    },
+    {
+      "numbers": [
+        "2",
+        "6",
+        "2027"
+      ],
+      "context": "Because Montréal Worldcon and Dragon Con share September 2–6, 2027, most readers will need to choose one Labor Day trip. The decision comes down to the atmosphere you want between panels:",
+      "kind": "official event dates, venue or edition",
+      "source": "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/ ; https://www.dragoncon.org/"
+    },
+    {
+      "numbers": [
+        "2027"
+      ],
+      "context": "Always check the [official Dragon Con site]() closer to the show for confirmed 2027 author guests, hotel track locations, and autograph line rules, as multi-hotel walks in downtown Atlanta take real time between back-to-back sessions.",
+      "kind": "editorial event-year framing",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "30"
+      ],
+      "context": "Build your daily convention plan around one must-see panel and one priority author signing per day, leaving open 30-minute buffers for queues, hallway discoveries, and basement elevators. When attending conventions that use modern reader apps, cache your schedule before leaving hotel lobby Wi-Fi and link author profiles to their booth numbers.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "9",
+        "00",
+        "5"
+      ],
+      "context": "Even the most dedicated reader hits a wall if they schedule seven consecutive panels from 9:00 am to 5:00 pm. Give yourself room to enjoy the weekend:",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "1"
+      ],
+      "context": "1. **Pick your anchor book before packing:** Decide which hardcover or series starter you most want signed and pack it in a protective sleeve inside a comfortable shoulder bag.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "2"
+      ],
+      "context": "2. **Use app tools to connect panels and booths:** At events powered by ConRoster—you can see how the reader planner works on the [ConRoster attendee overview]()—you can check schedule conflicts, view an author's LitRPG Tools series list, tap straight from their panel listing to their dealer hall booth pin, and even see limited-item badges or place item holds at participating vendor storefronts.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    },
+    {
+      "numbers": [
+        "3"
+      ],
+      "context": "3. **Keep a discovery note on your phone:** Whenever a panelist mentions a compelling magic system or crafting hook, jot down the author, series starter, and why it caught your ear so you know exactly which book to start on the flight home.",
+      "kind": "illustrative example, list ordinal or planning advice; not measured event data",
+      "source": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md"
+    }
+  ],
+  "product_summary": {
+    "label": "Pivot Press ConRoster product summary, 2026-10-18",
+    "text": "LitRPG Con 2026: about 600 app users, 1,135 quest completions from 223 users, about 16,000 schedule shares.",
+    "provenance": "Aaron-approved scheduling brief, 2026-10-18; supplied figures, not independently queried analytics."
+  },
+  "internet_sources": [
+    {
+      "url": "https://litrpgcon.com/",
+      "checked_at": "2026-10-18",
+      "scope": "Official dates and venue verified"
+    },
+    {
+      "url": "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/",
+      "checked_at": "2026-10-18",
+      "scope": "Official dates and venue verified"
+    },
+    {
+      "url": "https://site.montreal2027.ca/en",
+      "checked_at": "2026-10-18",
+      "scope": "Linked official host page; browser fetch returned 502. Dates and venue verified via linked Worldcon announcement."
+    },
+    {
+      "url": "https://www.dragoncon.org/",
+      "checked_at": "2026-10-18",
+      "scope": "Official dates and venue verified"
+    },
+    {
+      "url": "https://conroster.com/attendees",
+      "checked_at": "2026-10-18",
+      "scope": "Linked in approved source draft; not independently verified"
+    }
+  ],
+  "source_artifacts": [
+    {
+      "label": "2026-11-04-fantasy-book-conventions-watch-2027.md",
+      "path": "D:\\ConRoster-drafts\\docs\\blog-drafts\\fantasyranked.com\\2026-11-04-fantasy-book-conventions-watch-2027.md",
+      "sha256": "ef15c6a3e219c203d9441c199421a59f592d64026251790f69bc4249796f6b57"
+    },
+    {
+      "label": "Pivot Press ConRoster product summary, 2026-10-18 (UTF-8 text in product_summary.text)",
+      "sha256": "72d38da48a74ab3085490af232860fe021b425e1b72921fe2a5e8b53ba0fda73"
+    }
+  ],
+  "required_phrases": [
+    "about 600",
+    "1,135 quest completions from 223 users",
+    "about 16,000 schedule shares",
+    "both owned by Pivot Press"
+  ],
+  "forbidden_phrases": [],
+  "required_links": [
+    "https://litrpgcon.com/",
+    "https://litrpgtools.com",
+    "https://www.worldcon.org/2025/08/19/montral-selected-to-host-2027-worldcon/",
+    "https://site.montreal2027.ca/en",
+    "https://www.dragoncon.org/",
+    "https://conroster.com/attendees"
+  ],
+  "date_provenance": "October 18, 2026 is the editorial source-check/approval date, not an event date reported by event websites. Frontmatter date is Aaron-approved publication metadata."
+}
