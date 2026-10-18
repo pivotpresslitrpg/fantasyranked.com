@@ -1,7 +1,7 @@
 ---
 title: "Fantasy Book Conventions 2027 Reader Guide: Choosing Between LitRPG Con, Worldcon, and Dragon Con"
 description: "Use this fantasy book conventions 2027 reader guide to compare verified dates and vibes for LitRPG Con, Worldcon, and Dragon Con."
-date: "2026-11-04"
+date: "2026-11-05"
 type: "reader_guide"
 author: "Fantasy Ranked Editorial"
 tags: ["fantasy","conventions","2027","reader guide","LitRPG"]
