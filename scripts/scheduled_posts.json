@@ -153,7 +153,8 @@
       "post_type": "reader_guide",
       "draft": "scheduled_posts/fantasy-book-conventions-watch-2027.md",
       "manifest": "research_sources/fantasy-book-conventions-watch-2027.json",
-      "status": "scheduled"
+      "status": "published",
+      "published_at": "2026-11-05"
     }
   ]
 }
